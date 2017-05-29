@@ -77,3 +77,10 @@ body {
     border-bottom: 0;
   }
 }
+
+.node {
+  border: 1px solid #ddd;
+  border-left: 5px solid #eee;
+  border-right: none;
+  padding-bottom: 1px;
+}
