@@ -84,3 +84,15 @@ body {
   border-right: none;
   padding-bottom: 1px;
 }
+
+.langbranch {
+  display: inline-block;
+  border: 1px solid grey;
+  margin: 2px;
+}
+
+.wordentry {
+  background-color: #eef;
+  margin: 3px;
+  justify: center;
+}
