@@ -31,6 +31,10 @@ angular
         templateUrl: 'views/languages.html',
         controller: 'LanguagesCtrl'
       })
+      .when('/wordtree/:word', {
+        templateUrl: 'views/wordtree.html',
+        controller: 'WordtreeCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
