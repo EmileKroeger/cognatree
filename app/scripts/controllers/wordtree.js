@@ -8,7 +8,39 @@
  * Controller of the cognatreeApp
  */
 angular.module('cognatreeApp')
-  .controller('WordtreeCtrl', function ($scope, $routeParams, $http) {
+  .service('sLangInfo', function ($http) {
+    var LANGINFO_URL = 'data/langinfo.json';
+    var state = {
+      langInfo: null,
+      running: false,
+      callbacks: [],
+    }
+    var callbacks = [];
+    function onReady(callback) {
+      if (state.langInfo) {
+        // We're already done here!
+        callback(state.langInfo);
+      } else {
+        // We'll get called later on
+        state.callbacks.push(callback);
+        if (!state.running) {
+          // Request data
+          state.running = true;
+          $http.get(LANGINFO_URL).success(function(langInfo) {
+            state.langInfo = state.langInfo;
+            state.running = false;
+            state.callbacks.forEach(function(callback) {
+              callback(langInfo);
+            });
+          });
+        }
+      }
+    }
+    return {
+      onReady: onReady,
+    }
+  })
+  .controller('WordtreeCtrl', function ($scope, $routeParams, $http, sLangInfo) {
     var BRANCHES = [
       [
         'Proto-Indo-European',
@@ -41,21 +73,28 @@ angular.module('cognatreeApp')
       ],
       [
         'Latin',
-        "Provencal",
-        "Romansh",
-        "Rumanian",
-        "Italian",
-        "French",
+        'Provencal',
+        'Romansh',
+        'Rumanian',
+        'Italian',
+        'French',
         'Catalan',
         'Spanish',
         'Portuguese St',
       ],
     ];
+    // Prepare families
+    sLangInfo.onReady(function(langInfo) {
+      console.log("got lang info:");
+      console.debug(langInfo);
+    });
+
+    // Handle word
     console.debug($routeParams.word);
     $scope.word = $routeParams.word;
-    var url = 'data/families/english/' + $scope.word + '.json';
+    var wordurl = 'data/families/english/' + $scope.word + '.json';
     $scope.branches = [];
-    $http.get(url).
+    $http.get(wordurl).
     success(function(familydata) {
       console.debug('data:');
       console.debug(familydata);
