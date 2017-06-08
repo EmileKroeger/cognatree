@@ -1,10 +1,11 @@
 <p>Wordtree; meaning = {{meaning}}.</p>
 
-<div ng-repeat="branch in branches" class="langbranch">
+<div ng-repeat="(family, branch) in byFamily" class="langbranch">
+  <div>
+    {{family}}
+  </div>
   <div ng-repeat="entry in branch" class="wordentry"
   ng-style="{'background-color': entry.color}">
-    Family: {{entry.family}}
-    <br>
     {{entry.lang}}
     <br>
     <b>{{entry.writing}}</b>

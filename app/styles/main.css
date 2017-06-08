@@ -86,13 +86,14 @@ body {
 }
 
 .langbranch {
-  display: inline-block;
+  display: block;
   border: 1px solid grey;
   margin: 2px;
   vertical-align:  top;
 }
 
 .wordentry {
+  display: inline-block;
   background-color: #eef;
   margin: 3px;
   justify: center;

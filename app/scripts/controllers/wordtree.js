@@ -14,8 +14,7 @@ angular.module('cognatreeApp')
       langInfo: null,
       running: false,
       callbacks: [],
-    }
-    var callbacks = [];
+    };
     function onReady(callback) {
       if (state.langInfo) {
         // We're already done here!
@@ -65,59 +64,17 @@ angular.module('cognatreeApp')
       'Slavic': '#00ff00',
       'Slavic / Balto-Slavic': '#00ff00',
       'Slavic / West': '#00ff00',
-      }
+      };
 
     return {
       onReady: onReady,
       colors: FAMCOLORS,
-    }
+    };
   })
   .controller('WordtreeCtrl', function ($scope, $routeParams, $http, sLangInfo) {
-    var BRANCHES = [
-      [
-        'Proto-Indo-European',
-      ],
-      [
-        'Old English',
-        'English',
-      ],
-      [
-        'Frisian',
-        'Dutch List',
-        'Flemish',
-      ],
-      [
-        'Gothic',
-        'Old High German',
-        'German',
-        'Standard German (Munich)',
-      ],
-      [
-        'Old Norse',
-        'Norwegian',
-        'Danish',
-        'Danish Fjolde',
-        'Icelandic St',
-      ],
-      [
-        'Old Swedish',
-        'Swedish',
-      ],
-      [
-        'Latin',
-        'Provencal',
-        'Romansh',
-        'Rumanian',
-        'Italian',
-        'French',
-        'Catalan',
-        'Spanish',
-        'Portuguese St',
-      ],
-    ];
     // Prepare families
     sLangInfo.onReady(function(langInfo) {
-      console.log("got lang info:");
+      console.log('got lang info:');
       console.debug(langInfo);
     });
 
@@ -132,33 +89,31 @@ angular.module('cognatreeApp')
       console.debug(familydata);
       $scope.meaning = familydata._MEANING;
       delete familydata._MEANING;
+      var byFamily = {};
       sLangInfo.onReady(function(langInfo) {
-        BRANCHES.forEach(function(branchLanguages) {
-          var branch = [];
-          branchLanguages.forEach(function(lang) {
-            var lang_val = familydata[lang];
+        angular.forEach(familydata, function(wordInLang, lang) {
+          if (wordInLang) {
             var family = '?';
             var color = 'lightgrey';
             if (langInfo[lang]) {
-              family = langInfo[lang]['Family'];
+              family = langInfo[lang].Family;
               color = sLangInfo.colors[family];
             }
-            if (lang_val) {
-              var entry = {
-                family: family,
-                color: color,
-                lang: lang,
-                writing: lang_val[0],
-                pronunciation: lang_val[1],
-              };
-              branch.push(entry);
-              delete familydata[lang];
+            var entry = {
+              family: family,
+              color: color,
+              lang: lang,
+              writing: wordInLang[0],
+              pronunciation: wordInLang[1],
+            };
+            if (!byFamily[family]) {
+              byFamily[family] = [];
             }
-          });
-          if (branch.length) {
-            $scope.branches.push(branch);
+            byFamily[family].push(entry);
+            delete familydata[lang];
           }
         });
+        $scope.byFamily = byFamily;
         $scope.familydata = familydata;
         window.familydata = familydata;
       });
