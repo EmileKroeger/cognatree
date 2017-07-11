@@ -110,9 +110,17 @@ angular.module('cognatreeApp')
               importance: importance,
             };
             if (!byFamily[family]) {
-              byFamily[family] = [];
+              byFamily[family] = {
+                important: [],
+                minor: [],
+                expanded: false,
+              };
             }
-            byFamily[family].push(entry);
+            if (importance >= 2) {
+              byFamily[family].important.push(entry);
+            } else {
+              byFamily[family].minor.push(entry);
+            }
             delete familydata[lang];
           }
         });
