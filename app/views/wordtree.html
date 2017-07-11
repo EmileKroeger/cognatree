@@ -5,12 +5,15 @@
     {{family}}
   </div>
   <div ng-repeat="entry in branch" class="wordentry"
-  ng-style="{'background-color': entry.color}">
+  ng-style="{'background-color': entry.color}"
+  ng-if="entry.importance >= 2">
     {{entry.lang}}
     <br>
     <b>{{entry.writing}}</b>
     <br>
     <i>{{entry.pronunciation}}</i>
+    <br>
+    <i>{{entry.importance}}</i>
     <br>
   </div>
 </div>

@@ -95,9 +95,11 @@ angular.module('cognatreeApp')
           if (wordInLang) {
             var family = '?';
             var color = 'lightgrey';
+            var importance = 0;
             if (langInfo[lang]) {
               family = langInfo[lang].Family;
               color = sLangInfo.colors[family];
+              importance = langInfo[lang].importance
             }
             var entry = {
               family: family,
@@ -105,6 +107,7 @@ angular.module('cognatreeApp')
               lang: lang,
               writing: wordInLang[0],
               pronunciation: wordInLang[1],
+              importance: importance,
             };
             if (!byFamily[family]) {
               byFamily[family] = [];
