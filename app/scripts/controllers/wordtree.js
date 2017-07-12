@@ -74,8 +74,8 @@ angular.module('cognatreeApp')
   .controller('WordtreeCtrl', function ($scope, $routeParams, $http, sLangInfo) {
     // Prepare families
     sLangInfo.onReady(function(langInfo) {
-      console.log('got lang info:');
-      console.debug(langInfo);
+      //console.log('got lang info:');
+      //console.debug(langInfo);
     });
 
     // Handle word
@@ -85,8 +85,8 @@ angular.module('cognatreeApp')
     $scope.branches = [];
     $http.get(wordurl).
     success(function(familydata) {
-      console.debug('data:');
-      console.debug(familydata);
+      //console.debug('data:');
+      //console.debug(familydata);
       $scope.meaning = familydata._MEANING;
       delete familydata._MEANING;
       var byFamily = {};
@@ -141,6 +141,7 @@ angular.module('cognatreeApp')
                 parts = family.split(" / ");
               }
               var branch = {
+                color: color,
                 family: family,
                 parts: parts,
                 important: [],
@@ -148,7 +149,7 @@ angular.module('cognatreeApp')
                 expanded: false,
               };
               byFamily[family] = branch;
-              console.log("processing family: " + family);
+              //console.log("processing family: " + family);
               insertInTree(langTree, parts, branch);
             }
             if (importance >= 2) {
@@ -215,19 +216,28 @@ angular.module('cognatreeApp')
             width: node.width,
             depth: 1,
             label: label,
+            hassiblings: true,
+            haschildren: true,
           };
           if (angular.equals(node.children, {})) {
             cell.depth = fulldepth;
+            cell.haschildren = false;
           }
           if (node.items) {
             cell.branch = node.items[0];
           }
           langTable[depth - 1].push(cell);
+          var lastChild = null;
           angular.forEach(node.children, function(child, branchname) {
-            addInTable(child, branchname, depth + 1, fulldepth-1);
+            lastChild = addInTable(child, branchname, depth + 1, fulldepth-1);
           });
+          if (lastChild) {
+            lastChild.hassiblings = false;
+          }
+          return cell;
         }
-        addInTable(langTree, "IE", 1, 4);
+        var rootCell = addInTable(langTree, "IE", 1, 4);
+        rootCell.hassiblings = false;
         window.langTable = langTable;
         $scope.langTable = langTable;
       });

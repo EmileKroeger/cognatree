@@ -5,8 +5,18 @@
     <td ng-repeat= "cell in row"
     colspan={{cell.width}}
     rowspan={{cell.depth}}
-    style="border: 1px solid grey;">
-      {{cell.label}}
+    class="treecell"
+    ng-class="{
+      haschildren: cell.haschildren}"
+    ng-style="{'border-color': cell.branch.color}"
+    >
+    <div
+    ng-class="{
+      haschildren: !cell.haschildren,
+      hassiblings: cell.hassiblings}"
+    ng-style="{'border-color': cell.branch.color}"
+    >
+      {{cell.label}}<br>
 
   <div ng-repeat="entry in cell.branch.important" class="wordentry"
   ng-style="{'background-color': entry.color}">
@@ -18,6 +28,7 @@
     <br>
   </div>
 
+    </div>
 
     </td>
   </tr>

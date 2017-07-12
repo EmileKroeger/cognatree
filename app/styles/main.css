@@ -98,3 +98,29 @@ body {
   margin: 3px;
   justify: center;
 }
+
+
+.treecell {
+  /*border: 1px solid grey; */
+  vertical-align: top;
+  height: 100%;
+}
+
+.treecell>div {
+  /*
+  height: 100%;
+  width: 100%;
+  display:inline-block;
+  */
+}
+.hassiblings {
+  border-top: 3px solid;
+}
+.haschildren {
+  border-left: 3px solid;
+}
+
+.treecell .wordentry {
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
