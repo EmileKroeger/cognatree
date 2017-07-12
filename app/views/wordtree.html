@@ -1,8 +1,32 @@
 <p>Wordtree; meaning = {{meaning}}.</p>
 
+<table>
+  <tr ng-repeat="row in langTable">
+    <td ng-repeat= "cell in row"
+    colspan={{cell.width}}
+    rowspan={{cell.depth}}
+    style="border: 1px solid grey;">
+      {{cell.label}}
+
+  <div ng-repeat="entry in cell.branch.important" class="wordentry"
+  ng-style="{'background-color': entry.color}">
+    {{entry.lang}}
+    <br>
+    <b>{{entry.writing}}</b>
+    <br>
+    <i>{{entry.pronunciation}}</i>
+    <br>
+  </div>
+
+
+    </td>
+  </tr>
+</table>
+
+
 <div ng-repeat="(family, branch) in byFamily" class="langbranch">
   <div>
-    {{family}}
+    {{family}} {{branch.parts}}
   </div>
   <div ng-repeat="entry in branch.important" class="wordentry"
   ng-style="{'background-color': entry.color}">

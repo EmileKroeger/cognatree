@@ -91,6 +91,32 @@ angular.module('cognatreeApp')
       delete familydata._MEANING;
       var byFamily = {};
       sLangInfo.onReady(function(langInfo) {
+        // Data format: tree
+        var langTree = {
+          items: [],
+          children: {},
+        };
+        // insertion function
+        function insertInTree(node, path, item) {
+          //console.debug(["Inserting into", path, node]);
+          if (path && path.length) {
+            var head = path[0];
+            var tail = path.slice(1);
+            if (!node.children[head]) {
+              node.children[head] = {
+                items: [],
+                children: {},
+              };
+            }
+            //console.log("inserting into " + head);
+            insertInTree(node.children[head], tail, item);
+          } else {
+            //console.log("end up at " + item.family);
+            //console.debug(path);
+            node.items.push(item);
+          }
+        }
+        // Now let's process all our languages to build our tree
         angular.forEach(familydata, function(wordInLang, lang) {
           if (wordInLang) {
             var family = '?';
@@ -99,7 +125,7 @@ angular.module('cognatreeApp')
             if (langInfo[lang]) {
               family = langInfo[lang].Family;
               color = sLangInfo.colors[family];
-              importance = langInfo[lang].importance
+              importance = langInfo[lang].importance;
             }
             var entry = {
               family: family,
@@ -110,11 +136,20 @@ angular.module('cognatreeApp')
               importance: importance,
             };
             if (!byFamily[family]) {
-              byFamily[family] = {
+              var parts = [];
+              if (family) {
+                parts = family.split(" / ");
+              }
+              var branch = {
+                family: family,
+                parts: parts,
                 important: [],
                 minor: [],
                 expanded: false,
               };
+              byFamily[family] = branch;
+              console.log("processing family: " + family);
+              insertInTree(langTree, parts, branch);
             }
             if (importance >= 2) {
               byFamily[family].important.push(entry);
@@ -124,9 +159,50 @@ angular.module('cognatreeApp')
             delete familydata[lang];
           }
         });
+        //$scope.langTree = langTree; // should be done by now
         $scope.byFamily = byFamily;
         $scope.familydata = familydata;
-        window.familydata = familydata;
+        //window.familydata = familydata;
+        window.langTree = langTree;
+        // now: flatten langtree into a table!
+        // First step: calculate width.
+        function addWidth(node) {
+          node.width = 0;
+          angular.forEach(node.children, function(child) {
+            addWidth(child);
+            node.width += child.width;
+          });
+          if (node.width <= 0) {
+            node.width = 1;
+          }
+        }
+        addWidth(langTree);
+        // Now fill in the table.l
+        var langTable = [];
+        function addInTable(node, label, depth, fulldepth) {
+          while (langTable.length < depth) {
+            langTable.push([]);
+          }
+          var cell = {
+            branch: null,
+            width: node.width,
+            depth: 1,
+            label: label,
+          };
+          if (angular.equals(node.children, {})) {
+            cell.depth = fulldepth;
+          }
+          if (node.items) {
+            cell.branch = node.items[0];
+          }
+          langTable[depth - 1].push(cell);
+          angular.forEach(node.children, function(child, branchname) {
+            addInTable(child, branchname, depth + 1, fulldepth-1);
+          });
+        }
+        addInTable(langTree, "IE", 1, 4);
+        window.langTable = langTable;
+        $scope.langTable = langTable;
       });
       
     }).
