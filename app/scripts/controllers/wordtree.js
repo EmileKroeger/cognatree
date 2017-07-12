@@ -163,7 +163,34 @@ angular.module('cognatreeApp')
         $scope.byFamily = byFamily;
         $scope.familydata = familydata;
         //window.familydata = familydata;
-        window.langTree = langTree;
+        //window.langTree = langTree;
+        // Remove from tree items with no children nor important
+        // languages
+        function pruneTree(node) {
+          // Return a pruned copy of self
+          var prunedChildren = {}
+          angular.forEach(node.children, function(child, key) {
+            var prunedChild = pruneTree(child);
+            if (prunedChild) {
+              prunedChildren[key] = prunedChild;
+            } else {
+              //print("DBG pruning " + key);
+            }
+          });
+          var hasWords = false;
+          if (node.items.length > 0) {
+            hasWords = node.items[0].important.length > 0;
+          }
+          if (!hasWords && angular.equals(prunedChildren, {})) {
+            return null;
+          } else {
+            return {
+              items: node.items,
+              children: prunedChildren,
+            };
+          }
+        }
+        langTree = pruneTree(langTree);
         // now: flatten langtree into a table!
         // First step: calculate width.
         function addWidth(node) {

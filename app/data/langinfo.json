@@ -700,7 +700,7 @@
     "% pronunciation": "90", 
     "Family": "Slavic", 
     "Language": "Old Church Slavonic", 
-    "importance": 2, 
+    "importance": 1, 
     "pronunciations": "203", 
     "words": "225"
   }, 
@@ -762,7 +762,7 @@
   }, 
   "Old Prussian": {
     "% pronunciation": "0", 
-    "Family": "Slavic / Balto-Slavic", 
+    "Family": "Slavic", 
     "Language": "Old Prussian", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -1028,7 +1028,7 @@
     "% pronunciation": "0", 
     "Family": "Slavic", 
     "Language": "Slovak", 
-    "importance": 3, 
+    "importance": 1, 
     "pronunciations": "0", 
     "words": "207"
   }, 
@@ -1044,7 +1044,7 @@
     "% pronunciation": "0", 
     "Family": "Slavic", 
     "Language": "Slovenian", 
-    "importance": 3, 
+    "importance": 1, 
     "pronunciations": "0", 
     "words": "171"
   }, 
