@@ -8,10 +8,9 @@
  * Controller of the cognatreeApp
  */
 angular.module('cognatreeApp')
-  .controller('WordsCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('WordsCtrl', function ($scope, $http) {
+    var WORDINDEX_URL = 'data/families/english/_index.json';
+    $http.get(WORDINDEX_URL).success(function(words) {
+      $scope.words = words;
+    });
   });

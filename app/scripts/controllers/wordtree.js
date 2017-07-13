@@ -36,12 +36,12 @@ angular.module('cognatreeApp')
       }
     }
     var FAMCOLORS = {
-      'Albanian': '#ffffff',
-      'Anatolian': '#ffffff',
-      'Armenian': '#ffffff',
-      'Celtic / Brittonic': '#ffffff',
-      'Celtic / Continental': '#ffffff',
-      'Celtic / Goidelic': '#ffffff',
+      'Albanian': '#884400',
+      'Anatolian': '#888888',
+      'Armenian': '#aaaaaa',
+      'Celtic / Brittonic': '#ff8800',
+      'Celtic / Continental': '#ff8800',
+      'Celtic / Goidelic': '#ff8800',
       'Germanic': '#00ffff',
       'Germanic / East': '#00ffff',
       'Germanic / North': '#00aaff',
