@@ -7,13 +7,15 @@
     rowspan={{cell.depth}}
     class="treecell"
     ng-class="{
-      haschildren: cell.haschildren}"
+      leftborder: cell.haschildren,
+      topborder: cell.hassiblings,
+    }"
     ng-style="{'border-color': cell.branch.color}"
     >
     <div
     ng-class="{
-      haschildren: !cell.haschildren,
-      hassiblings: cell.hassiblings}"
+      leftborder: !cell.haschildren,
+    }"
     ng-style="{'border-color': cell.branch.color}"
     >
       {{cell.label}}<br>
@@ -34,7 +36,7 @@
   </tr>
 </table>
 
-
+<!--
 <div ng-repeat="(family, branch) in byFamily" class="langbranch">
   <div>
     {{family}} {{branch.parts}}
@@ -53,7 +55,7 @@
       ...{{branch.minor.length}} others.
     </div>
     <div ng-if="branch.expanded">
-      <!-- TODO: cleaner -->
+
   <div ng-repeat="entry in branch.minor" class="wordentry"
   ng-style="{'background-color': entry.color}">
     {{entry.lang}}
@@ -71,3 +73,4 @@
   >
   {{lang}}: <b>{{entry[0]}}</b> ({{entry[1]}})
 </div>
+-->

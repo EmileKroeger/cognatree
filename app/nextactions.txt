@@ -4,4 +4,6 @@
  * -toggle display of "not important"-
  
  * -Regroup families by "address", using that to build a tree (auto add IE on top)-
-* make a big index of words
+ * make a big index of words
+ * Fix colors of some parts
+ * Set right left-to-right order
