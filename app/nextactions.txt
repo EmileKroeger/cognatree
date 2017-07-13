@@ -3,6 +3,18 @@
  * -Regroup families by "address", using that to build a tree (auto add IE on top)-
  * -Fix colors of some parts-
  * -have sibling branch be color of parent (sibling actually)-
+ * -make a big index of words-
 
- * make a big index of words
- * Set right left-to-right order
+ * Set right left-to-right order in trees
+ * in word list, group words by "macro families"
+
+
+
+More general reflections:
+
+I could have two kinds of tree display:
+ * Macro, in language families (most important languages only)
+ * Micro, inside a language family
+ 
+Other interesting data:
+ * compare words with p- and f-

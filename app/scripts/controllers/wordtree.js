@@ -36,6 +36,41 @@ angular.module('cognatreeApp')
         }
       }
     }
+    var FAMILIES = [
+      undefined, // proto-indo-european
+      '?',
+      'Celtic / Goidelic',
+      'Celtic / Brittonic',
+      'Celtic / Continental',
+      'Romance',
+      'Romance / Iberian',
+      'Romance / Gallic',
+      'Romance / Gallic / Occitan',
+      'Romance / Gallic / Oil',
+      'Romance / Gallic / Rhaetian',
+      'Romance / Italo-Dalmatian',
+      'Romance / Sardinian',
+      'Romance / Eastern',
+      'Oriya',
+      'Osco-Umbrian',
+      'Germanic',
+      'Germanic / West',
+      'Germanic / West / Anglo-Frisian',
+      'Germanic / West / Low Franconian',
+      'Germanic / West / High German',
+      'Germanic / North',
+      'Germanic / North / West',
+      'Germanic / North / East',
+      'Germanic / East',
+      'Slavic',
+      'Slavic / West',
+      'Slavic / Balto-Slavic',
+      'Greek',
+      'Albanian',
+      'Anatolian',
+      'Armenian',
+      'Indo-Iranian',
+    ];
     var FAMCOLORS = {
       'Albanian': '#aa6600',
       'Anatolian': '#888888',
@@ -73,6 +108,7 @@ angular.module('cognatreeApp')
     return {
       onReady: onReady,
       colors: FAMCOLORS,
+      families: FAMILIES,
     };
   })
   .controller('WordtreeCtrl', function ($scope, $routeParams, $http, sLangInfo) {
@@ -121,6 +157,7 @@ angular.module('cognatreeApp')
           }
         }
         // Now let's process all our languages to build our tree
+        //angular.forEach(sLangInfo.families, function(family) {
         angular.forEach(familydata, function(wordInLang, lang) {
           if (wordInLang) {
             var family = '?';
@@ -139,22 +176,16 @@ angular.module('cognatreeApp')
               pronunciation: wordInLang[1],
               importance: importance,
             };
+            //console.debug([lang, family]);
             if (!byFamily[family]) {
-              var parts = [];
-              if (family) {
-                parts = family.split(" / ");
-              }
               var branch = {
                 color: color,
                 family: family,
-                parts: parts,
                 important: [],
                 minor: [],
                 expanded: false,
               };
               byFamily[family] = branch;
-              //console.log("processing family: " + family);
-              insertInTree(langTree, parts, branch);
             }
             if (importance >= 2) {
               byFamily[family].important.push(entry);
@@ -164,11 +195,18 @@ angular.module('cognatreeApp')
             delete familydata[lang];
           }
         });
-        //$scope.langTree = langTree; // should be done by now
-        $scope.byFamily = byFamily;
-        $scope.familydata = familydata;
-        //window.familydata = familydata;
-        //window.langTree = langTree;
+        // Next: take those by family, insert them in the tree IN ORDER
+        angular.forEach(sLangInfo.families, function(family) {
+          var branch = byFamily[family];
+          if (branch) {
+            var parts = [];
+            if (family) {
+              parts = family.split(" / ");
+            }
+            branch.parts = parts;
+            insertInTree(langTree, parts, branch);
+          }
+        });
         // Remove from tree items with no children nor important
         // languages
         function pruneTree(node) {
