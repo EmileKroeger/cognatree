@@ -31,12 +31,13 @@ angular.module('cognatreeApp')
             state.callbacks.forEach(function(callback) {
               callback(langInfo);
             });
+            state.callbacks = [];
           });
         }
       }
     }
     var FAMCOLORS = {
-      'Albanian': '#884400',
+      'Albanian': '#aa6600',
       'Anatolian': '#888888',
       'Armenian': '#aaaaaa',
       'Celtic / Brittonic': '#ff8800',
@@ -51,7 +52,7 @@ angular.module('cognatreeApp')
       'Germanic / West / Anglo-Frisian': '#0022ff',
       'Germanic / West / High German': '#2211ff',
       'Germanic / West / Low Franconian': '#4400ff',
-      'Greek': '#ffffff',
+      'Greek': '#00ffbb',
       'Indo-Iranian': '#ffff00',
       'Oriya': '#ffffff',
       'Osco-Umbrian': '#ffffff',
@@ -178,7 +179,7 @@ angular.module('cognatreeApp')
             if (prunedChild) {
               prunedChildren[key] = prunedChild;
             } else {
-              //print("DBG pruning " + key);
+              //console.log("DBG pruning " + key);
             }
           });
           var hasWords = false;
