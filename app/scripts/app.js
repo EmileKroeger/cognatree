@@ -35,6 +35,10 @@ angular
         templateUrl: 'views/wordtree.html',
         controller: 'WordtreeCtrl'
       })
+      .when('/words', {
+        templateUrl: 'views/words.html',
+        controller: 'WordsCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
