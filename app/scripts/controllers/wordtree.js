@@ -42,10 +42,12 @@ angular.module('cognatreeApp')
       'Celtic / Brittonic': '#ffffff',
       'Celtic / Continental': '#ffffff',
       'Celtic / Goidelic': '#ffffff',
+      'Germanic': '#00ffff',
       'Germanic / East': '#00ffff',
       'Germanic / North': '#00aaff',
       'Germanic / North / East': '#3399ff',
       'Germanic / North / West': '#6688ff',
+      'Germanic / West': '#0022ff',
       'Germanic / West / Anglo-Frisian': '#0022ff',
       'Germanic / West / High German': '#2211ff',
       'Germanic / West / Low Franconian': '#4400ff',
@@ -55,6 +57,7 @@ angular.module('cognatreeApp')
       'Osco-Umbrian': '#ffffff',
       'Romance': '#ff00ff',
       'Romance / Eastern': '#ff00ff',
+      'Romance / Gallic': '#ff00ff',
       'Romance / Gallic / Occitan': '#ff00ff',
       'Romance / Gallic / Oil': '#ff00ff',
       'Romance / Gallic / Rhaetian': '#ff00ff',
@@ -192,6 +195,22 @@ angular.module('cognatreeApp')
           }
         }
         langTree = pruneTree(langTree);
+        // Some nodes don't have colors - add them.
+        function fillColors(node) {
+          var childColor = null;
+          angular.forEach(node.children, function(child, key) {
+            fillColors(child);
+            childColor = child.color;
+          });
+          if (node.items.length > 0) {
+            //console.log("Got color " + node.items[0].color)
+            node.color = node.items[0].color;
+          } else {
+            // if I don't have items, I *must* have children.
+            node.color = childColor;
+          }
+        }
+        fillColors(langTree);
         // now: flatten langtree into a table!
         // First step: calculate width.
         function addWidth(node) {
@@ -205,7 +224,7 @@ angular.module('cognatreeApp')
           }
         }
         addWidth(langTree);
-        // Now fill in the table.l
+        // Now fill in the table.
         var langTable = [];
         function addInTable(node, label, depth, fulldepth) {
           while (langTable.length < depth) {
@@ -214,9 +233,10 @@ angular.module('cognatreeApp')
           var cell = {
             branch: null,
             width: node.width,
+            color: node.color,
             depth: 1,
             label: label,
-            hassiblings: true,
+            hassiblings: false,
             haschildren: true,
           };
           if (angular.equals(node.children, {})) {
@@ -229,15 +249,16 @@ angular.module('cognatreeApp')
           langTable[depth - 1].push(cell);
           var lastChild = null;
           angular.forEach(node.children, function(child, branchname) {
-            lastChild = addInTable(child, branchname, depth + 1, fulldepth-1);
+            var newChild = addInTable(child, branchname, depth + 1, fulldepth-1);
+            if (lastChild) {
+              lastChild.hassiblings = true;
+              lastChild.siblingcolor = newChild.color;
+            }
+            lastChild = newChild;
           });
-          if (lastChild) {
-            lastChild.hassiblings = false;
-          }
           return cell;
         }
         var rootCell = addInTable(langTree, "IE", 1, 4);
-        rootCell.hassiblings = false;
         window.langTable = langTable;
         $scope.langTable = langTable;
       });

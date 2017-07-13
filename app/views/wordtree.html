@@ -10,13 +10,16 @@
       leftborder: cell.haschildren,
       topborder: cell.hassiblings,
     }"
-    ng-style="{'border-color': cell.branch.color}"
+    ng-style="{
+      'border-left-color': cell.color,
+      'border-top-color': cell.siblingcolor,
+    }"
     >
     <div
     ng-class="{
       leftborder: !cell.haschildren,
     }"
-    ng-style="{'border-color': cell.branch.color}"
+    ng-style="{'border-color': cell.color}"
     >
       {{cell.label}}<br>
 

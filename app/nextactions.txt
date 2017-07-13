@@ -1,9 +1,8 @@
  * -Have "branch" have two lists of words, "important" and "not important"-
- 
- 
  * -toggle display of "not important"-
- 
  * -Regroup families by "address", using that to build a tree (auto add IE on top)-
+ * -Fix colors of some parts-
+ * -have sibling branch be color of parent (sibling actually)-
+
  * make a big index of words
- * Fix colors of some parts
  * Set right left-to-right order
