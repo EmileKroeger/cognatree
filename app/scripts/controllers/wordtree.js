@@ -52,6 +52,7 @@ angular.module('cognatreeApp')
       'Celtic / Goidelic',
       'Celtic / Brittonic',
       'Celtic / Continental',
+      'Osco-Umbrian',
       'Romance',
       'Romance / Iberian',
       'Romance / Gallic',
@@ -61,7 +62,6 @@ angular.module('cognatreeApp')
       'Romance / Italo-Dalmatian',
       'Romance / Sardinian',
       'Romance / Eastern',
-      'Osco-Umbrian',
       'Germanic',
       'Germanic / West',
       'Germanic / West / Anglo-Frisian',
@@ -79,47 +79,35 @@ angular.module('cognatreeApp')
       'Anatolian',
       'Armenian',
       'Indo-Iranian',
-      'Oriya',
     ];
     var FAMCOLORS = {
-      '?': '#888888',
-      'Albanian': '#aa6600',
-      'Anatolian': '#888888',
-      'Armenian': '#aaaaaa',
-      'Celtic': '#ff8800',
-      'Celtic / Brittonic': '#ff8800',
-      'Celtic / Continental': '#ff8800',
-      'Celtic / Goidelic': '#ff8800',
-      'Germanic': '#00ffff',
-      'Germanic / East': '#00ffff',
-      'Germanic / North': '#00aaff',
-      'Germanic / North / East': '#3399ff',
-      'Germanic / North / West': '#6688ff',
-      'Germanic / West': '#0022ff',
-      'Germanic / West / Anglo-Frisian': '#0022ff',
-      'Germanic / West / High German': '#2211ff',
-      'Germanic / West / Low Franconian': '#4400ff',
-      'Greek': '#00ffbb',
+      null: '#aaaaaa',
+      '?': '#aaaaaa',
+      'Celtic': '#00ff00',
+      'Osco-Umbrian': '#00ffff',
+      'Romance': '#00ffff',
+      'Germanic': '#6666ff',
+      'Slavic': '#dd00dd',
+      'Albanian': '#cccccc',
+      'Greek': '#ff6622',
+      'Anatolian': '#cccccc',
+      'Armenian': '#cccccc',
       'Indo-Iranian': '#ffff00',
-      'Oriya': '#ffffff',
-      'Osco-Umbrian': '#ffffff',
-      'Romance': '#ff00ff',
-      'Romance / Eastern': '#ff00ff',
-      'Romance / Gallic': '#ff00ff',
-      'Romance / Gallic / Occitan': '#ff00ff',
-      'Romance / Gallic / Oil': '#ff00ff',
-      'Romance / Gallic / Rhaetian': '#ff00ff',
-      'Romance / Iberian': '#ff00ff',
-      'Romance / Italo-Dalmatian': '#ff00ff',
-      'Romance / Sardinian': '#ff00ff',
-      'Slavic': '#00ff00',
-      'Slavic / Balto-Slavic': '#00ff00',
-      'Slavic / West': '#00ff00',
-      };
+    };
+    function getColor(family) {
+      if (family) {
+        var basefamily = family.split(" / ")[0];
+        // Someday: maybe something smarter
+        return FAMCOLORS[basefamily];
+      } else {
+        return FAMCOLORS[null];
+      }
+    }
 
     return {
       onReady: onReady,
       colors: FAMCOLORS,
+      getColor: getColor,
       majorfamilies: MAJORFAMILIES,
       families: FAMILIES,
     };
@@ -178,7 +166,7 @@ angular.module('cognatreeApp')
             var importance = 0;
             if (langInfo[lang]) {
               family = langInfo[lang].Family;
-              color = sLangInfo.colors[family];
+              color = sLangInfo.getColor(family);
               importance = langInfo[lang].importance;
             }
             var entry = {
