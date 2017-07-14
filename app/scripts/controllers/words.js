@@ -9,8 +9,8 @@
  */
 angular.module('cognatreeApp')
   .controller('WordsCtrl', function ($scope, $http, sLangInfo) {
-    //var WORDINDEX_URL = 'data/majorworddescs.json';
-    var WORDINDEX_URL = 'data/majorworddescs20.json';
+    var WORDINDEX_URL = 'data/majorworddescs.json';
+    //var WORDINDEX_URL = 'data/majorworddescs20.json';
     $scope.families = sLangInfo.majorfamilies;
     $scope.colors = sLangInfo.colors;
     $http.get(WORDINDEX_URL).success(function(worddescs) {
@@ -24,4 +24,19 @@ angular.module('cognatreeApp')
         return "white";
       }
     }
+    /*
+    // Overkill: opacity is fine
+    $scope.getdarkcolor = function(family) {
+      var basecolor = sLangInfo.colors[family];
+      var colorcode = parseInt("0x" + basecolor.slice(1));
+      var darkcode = 0;
+      // decompose r g b components
+      [0xff0000, 0x00ff00, 0x0000ff].forEach(function(comp) {
+        darkcode += ((colorcode & comp) / 2) & comp;
+      })
+      var darkcolor = "#" + darkcode.toString(16);
+      console.log("" + basecolor + " -> " + darkcolor);
+      return darkcolor
+    }
+    */
   });

@@ -18,11 +18,14 @@
      style="border-top:1px solid white"
   >
     <div>
-      <span ng-if="worddesc[family].length === 0" class="secondary">
+      <span ng-if="worddesc[family].length === 0" 
+      class="secondary"
+      >
         {{family}}
       </span>
       <div ng-repeat="word in worddesc[family]">
-        <span class="secondary">{{word.code}}:</span>
+        <span class="secondary"
+        >{{word.code}}:</span>
         {{word.writing}}
         <a
         ng-if="word.lang === 'English'" 

@@ -131,7 +131,7 @@ table {
 
 .secondary {
   font-style: italic;
-  opacity: 50%;
+  opacity: 0.5;
 }
 
 .wordindex .colheader {

@@ -4,11 +4,18 @@
  * -Fix colors of some parts-
  * -have sibling branch be color of parent (sibling actually)-
  * -make a big index of words-
+ * -Set right left-to-right order in trees-
+ * -in word list, group words by "macro families"-
+ * -make it a nice aligned table-
+ * -use short language codes-
 
- * Set right left-to-right order in trees
- * in word list, group words by "macro families"
-
-
+ * add count of languages
+ * generate a tree data structure for each of those entries (wordfam)
+ * fix ? in header
+ * fix IE color in tree
+ * make more rainbowish color
+ * simplify color handling (fam only?)
+ * Make fuller language families for better depths
 
 More general reflections:
 
