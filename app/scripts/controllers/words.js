@@ -8,8 +8,10 @@
  * Controller of the cognatreeApp
  */
 angular.module('cognatreeApp')
-  .controller('WordsCtrl', function ($scope, $http) {
-    var WORDINDEX_URL = 'data/majorworddescs.json';
+  .controller('WordsCtrl', function ($scope, $http, sLangInfo) {
+    //var WORDINDEX_URL = 'data/majorworddescs.json';
+    var WORDINDEX_URL = 'data/majorworddescs20.json';
+    $scope.families = sLangInfo.families;
     $http.get(WORDINDEX_URL).success(function(worddescs) {
       $scope.worddescs = worddescs;
     });

@@ -1,10 +1,15 @@
 <p>Words</p>
 <div ng-repeat="worddesc in worddescs">
   {{worddesc.meaning}}:
-  <a href="#/wordtree/{{worddesc.English}}">{{worddesc.English}}</a>
-  <!--
   <span ng-repeat="family in families"
-  ng-if="worddesc[family]">:
+  ng-if="worddesc[family]">
+    {{family}}
+    <span ng-repeat="word in worddesc[family]">
+      {{word.lang}}: {{word.writing}}
+      <a
+      ng-if="word.lang === 'English'" 
+      href="#/wordtree/{{word.writing}}"
+      >link</a>
+    </span>
   </span>
-    -->
 </div>
