@@ -94,11 +94,18 @@ angular.module('cognatreeApp')
       'Armenian': '#cccccc',
       'Indo-Iranian': '#ffff00',
     };
-    function getColor(family) {
-      if (family) {
-        var basefamily = family.split(" / ")[0];
+    function getPathColor(path) {
+      if (path) {
+        var basefamily = path[0];
         // Someday: maybe something smarter
         return FAMCOLORS[basefamily];
+      } else {
+        return FAMCOLORS[null];
+      }
+    }
+    function getColor(family) {
+      if (family) {
+        return getPathColor(family.split(" / "));
       } else {
         return FAMCOLORS[null];
       }
@@ -108,6 +115,7 @@ angular.module('cognatreeApp')
       onReady: onReady,
       colors: FAMCOLORS,
       getColor: getColor,
+      getPathColor: getPathColor,
       majorfamilies: MAJORFAMILIES,
       families: FAMILIES,
     };
@@ -135,6 +143,7 @@ angular.module('cognatreeApp')
         // Data format: tree
         var langTree = {
           items: [],
+          color: sLangInfo.getColor(null),
           children: {},
         };
         // insertion function
@@ -146,6 +155,8 @@ angular.module('cognatreeApp')
             if (!node.children[head]) {
               node.children[head] = {
                 items: [],
+                // TODO: this only works with no subcolors...
+                color: sLangInfo.getColor(item.family),
                 children: {},
               };
             }
@@ -230,27 +241,12 @@ angular.module('cognatreeApp')
           } else {
             return {
               items: node.items,
+              color: node.color,
               children: prunedChildren,
             };
           }
         }
         langTree = pruneTree(langTree);
-        // Some nodes don't have colors - add them.
-        function fillColors(node) {
-          var childColor = null;
-          angular.forEach(node.children, function(child, key) {
-            fillColors(child);
-            childColor = child.color;
-          });
-          if (node.items.length > 0) {
-            //console.log("Got color " + node.items[0].color)
-            node.color = node.items[0].color;
-          } else {
-            // if I don't have items, I *must* have children.
-            node.color = childColor;
-          }
-        }
-        fillColors(langTree);
         // now: flatten langtree into a table!
         // First step: calculate width.
         function addWidth(node) {
