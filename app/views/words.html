@@ -2,7 +2,11 @@
 <table class="wordindex">
 <tr>
   <th>Meaning</th>
-  <th ng-repeat="family in families"
+  <th
+    ng-style="{'background-color': colors['?']}"
+    class="colheader"
+  >Indo-European</th>
+  <th ng-repeat="family in families.slice(1)"
     ng-style="{'background-color': colors[family]}"
     class="colheader"
   >

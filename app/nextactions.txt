@@ -9,9 +9,9 @@
  * -make it a nice aligned table-
  * -use short language codes-
 
- * add count of languages
+ * -fix ? in header-
+ * add count of languages with that word to wordlist
  * generate a tree data structure for each of those entries (wordfam)
- * fix ? in header
  * fix IE color in tree
  * make more rainbowish color
  * simplify color handling (fam only?)
