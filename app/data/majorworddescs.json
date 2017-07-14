@@ -1,0 +1,4851 @@
+[
+  {
+    "English": "I", 
+    "French": "je", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "I"
+  }, 
+  {
+    "English": null, 
+    "French": "et", 
+    "families": [
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "and"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "and"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "animal"
+  }, 
+  {
+    "English": "animal", 
+    "French": "animal", 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "animal"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "animal"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "animal"
+  }, 
+  {
+    "English": "ashes", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "ashes"
+  }, 
+  {
+    "English": null, 
+    "French": "cendre", 
+    "families": [
+      "Albanian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "ashes"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "at"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Greek", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "at"
+  }, 
+  {
+    "English": "at", 
+    "French": "\u00e0", 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "at"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "at"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "back"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Slavic"
+    ], 
+    "meaning": "back"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "bad"
+  }, 
+  {
+    "English": null, 
+    "French": "mauvais", 
+    "families": [
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "bad"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "bad"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "bad"
+  }, 
+  {
+    "English": "bad", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "bad"
+  }, 
+  {
+    "English": null, 
+    "French": "\u00e9corce", 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "bark"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "because"
+  }, 
+  {
+    "English": "because", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "because"
+  }, 
+  {
+    "English": "belly", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "belly"
+  }, 
+  {
+    "English": null, 
+    "French": "ventre", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "belly"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "big"
+  }, 
+  {
+    "English": null, 
+    "French": "grand", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "big"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "bird"
+  }, 
+  {
+    "English": null, 
+    "French": "oiseau", 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "bird"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "bird"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "bite"
+  }, 
+  {
+    "English": "to bite", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "bite"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Celtic", 
+      "Slavic"
+    ], 
+    "meaning": "bite"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic"
+    ], 
+    "meaning": "black"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "black"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "black"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "black"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "black"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "black"
+  }, 
+  {
+    "English": null, 
+    "French": "sang", 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "blood"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "blood"
+  }, 
+  {
+    "English": "to blow", 
+    "French": "souffler", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "blow"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "blow"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "blow"
+  }, 
+  {
+    "English": null, 
+    "French": "os", 
+    "families": [
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "bone"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Slavic"
+    ], 
+    "meaning": "bone"
+  }, 
+  {
+    "English": null, 
+    "French": "mamelle", 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "breast"
+  }, 
+  {
+    "English": "breast", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "breast"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "breast"
+  }, 
+  {
+    "English": null, 
+    "French": "sein", 
+    "families": [
+      "Albanian", 
+      "Romance"
+    ], 
+    "meaning": "breast"
+  }, 
+  {
+    "English": null, 
+    "French": "t\u00e9ton", 
+    "families": [
+      "Anatolian", 
+      "Romance"
+    ], 
+    "meaning": "breast"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "breast"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "breathe"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Greek"
+    ], 
+    "meaning": "breathe"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "burn"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "burn"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "child"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "cloud"
+  }, 
+  {
+    "English": null, 
+    "French": "nuage", 
+    "families": [
+      "Celtic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "cloud"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "cold"
+  }, 
+  {
+    "English": "cold", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic"
+    ], 
+    "meaning": "cold"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "cold"
+  }, 
+  {
+    "English": "to come", 
+    "French": "venir", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "come"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "come"
+  }, 
+  {
+    "English": "to count", 
+    "French": "compter", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "count"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Greek"
+    ], 
+    "meaning": "count"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "count"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "count"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Armenian", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "cut"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "cut"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "cut"
+  }, 
+  {
+    "English": null, 
+    "French": "jour", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "day"
+  }, 
+  {
+    "English": "day", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "day"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "day"
+  }, 
+  {
+    "English": null, 
+    "French": "mourir", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "die"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek"
+    ], 
+    "meaning": "die"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "dig"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "dig"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Romance"
+    ], 
+    "meaning": "dig"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "dig"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "dig"
+  }, 
+  {
+    "English": null, 
+    "French": "sale", 
+    "families": [
+      "Celtic", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "dirty"
+  }, 
+  {
+    "English": null, 
+    "French": "chien", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "dog"
+  }, 
+  {
+    "English": null, 
+    "French": "boire", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "drink"
+  }, 
+  {
+    "English": null, 
+    "French": "sec", 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "dry"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "dry"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "dry"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "dry"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "dull"
+  }, 
+  {
+    "English": "dull", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "dull"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "dull"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "dull"
+  }, 
+  {
+    "English": null, 
+    "French": "poussi\u00e8re", 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "dust"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "dust"
+  }, 
+  {
+    "English": "dust", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "dust"
+  }, 
+  {
+    "English": "ear", 
+    "French": "oreille", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "ear"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "earth"
+  }, 
+  {
+    "English": null, 
+    "French": "terre", 
+    "families": [
+      "Celtic", 
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "earth"
+  }, 
+  {
+    "English": "to eat", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "eat"
+  }, 
+  {
+    "English": null, 
+    "French": "manger", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "eat"
+  }, 
+  {
+    "English": "egg", 
+    "French": "oeuf", 
+    "families": [
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "egg"
+  }, 
+  {
+    "English": "eye", 
+    "French": "oeil", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "eye"
+  }, 
+  {
+    "English": "to fall", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "fall"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "fall"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "fall"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "fall"
+  }, 
+  {
+    "English": "far", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "far"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "far"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic"
+    ], 
+    "meaning": "far"
+  }, 
+  {
+    "English": null, 
+    "French": "loin", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "far"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek"
+    ], 
+    "meaning": "fat"
+  }, 
+  {
+    "English": null, 
+    "French": "graisse", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "fat"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek"
+    ], 
+    "meaning": "fat"
+  }, 
+  {
+    "English": "father", 
+    "French": "p\u00e8re", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "father"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "father"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "father"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "fear"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "fear"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "fear"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "fear"
+  }, 
+  {
+    "English": "feather", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "feather"
+  }, 
+  {
+    "English": null, 
+    "French": "plume (d'oiseau)", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "feather"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "feather"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "few"
+  }, 
+  {
+    "English": "few", 
+    "French": "peu", 
+    "families": [
+      "Germanic", 
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "few"
+  }, 
+  {
+    "English": "to fight", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "fight"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "fight"
+  }, 
+  {
+    "English": "nail", 
+    "French": "ongle", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "fingernail"
+  }, 
+  {
+    "English": "fire", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Slavic"
+    ], 
+    "meaning": "fire"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "fire"
+  }, 
+  {
+    "English": null, 
+    "French": "feu", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "fire"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "fire"
+  }, 
+  {
+    "English": "fish", 
+    "French": "poisson", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "fish"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "fish"
+  }, 
+  {
+    "English": "five", 
+    "French": "cinq", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "five"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "float"
+  }, 
+  {
+    "English": "to float", 
+    "French": "flotter", 
+    "families": [
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "float"
+  }, 
+  {
+    "English": "to flow", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "flow"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "flow"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "flow"
+  }, 
+  {
+    "English": "flower", 
+    "French": "fleur", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "flower"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "fly"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "fog"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "fog"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "fog"
+  }, 
+  {
+    "English": "foot", 
+    "French": "pied", 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "foot"
+  }, 
+  {
+    "English": "four", 
+    "French": "quatre", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "four"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Slavic"
+    ], 
+    "meaning": "freeze"
+  }, 
+  {
+    "English": "to freeze", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "freeze"
+  }, 
+  {
+    "English": "fruit", 
+    "French": "fruit", 
+    "families": [
+      "Albanian", 
+      "Germanic", 
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "fruit"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "fruit"
+  }, 
+  {
+    "English": "full", 
+    "French": "plein", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "full"
+  }, 
+  {
+    "English": null, 
+    "French": "donner", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "give"
+  }, 
+  {
+    "English": null, 
+    "French": "bon", 
+    "families": [
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "good"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "good"
+  }, 
+  {
+    "English": "grass", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "grass"
+  }, 
+  {
+    "English": null, 
+    "French": "herbe", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "grass"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "grass"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "green"
+  }, 
+  {
+    "English": null, 
+    "French": "vert", 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "green"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "guts"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "hair"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "hair"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "hand"
+  }, 
+  {
+    "English": null, 
+    "French": "main", 
+    "families": [
+      "?", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "hand"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Slavic"
+    ], 
+    "meaning": "he"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "he"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "he"
+  }, 
+  {
+    "English": "head", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "head"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Slavic"
+    ], 
+    "meaning": "head"
+  }, 
+  {
+    "English": "to hear", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Greek"
+    ], 
+    "meaning": "hear"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "hear"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "hear"
+  }, 
+  {
+    "English": "heart", 
+    "French": "c\u0153ur", 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "heart"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Greek"
+    ], 
+    "meaning": "hit"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Slavic"
+    ], 
+    "meaning": "hit"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "hit"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "hold"
+  }, 
+  {
+    "English": null, 
+    "French": "tenir", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "hold"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "hold"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "hold"
+  }, 
+  {
+    "English": "horn", 
+    "French": "corne", 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "horn"
+  }, 
+  {
+    "English": "how", 
+    "French": "comment", 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "how"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "hunt"
+  }, 
+  {
+    "English": null, 
+    "French": "chasser", 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "hunt"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "husband"
+  }, 
+  {
+    "English": null, 
+    "French": "mari", 
+    "families": [
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "husband"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "husband"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "husband"
+  }, 
+  {
+    "English": "if", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "if"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "if"
+  }, 
+  {
+    "English": "in", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "in"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "in"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "kill"
+  }, 
+  {
+    "English": "knee", 
+    "French": "genou", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "knee"
+  }, 
+  {
+    "English": "know", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "know"
+  }, 
+  {
+    "English": null, 
+    "French": "savoir", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "know"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "know"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "know"
+  }, 
+  {
+    "English": "lake", 
+    "French": "lac", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "lake"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "lake"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Armenian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "laugh"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "laugh"
+  }, 
+  {
+    "English": null, 
+    "French": "rire", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "laugh"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Slavic"
+    ], 
+    "meaning": "laugh"
+  }, 
+  {
+    "English": null, 
+    "French": "feuille", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "leaf"
+  }, 
+  {
+    "English": "leaf", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "leaf"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "left"
+  }, 
+  {
+    "English": null, 
+    "French": "jambe", 
+    "families": [
+      "Albanian", 
+      "Romance"
+    ], 
+    "meaning": "leg"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "leg"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "leg"
+  }, 
+  {
+    "English": "to lie", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "lie"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "lie"
+  }, 
+  {
+    "English": null, 
+    "French": "vivre", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "live"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "liver"
+  }, 
+  {
+    "English": null, 
+    "French": "foie", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "liver"
+  }, 
+  {
+    "English": "long", 
+    "French": "long", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "long"
+  }, 
+  {
+    "English": "louse", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "louse"
+  }, 
+  {
+    "English": null, 
+    "French": "pou", 
+    "families": [
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "louse"
+  }, 
+  {
+    "English": "man", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "man"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "man"
+  }, 
+  {
+    "English": null, 
+    "French": "homme", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "man"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "man"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "man"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek"
+    ], 
+    "meaning": "many"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "many"
+  }, 
+  {
+    "English": "many", 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "many"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Armenian", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "meat"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "meat"
+  }, 
+  {
+    "English": "moon", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "moon"
+  }, 
+  {
+    "English": null, 
+    "French": "lune", 
+    "families": [
+      "Armenian", 
+      "Celtic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "moon"
+  }, 
+  {
+    "English": "mother", 
+    "French": "m\u00e8re", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "mother"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "mountain"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "mountain"
+  }, 
+  {
+    "English": "mountain", 
+    "French": "montagne", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "mountain"
+  }, 
+  {
+    "English": null, 
+    "French": "bouche", 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "mouth"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "mouth"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "mouth"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "narrow"
+  }, 
+  {
+    "English": null, 
+    "French": "\u00e9troit", 
+    "families": [
+      "Celtic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "narrow"
+  }, 
+  {
+    "English": "narrow", 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Germanic"
+    ], 
+    "meaning": "narrow"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "near"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "neck"
+  }, 
+  {
+    "English": null, 
+    "French": "cou", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "neck"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "neck"
+  }, 
+  {
+    "English": "new", 
+    "French": "nouveau", 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "new"
+  }, 
+  {
+    "English": "night", 
+    "French": "nuit", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "night"
+  }, 
+  {
+    "English": "nose", 
+    "French": "nez", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "nose"
+  }, 
+  {
+    "English": "not", 
+    "French": "non", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "not"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Celtic", 
+      "Greek"
+    ], 
+    "meaning": "not"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "not"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "old"
+  }, 
+  {
+    "English": null, 
+    "French": "vieux", 
+    "families": [
+      "Albanian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "old"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek"
+    ], 
+    "meaning": "old"
+  }, 
+  {
+    "English": "one", 
+    "French": "un", 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "one"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "one"
+  }, 
+  {
+    "English": null, 
+    "French": "autre", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "other"
+  }, 
+  {
+    "English": "other", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "other"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "person"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "person"
+  }, 
+  {
+    "English": "person", 
+    "French": "personne", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "person"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "play"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Romance"
+    ], 
+    "meaning": "play"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "pull"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "pull"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "pull"
+  }, 
+  {
+    "English": "to push", 
+    "French": "pousser", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "push"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "push"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "rain"
+  }, 
+  {
+    "English": "red", 
+    "French": "rouge", 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "red"
+  }, 
+  {
+    "English": "right", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "right"
+  }, 
+  {
+    "English": null, 
+    "French": "juste", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "right"
+  }, 
+  {
+    "English": "right (hand)", 
+    "French": "droit", 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "rightside"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "rightside"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "river"
+  }, 
+  {
+    "English": "river", 
+    "French": "rivi\u00e8re", 
+    "families": [
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "river"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "river"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "river"
+  }, 
+  {
+    "English": null, 
+    "French": "chemin", 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "road"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "road"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "road"
+  }, 
+  {
+    "English": "root", 
+    "French": "racine", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "root"
+  }, 
+  {
+    "English": null, 
+    "French": "corde", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "rope"
+  }, 
+  {
+    "English": "rope", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "rope"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "rope"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "rope"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "rope"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Germanic"
+    ], 
+    "meaning": "rope"
+  }, 
+  {
+    "English": null, 
+    "French": "pourri", 
+    "families": [
+      "Armenian", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "rotten"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "rotten"
+  }, 
+  {
+    "English": "round", 
+    "French": "rond", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "round"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "round"
+  }, 
+  {
+    "English": null, 
+    "French": "frotter", 
+    "families": [
+      "Albanian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "rub"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "rub"
+  }, 
+  {
+    "English": "salt", 
+    "French": "sel", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "salt"
+  }, 
+  {
+    "English": "sand", 
+    "French": "sable", 
+    "families": [
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "sand"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sand"
+  }, 
+  {
+    "English": "to say", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "say"
+  }, 
+  {
+    "English": null, 
+    "French": "dire", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "say"
+  }, 
+  {
+    "English": "scratch", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Germanic"
+    ], 
+    "meaning": "scratch"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "scratch"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "scratch"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek"
+    ], 
+    "meaning": "sea"
+  }, 
+  {
+    "English": null, 
+    "French": "mer", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sea"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "sea"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "sea"
+  }, 
+  {
+    "English": "to see", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Germanic"
+    ], 
+    "meaning": "see"
+  }, 
+  {
+    "English": null, 
+    "French": "voir", 
+    "families": [
+      "?", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "see"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "see"
+  }, 
+  {
+    "English": "seed", 
+    "French": "semence", 
+    "families": [
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "seed"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "seed"
+  }, 
+  {
+    "English": "to sew", 
+    "French": "coudre", 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sew"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sharp"
+  }, 
+  {
+    "English": "short", 
+    "French": "court", 
+    "families": [
+      "Albanian", 
+      "Armenian", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "short"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "short"
+  }, 
+  {
+    "English": null, 
+    "French": "chanter", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Celtic", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sing"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "sing"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "sing"
+  }, 
+  {
+    "English": "to sit", 
+    "French": "asseoir", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sit"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "sit"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "skin"
+  }, 
+  {
+    "English": null, 
+    "French": "peau", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "skin"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "skin"
+  }, 
+  {
+    "English": null, 
+    "French": "ciel", 
+    "families": [
+      "Albanian", 
+      "Romance"
+    ], 
+    "meaning": "sky"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "sky"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "sky"
+  }, 
+  {
+    "English": "to sleep", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "sleep"
+  }, 
+  {
+    "English": null, 
+    "French": "dormir", 
+    "families": [
+      "?", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sleep"
+  }, 
+  {
+    "English": "small", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "small"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "small"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "smell"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Slavic"
+    ], 
+    "meaning": "smooth"
+  }, 
+  {
+    "English": null, 
+    "French": "lisse", 
+    "families": [
+      "Albanian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "smooth"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "smooth"
+  }, 
+  {
+    "English": null, 
+    "French": "serpent", 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "snake"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "snake"
+  }, 
+  {
+    "English": "snow", 
+    "French": "neige", 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "snow"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "snow"
+  }, 
+  {
+    "English": null, 
+    "French": "quelque", 
+    "families": [
+      "Anatolian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "some"
+  }, 
+  {
+    "English": "to spit", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "spit"
+  }, 
+  {
+    "English": null, 
+    "French": "cracher", 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "spit"
+  }, 
+  {
+    "English": null, 
+    "French": "fendre", 
+    "families": [
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "split"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "split"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "split"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "squeeze"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "squeeze"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "stab"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "stab"
+  }, 
+  {
+    "English": "to stand", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "stand"
+  }, 
+  {
+    "English": "star", 
+    "French": "\u00e9toile", 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "star"
+  }, 
+  {
+    "English": null, 
+    "French": "b\u00e2ton", 
+    "families": [
+      "Celtic", 
+      "Romance"
+    ], 
+    "meaning": "stick"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "stick"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "stone"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "stone"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "straight"
+  }, 
+  {
+    "English": null, 
+    "French": "droit", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "straight"
+  }, 
+  {
+    "English": "to suck", 
+    "French": "sucer", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "suck"
+  }, 
+  {
+    "English": "sun", 
+    "French": "soleil", 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "sun"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "swell"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "swell"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "swell"
+  }, 
+  {
+    "English": null, 
+    "French": "enfler", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "swell"
+  }, 
+  {
+    "English": null, 
+    "French": "nager", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance"
+    ], 
+    "meaning": "swim"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "swim"
+  }, 
+  {
+    "English": null, 
+    "French": "queue", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "tail"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Greek"
+    ], 
+    "meaning": "tail"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "tail"
+  }, 
+  {
+    "English": null, 
+    "French": "cela", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "that"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Greek"
+    ], 
+    "meaning": "that"
+  }, 
+  {
+    "English": "that", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "that"
+  }, 
+  {
+    "English": null, 
+    "French": "l\u00e0", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "there"
+  }, 
+  {
+    "English": "there", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Armenian", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "there"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Osco-Umbrian", 
+      "Romance"
+    ], 
+    "meaning": "there"
+  }, 
+  {
+    "English": "they", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "they"
+  }, 
+  {
+    "English": null, 
+    "French": "ils, elles", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "they"
+  }, 
+  {
+    "English": "thick", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "thick"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "thick"
+  }, 
+  {
+    "English": "thin", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "thin"
+  }, 
+  {
+    "English": null, 
+    "French": "mince", 
+    "families": [
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "thin"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Romance"
+    ], 
+    "meaning": "thin"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "thin"
+  }, 
+  {
+    "English": "to think", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic"
+    ], 
+    "meaning": "think"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "think"
+  }, 
+  {
+    "English": "this", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "this"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "this"
+  }, 
+  {
+    "English": null, 
+    "French": "ceci", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "this"
+  }, 
+  {
+    "English": "thou", 
+    "French": "tu", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "thou"
+  }, 
+  {
+    "English": "three", 
+    "French": "trois", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "three"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "throw"
+  }, 
+  {
+    "English": null, 
+    "French": "lier", 
+    "families": [
+      "Albanian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "tie"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "tie"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Slavic"
+    ], 
+    "meaning": "tie"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "tie"
+  }, 
+  {
+    "English": "tongue", 
+    "French": "langue", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "tongue"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "tooth"
+  }, 
+  {
+    "English": "tooth", 
+    "French": "dent", 
+    "families": [
+      "?", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "tooth"
+  }, 
+  {
+    "English": "tree", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Slavic"
+    ], 
+    "meaning": "tree"
+  }, 
+  {
+    "English": null, 
+    "French": "arbre", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "tree"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Romance"
+    ], 
+    "meaning": "turn"
+  }, 
+  {
+    "English": "to turn", 
+    "French": "tourner", 
+    "families": [
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "turn"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "turn"
+  }, 
+  {
+    "English": "two", 
+    "French": "deux", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "two"
+  }, 
+  {
+    "English": "to vomit", 
+    "French": "vomir", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "vomit"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic"
+    ], 
+    "meaning": "walk"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Slavic"
+    ], 
+    "meaning": "walk"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "walk"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "walk"
+  }, 
+  {
+    "English": "warm", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Armenian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "warm"
+  }, 
+  {
+    "English": null, 
+    "French": "chaud", 
+    "families": [
+      "Celtic", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "warm"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "warm"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "wash"
+  }, 
+  {
+    "English": null, 
+    "French": "laver", 
+    "families": [
+      "Albanian", 
+      "Greek", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "wash"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Celtic", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "wash"
+  }, 
+  {
+    "English": "water", 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "water"
+  }, 
+  {
+    "English": null, 
+    "French": "eau", 
+    "families": [
+      "?", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "water"
+  }, 
+  {
+    "English": "we", 
+    "French": "nous", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "we"
+  }, 
+  {
+    "English": "wet", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic"
+    ], 
+    "meaning": "wet"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "wet"
+  }, 
+  {
+    "English": "what", 
+    "French": "que", 
+    "families": [
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "what"
+  }, 
+  {
+    "English": "when", 
+    "French": "quand", 
+    "families": [
+      "Albanian", 
+      "Anatolian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "when"
+  }, 
+  {
+    "English": "where", 
+    "French": "o\u00f9", 
+    "families": [
+      "Albanian", 
+      "Anatolian", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "where"
+  }, 
+  {
+    "English": "white", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "white"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "white"
+  }, 
+  {
+    "English": null, 
+    "French": "blanc", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "white"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "white"
+  }, 
+  {
+    "English": "who", 
+    "French": "qui", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Osco-Umbrian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "who"
+  }, 
+  {
+    "English": null, 
+    "French": "large", 
+    "families": [
+      "Celtic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "wide"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "wide"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "wife"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "wife"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "wife"
+  }, 
+  {
+    "English": "wind", 
+    "French": "vent", 
+    "families": [
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "wind"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Armenian", 
+      "Greek"
+    ], 
+    "meaning": "wind"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Greek"
+    ], 
+    "meaning": "wipe"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "with"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Germanic", 
+      "Greek"
+    ], 
+    "meaning": "with"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Celtic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "with"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "woman"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "woman"
+  }, 
+  {
+    "English": null, 
+    "French": "bois", 
+    "families": [
+      "Albanian", 
+      "Germanic", 
+      "Romance"
+    ], 
+    "meaning": "woods"
+  }, 
+  {
+    "English": "woods", 
+    "French": null, 
+    "families": [
+      "Celtic", 
+      "Germanic"
+    ], 
+    "meaning": "woods"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "Albanian", 
+      "Celtic", 
+      "Indo-Iranian", 
+      "Slavic"
+    ], 
+    "meaning": "worm"
+  }, 
+  {
+    "English": "worm", 
+    "French": "ver", 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "worm"
+  }, 
+  {
+    "English": null, 
+    "French": null, 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Greek", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "year"
+  }, 
+  {
+    "English": "year", 
+    "French": null, 
+    "families": [
+      "?", 
+      "Germanic", 
+      "Indo-Iranian"
+    ], 
+    "meaning": "year"
+  }, 
+  {
+    "English": null, 
+    "French": "an", 
+    "families": [
+      "Germanic", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "year"
+  }, 
+  {
+    "English": "yellow", 
+    "French": null, 
+    "families": [
+      "Germanic", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "yellow"
+  }, 
+  {
+    "English": null, 
+    "French": "jaune", 
+    "families": [
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "yellow"
+  }, 
+  {
+    "English": "ye", 
+    "French": "vous", 
+    "families": [
+      "?", 
+      "Albanian", 
+      "Anatolian", 
+      "Armenian", 
+      "Celtic", 
+      "Germanic", 
+      "Greek", 
+      "Indo-Iranian", 
+      "Romance", 
+      "Slavic"
+    ], 
+    "meaning": "you"
+  }
+]
