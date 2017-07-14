@@ -36,9 +36,19 @@ angular.module('cognatreeApp')
         }
       }
     }
+    var MAJORFAMILIES = [
+      '?',
+      'Celtic',
+      'Romance',
+      'Germanic',
+      'Slavic',
+      'Greek',
+      'Indo-Iranian',
+    ];
     var FAMILIES = [
       undefined, // proto-indo-european
       '?',
+      'Celtic',
       'Celtic / Goidelic',
       'Celtic / Brittonic',
       'Celtic / Continental',
@@ -76,6 +86,7 @@ angular.module('cognatreeApp')
       'Albanian': '#aa6600',
       'Anatolian': '#888888',
       'Armenian': '#aaaaaa',
+      'Celtic': '#ff8800',
       'Celtic / Brittonic': '#ff8800',
       'Celtic / Continental': '#ff8800',
       'Celtic / Goidelic': '#ff8800',
@@ -109,6 +120,7 @@ angular.module('cognatreeApp')
     return {
       onReady: onReady,
       colors: FAMCOLORS,
+      majorfamilies: MAJORFAMILIES,
       families: FAMILIES,
     };
   })

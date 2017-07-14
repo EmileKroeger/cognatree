@@ -128,3 +128,12 @@ table {
   margin-left: 0px;
   margin-bottom: 0px;
 }
+
+.secondary {
+  font-style: italic;
+  opacity: 50%;
+}
+
+.wordindex .colheader {
+  text-align: center;
+}

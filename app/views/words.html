@@ -1,18 +1,35 @@
 <p>Words</p>
-<div ng-repeat="worddesc in worddescs">
-  {{worddesc.meaning}}:
-  <span ng-repeat="family in families"
-  ng-if="worddesc[family]"
-  ng-style="{'background-color': colors[family]}">
-    <span ng-if="worddesc[family].length === 0">
+<table class="wordindex">
+<tr>
+  <th>Meaning</th>
+  <th ng-repeat="family in families"
+    ng-style="{'background-color': colors[family]}"
+    class="colheader"
+  >
       {{family}}
-    </span>
-    <span ng-repeat="word in worddesc[family]">
-      {{word.lang}}: {{word.writing}}
-      <a
-      ng-if="word.lang === 'English'" 
-      href="#/wordtree/{{word.writing}}"
-      >link</a>
-    </span>
-  </span>
-</div>
+  </th>
+</tr>
+<tr ng-repeat="worddesc in worddescs">
+  <th>
+  {{worddesc.meaning}}
+  </th>
+  <td ng-repeat="family in families"
+    ng-style="{'background-color': getcellcolor(worddesc, family)}"
+     style="border-top:1px solid white"
+  >
+    <div>
+      <span ng-if="worddesc[family].length === 0" class="secondary">
+        {{family}}
+      </span>
+      <div ng-repeat="word in worddesc[family]">
+        <span class="secondary">{{word.code}}:</span>
+        {{word.writing}}
+        <a
+        ng-if="word.lang === 'English'" 
+        href="#/wordtree/{{word.writing}}"
+        >link</a>
+      </div>
+    </div>
+  </td>
+</tr>
+</table>
