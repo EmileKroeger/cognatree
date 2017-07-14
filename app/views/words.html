@@ -2,8 +2,11 @@
 <div ng-repeat="worddesc in worddescs">
   {{worddesc.meaning}}:
   <span ng-repeat="family in families"
-  ng-if="worddesc[family]">
-    {{family}}
+  ng-if="worddesc[family]"
+  ng-style="{'background-color': colors[family]}">
+    <span ng-if="worddesc[family].length === 0">
+      {{family}}
+    </span>
     <span ng-repeat="word in worddesc[family]">
       {{word.lang}}: {{word.writing}}
       <a
