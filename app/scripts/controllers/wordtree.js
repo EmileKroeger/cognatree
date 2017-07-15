@@ -154,7 +154,107 @@ angular.module('cognatreeApp')
       families: FAMILIES,
     };
   })
-  .controller('WordtreeCtrl', function ($scope, $routeParams, $http, sLangInfo) {
+  .service('sTreeTable', function(sLangInfo) {
+    // insertion function
+    function insertInTree(node, path, item) {
+      //console.debug(["Inserting into", path, node]);
+      if (path && path.length) {
+        var head = path[0];
+        var tail = path.slice(1);
+        if (!node.children[head]) {
+          node.children[head] = {
+            items: [],
+            // TODO: this only works with no subcolors...
+            color: sLangInfo.getColor(item.family),
+            children: {},
+          };
+        }
+        //console.log("inserting into " + head);
+        insertInTree(node.children[head], tail, item);
+      } else {
+        //console.log("end up at " + item.family);
+        //console.debug(path);
+        node.items.push(item);
+      }
+    }
+    function pruneTree(node) {
+      // Return a pruned copy of self
+      var prunedChildren = {}
+      angular.forEach(node.children, function(child, key) {
+        var prunedChild = pruneTree(child);
+        if (prunedChild) {
+          prunedChildren[key] = prunedChild;
+        } else {
+          //console.log("DBG pruning " + key);
+        }
+      });
+      var hasWords = false;
+      if (node.items.length > 0) {
+        hasWords = node.items[0].important.length > 0;
+      }
+      if (!hasWords && angular.equals(prunedChildren, {})) {
+        return null;
+      } else {
+        return {
+          items: node.items,
+          color: node.color,
+          children: prunedChildren,
+        };
+      }
+    }
+    function addWidth(node) {
+      node.width = 0;
+      angular.forEach(node.children, function(child) {
+        addWidth(child);
+        node.width += child.width;
+      });
+      if (node.width <= 0) {
+        node.width = 1;
+      }
+    }
+    function addInTable(langTable, node, label, depth, fulldepth) {
+      while (langTable.length < depth) {
+        langTable.push([]);
+      }
+      var cell = {
+        branch: null,
+        width: node.width,
+        color: node.color,
+        depth: 1,
+        label: label,
+        hassiblings: false,
+        haschildren: true,
+      };
+      if (angular.equals(node.children, {})) {
+        cell.depth = fulldepth;
+        cell.haschildren = false;
+      }
+      if (node.items) {
+        cell.branch = node.items[0];
+      }
+      langTable[depth - 1].push(cell);
+      var lastChild = null;
+      angular.forEach(node.children, function(child, branchname) {
+        var newChild = addInTable(langTable, child, branchname, depth + 1, fulldepth-1);
+        if (lastChild) {
+          lastChild.hassiblings = true;
+          lastChild.siblingcolor = newChild.color;
+        }
+        lastChild = newChild;
+      });
+      return cell;
+    }
+    
+
+    return {
+      insertInTree: insertInTree,
+      pruneTree: pruneTree,
+      addWidth: addWidth,
+      addInTable: addInTable,
+    };
+  })
+  .controller('WordtreeCtrl', function ($scope, $routeParams, $http,
+                                  sLangInfo, sTreeTable) {
     // Prepare families
     sLangInfo.onReady(function(langInfo) {
       //console.log('got lang info:');
@@ -185,28 +285,6 @@ angular.module('cognatreeApp')
           color: sLangInfo.getColor(null),
           children: {},
         };
-        // insertion function
-        function insertInTree(node, path, item) {
-          //console.debug(["Inserting into", path, node]);
-          if (path && path.length) {
-            var head = path[0];
-            var tail = path.slice(1);
-            if (!node.children[head]) {
-              node.children[head] = {
-                items: [],
-                // TODO: this only works with no subcolors...
-                color: sLangInfo.getColor(item.family),
-                children: {},
-              };
-            }
-            //console.log("inserting into " + head);
-            insertInTree(node.children[head], tail, item);
-          } else {
-            //console.log("end up at " + item.family);
-            //console.debug(path);
-            node.items.push(item);
-          }
-        }
         // Now let's process all our languages to build our tree
         //angular.forEach(sLangInfo.families, function(family) {
         angular.forEach(familydata, function(wordInLang, lang) {
@@ -257,85 +335,16 @@ angular.module('cognatreeApp')
               parts = family.split(" / ");
             }
             branch.parts = parts;
-            insertInTree(langTree, parts, branch);
+            sTreeTable.insertInTree(langTree, parts, branch);
           }
         });
         // Remove from tree items with no children nor important
         // languages
-        function pruneTree(node) {
-          // Return a pruned copy of self
-          var prunedChildren = {}
-          angular.forEach(node.children, function(child, key) {
-            var prunedChild = pruneTree(child);
-            if (prunedChild) {
-              prunedChildren[key] = prunedChild;
-            } else {
-              //console.log("DBG pruning " + key);
-            }
-          });
-          var hasWords = false;
-          if (node.items.length > 0) {
-            hasWords = node.items[0].important.length > 0;
-          }
-          if (!hasWords && angular.equals(prunedChildren, {})) {
-            return null;
-          } else {
-            return {
-              items: node.items,
-              color: node.color,
-              children: prunedChildren,
-            };
-          }
-        }
-        langTree = pruneTree(langTree);
+        langTree = sTreeTable.pruneTree(langTree);
         // now: flatten langtree into a table!
-        // First step: calculate width.
-        function addWidth(node) {
-          node.width = 0;
-          angular.forEach(node.children, function(child) {
-            addWidth(child);
-            node.width += child.width;
-          });
-          if (node.width <= 0) {
-            node.width = 1;
-          }
-        }
-        addWidth(langTree);
-        // Now fill in the table.
+        sTreeTable.addWidth(langTree);
         var langTable = [];
-        function addInTable(node, label, depth, fulldepth) {
-          while (langTable.length < depth) {
-            langTable.push([]);
-          }
-          var cell = {
-            branch: null,
-            width: node.width,
-            color: node.color,
-            depth: 1,
-            label: label,
-            hassiblings: false,
-            haschildren: true,
-          };
-          if (angular.equals(node.children, {})) {
-            cell.depth = fulldepth;
-            cell.haschildren = false;
-          }
-          if (node.items) {
-            cell.branch = node.items[0];
-          }
-          langTable[depth - 1].push(cell);
-          var lastChild = null;
-          angular.forEach(node.children, function(child, branchname) {
-            var newChild = addInTable(child, branchname, depth + 1, fulldepth-1);
-            if (lastChild) {
-              lastChild.hassiblings = true;
-              lastChild.siblingcolor = newChild.color;
-            }
-            lastChild = newChild;
-          });
-          return cell;
-        }
-        var rootCell = addInTable(langTree, "IE", 1, 6);
+        var rootCell = sTreeTable.addInTable(langTable, langTree, "IE", 1, 6);
         window.langTable = langTable;
         $scope.langTable = langTable;
       });
