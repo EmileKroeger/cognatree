@@ -1,8 +1,49 @@
-<p>Denrogram.</p>
+<h1>
+  Family tree
+</h1>
+
+<div>
+  <div ng-repeat="family in families">
+    '{{family}}',
+  </div>
+</div>
+  
+
+<table>
+  <tr ng-repeat="row in langTable">
+    <td ng-repeat= "cell in row"
+    colspan={{cell.width}}
+    rowspan={{cell.depth}}
+    class="treecell"
+    ng-class="{
+      leftborder: cell.haschildren,
+      topborder: cell.hassiblings,
+    }"
+    ng-style="{
+      'border-left-color': cell.color,
+      'border-top-color': cell.siblingcolor,
+    }"
+    >
+    <div
+    ng-class="{
+      leftborder: !cell.haschildren,
+    }"
+    ng-style="{'border-color': cell.color}"
+    >
+      {{cell.label}}<br>
+
+  <div ng-repeat="entry in cell.branch.important" class="wordentry"
+  ng-style="{'background-color': entry.color}">
+    {{entry.lang}}
+  </div>
+
+    </div>
+
+    </td>
+  </tr>
+</table>
+
+
+<h1>Denrogram.</h1>
 <dendrogram ng-if="dtree" tree="dtree">
 </dendrogram>
-<!--
-<br>
-<br>
-Tree: {{dtree}}
--->

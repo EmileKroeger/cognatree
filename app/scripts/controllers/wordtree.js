@@ -50,14 +50,26 @@ angular.module('cognatreeApp')
       '?',
       'Celtic',
       'Celtic / Goidelic',
+      'Celtic / Goidelic / .irish',
+      'Celtic / Goidelic / .irish / .',
       'Celtic / Brittonic',
+      'Celtic / Brittonic / .wel',
+      'Celtic / Brittonic / .wel / .',
+      'Celtic / Brittonic / .cor',
+      'Celtic / Brittonic / .cor / .mod',
+      'Celtic / Brittonic / .bret',
+      'Celtic / Brittonic / .bret / .mod',
       'Celtic / Continental',
       'Osco-Umbrian',
       'Romance',
       'Romance / Iberian',
+      'Romance / Iberian / .por',
+      'Romance / Iberian / .por / .bra',
       'Romance / Gallic',
       'Romance / Gallic / Occitan',
       'Romance / Gallic / Oil',
+      'Romance / Gallic / Oil / .fr',
+      'Romance / Gallic / Oil / .fr / .',
       'Romance / Gallic / Rhaetian',
       'Romance / Italo-Dalmatian',
       'Romance / Sardinian',
@@ -65,20 +77,42 @@ angular.module('cognatreeApp')
       'Germanic',
       'Germanic / West',
       'Germanic / West / Anglo-Frisian',
+      'Germanic / West / Anglo-Frisian / .en',
+      'Germanic / West / Anglo-Frisian / .en / .',
       'Germanic / West / Low Franconian',
+      'Germanic / West / Low Franconian / .dutch',
+      'Germanic / West / Low Franconian / .dutch / .afr',
       'Germanic / West / High German',
+      'Germanic / West / High German / .',
       'Germanic / North',
       'Germanic / North / West',
       'Germanic / North / East',
       'Germanic / East',
+      'Germanic / North / East / .dan',
+      'Germanic / North / East / .dan / .',
+      'Germanic / North / East / .gut',
+      'Germanic / North / East / .gut / .',
+      'Germanic / North / East / .swe',
+      'Germanic / North / East / .swe / .',
       'Slavic',
+      'Slavic / Baltic',
+      'Slavic / Baltic / West',
       'Slavic / West',
-      'Slavic / Balto-Slavic',
+      'Slavic / West / .cz',
+      'Slavic / West / .cz / .',
+      'Slavic / South / Western',
+      'Slavic / South / Eastern',
+      'Slavic / East',
+      'Slavic / East / .',
       'Albanian',
       'Greek',
+      'Greek / .',
       'Anatolian',
       'Armenian',
+      'Armenian / .arm',
       'Indo-Iranian',
+      'Indo-Iranian / Iranian',
+      'Indo-Iranian / Iranian / .',
     ];
     var FAMCOLORS = {
       null: '#aaaaaa',
@@ -214,6 +248,8 @@ angular.module('cognatreeApp')
         });
         // Next: take those by family, insert them in the tree IN ORDER
         angular.forEach(sLangInfo.families, function(family) {
+          // TODO: figure out families
+          console.log("Inserting: " + family)
           var branch = byFamily[family];
           if (branch) {
             var parts = [];
@@ -299,7 +335,7 @@ angular.module('cognatreeApp')
           });
           return cell;
         }
-        var rootCell = addInTable(langTree, "IE", 1, 4);
+        var rootCell = addInTable(langTree, "IE", 1, 6);
         window.langTable = langTable;
         $scope.langTable = langTable;
       });

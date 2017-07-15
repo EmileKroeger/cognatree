@@ -16,8 +16,8 @@ angular.module('cognatreeApp')
       },
       link: function postLink(scope, element, attrs) {
         function insert(el, node) {
-          console.debug('processing...')
-          console.debug(node)
+          //console.debug('processing...')
+          //console.debug(node)
           if (typeof node === 'string') {
             $('<div>').text(node).appendTo(el);
             //el.append(node);
@@ -29,8 +29,8 @@ angular.module('cognatreeApp')
           }
         }
         //element.text('this is the dendrogram directive');
-        console.debug('todo: draw a nice dendrogram');
-        console.debug(scope.tree)
+        //console.debug('todo: draw a nice dendrogram');
+        //console.debug(scope.tree)
         insert(element, scope.tree)
       }
     };
