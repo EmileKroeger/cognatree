@@ -1,7 +1,7 @@
 {
   "Afrikaans": {
     "% pronunciation": "0", 
-    "Family": "Germanic / West / Low Franconian", 
+    "Family": "Germanic / West / Low Franconian / .dutch / .afr", 
     "Language": "Afrikaans", 
     "Parent": "Dutch", 
     "importance": 1, 
@@ -66,7 +66,7 @@
   }, 
   "Armenian List": {
     "% pronunciation": "0", 
-    "Family": "Armenian", 
+    "Family": "Armenian / .arm", 
     "Language": "Armenian List", 
     "Parent": "Classical Armenian", 
     "importance": 0, 
@@ -75,7 +75,7 @@
   }, 
   "Armenian Mod": {
     "% pronunciation": "73", 
-    "Family": "Armenian", 
+    "Family": "Armenian / .arm", 
     "Language": "Armenian Mod", 
     "Parent": "Classical Armenian", 
     "importance": 1, 
@@ -144,7 +144,7 @@
   }, 
   "Brazilian": {
     "% pronunciation": "28", 
-    "Family": "Romance / Iberian", 
+    "Family": "Romance / Iberian / .port / .bra", 
     "Language": "Brazilian", 
     "importance": 1, 
     "pronunciations": "60", 
@@ -152,7 +152,7 @@
   }, 
   "Breton List": {
     "% pronunciation": "0", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .bret / .mod", 
     "Language": "Breton List", 
     "Parent": "Old Breton", 
     "importance": 0, 
@@ -161,7 +161,7 @@
   }, 
   "Breton Se": {
     "% pronunciation": "0", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .bret / .mod", 
     "Language": "Breton Se", 
     "Parent": "Old Breton", 
     "importance": 0, 
@@ -170,7 +170,7 @@
   }, 
   "Breton St": {
     "% pronunciation": "89", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .bret / .mod", 
     "Language": "Breton St", 
     "Parent": "Old Breton", 
     "importance": 1, 
@@ -179,7 +179,7 @@
   }, 
   "Bulgarian": {
     "% pronunciation": "96", 
-    "Family": "Slavic", 
+    "Family": "Slavic / South / Eastern", 
     "Language": "Bulgarian", 
     "importance": 3, 
     "pronunciations": "179", 
@@ -187,7 +187,7 @@
   }, 
   "Bulgarian P": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / South / Eastern", 
     "Language": "Bulgarian P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -195,7 +195,7 @@
   }, 
   "Byelorussian": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / East", 
     "Language": "Byelorussian", 
     "importance": 3, 
     "pronunciations": "0", 
@@ -203,7 +203,7 @@
   }, 
   "Byelorussian P": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / East", 
     "Language": "Byelorussian P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -228,7 +228,7 @@
   }, 
   "Cornish": {
     "% pronunciation": "78", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .cor / .mod", 
     "Language": "Cornish", 
     "Parent": "Old Cornish", 
     "importance": 1, 
@@ -237,7 +237,7 @@
   }, 
   "Czech": {
     "% pronunciation": "90", 
-    "Family": "Slavic", 
+    "Family": "Slavic / West / .cz", 
     "Language": "Czech", 
     "importance": 3, 
     "pronunciations": "196", 
@@ -245,7 +245,7 @@
   }, 
   "Czech E": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / West / .cz / .", 
     "Language": "Czech E", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -253,7 +253,7 @@
   }, 
   "Czech P": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / West / .cz / .", 
     "Language": "Czech P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -261,7 +261,7 @@
   }, 
   "Danish": {
     "% pronunciation": "98", 
-    "Family": "Germanic / North / East", 
+    "Family": "Germanic / North / East / .dan", 
     "Language": "Danish", 
     "importance": 3, 
     "pronunciations": "252", 
@@ -269,7 +269,7 @@
   }, 
   "Danish Fjolde": {
     "% pronunciation": "99", 
-    "Family": "Germanic / North / East", 
+    "Family": "Germanic / North / East / .dan / .", 
     "Language": "Danish Fjolde", 
     "importance": 0, 
     "pronunciations": "229", 
@@ -293,7 +293,7 @@
   }, 
   "Dutch List": {
     "% pronunciation": "96", 
-    "Family": "Germanic / West / Low Franconian", 
+    "Family": "Germanic / West / Low Franconian / .dutch", 
     "Language": "Dutch List", 
     "importance": 3, 
     "pronunciations": "246", 
@@ -301,7 +301,7 @@
   }, 
   "English": {
     "% pronunciation": "96", 
-    "Family": "Germanic / West / Anglo-Frisian", 
+    "Family": "Germanic / West / Anglo-Frisian / .eng", 
     "Language": "English", 
     "importance": 4, 
     "pronunciations": "186", 
@@ -325,7 +325,7 @@
   }, 
   "French": {
     "% pronunciation": "100", 
-    "Family": "Romance / Gallic / Oil", 
+    "Family": "Romance / Gallic / Oil / .fr", 
     "Language": "French", 
     "importance": 4, 
     "pronunciations": "201", 
@@ -333,7 +333,7 @@
   }, 
   "French Creole C": {
     "% pronunciation": "0", 
-    "Family": "Romance / Gallic / Oil", 
+    "Family": "Romance / Gallic / Oil / .fr / .", 
     "Language": "French Creole C", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -341,7 +341,7 @@
   }, 
   "French Creole D": {
     "% pronunciation": "0", 
-    "Family": "Romance / Gallic / Oil", 
+    "Family": "Romance / Gallic / Oil / .fr / .", 
     "Language": "French Creole D", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -390,7 +390,7 @@
   }, 
   "Greek D": {
     "% pronunciation": "0", 
-    "Family": "Greek", 
+    "Family": "Greek / .", 
     "Language": "Greek D", 
     "Parent": "Ancient Greek", 
     "importance": 0, 
@@ -399,7 +399,7 @@
   }, 
   "Greek K": {
     "% pronunciation": "0", 
-    "Family": "Greek", 
+    "Family": "Greek / .", 
     "Language": "Greek K", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -407,7 +407,7 @@
   }, 
   "Greek Md": {
     "% pronunciation": "0", 
-    "Family": "Greek", 
+    "Family": "Greek / .", 
     "Language": "Greek Md", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -415,7 +415,7 @@
   }, 
   "Greek Ml": {
     "% pronunciation": "0", 
-    "Family": "Greek", 
+    "Family": "Greek / .", 
     "Language": "Greek Ml", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -423,7 +423,7 @@
   }, 
   "Greek Mod": {
     "% pronunciation": "78", 
-    "Family": "Greek", 
+    "Family": "Greek / .", 
     "Language": "Greek Mod", 
     "importance": 3, 
     "pronunciations": "193", 
@@ -479,7 +479,7 @@
   }, 
   "Irish A": {
     "% pronunciation": "0", 
-    "Family": "Celtic / Goidelic", 
+    "Family": "Celtic / Goidelic / .irish / .", 
     "Language": "Irish A", 
     "Parent": "Old Irish", 
     "importance": 0, 
@@ -488,7 +488,7 @@
   }, 
   "Irish B": {
     "% pronunciation": "35", 
-    "Family": "Celtic / Goidelic", 
+    "Family": "Celtic / Goidelic / .irish / .", 
     "Language": "Irish B", 
     "Parent": "Old Irish", 
     "importance": 3, 
@@ -706,7 +706,7 @@
   }, 
   "Old Cornish": {
     "% pronunciation": "0", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .cor", 
     "Language": "Old Cornish", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -714,7 +714,7 @@
   }, 
   "Old English": {
     "% pronunciation": "0", 
-    "Family": "Germanic / West / Anglo-Frisian", 
+    "Family": "Germanic / West / Anglo-Frisian / .en", 
     "Language": "Old English", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -722,7 +722,7 @@
   }, 
   "Old Gutnish": {
     "% pronunciation": "0", 
-    "Family": "Germanic / North", 
+    "Family": "Germanic / North / .gut", 
     "Language": "Old Gutnish", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -738,7 +738,7 @@
   }, 
   "Old Irish": {
     "% pronunciation": "99", 
-    "Family": "Celtic / Goidelic", 
+    "Family": "Celtic / Goidelic / .irish", 
     "Language": "Old Irish", 
     "importance": 2, 
     "pronunciations": "257", 
@@ -754,7 +754,7 @@
   }, 
   "Old Persian": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Old Persian", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -762,7 +762,7 @@
   }, 
   "Old Prussian": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / Baltic / West", 
     "Language": "Old Prussian", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -770,7 +770,7 @@
   }, 
   "Old Swedish": {
     "% pronunciation": "99", 
-    "Family": "Germanic / North / East", 
+    "Family": "Germanic / North / East / .swe", 
     "Language": "Old Swedish", 
     "importance": 2, 
     "pronunciations": "281", 
@@ -778,7 +778,7 @@
   }, 
   "Old Welsh": {
     "% pronunciation": "0", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .wel", 
     "Language": "Old Welsh", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -834,7 +834,7 @@
   }, 
   "Pennsylvania Dutch": {
     "% pronunciation": "0", 
-    "Family": "Germanic / West / Low Franconian", 
+    "Family": "Germanic / West / Low Franconian / .dutch", 
     "Language": "Pennsylvania Dutch", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -842,7 +842,7 @@
   }, 
   "Persian": {
     "% pronunciation": "26", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Persian", 
     "Parent": "Old Persian", 
     "importance": 3, 
@@ -851,7 +851,7 @@
   }, 
   "Polish": {
     "% pronunciation": "100", 
-    "Family": "Slavic", 
+    "Family": "Slavic / West", 
     "Language": "Polish", 
     "importance": 3, 
     "pronunciations": "212", 
@@ -859,7 +859,7 @@
   }, 
   "Polish P": {
     "% pronunciation": "1", 
-    "Family": "Slavic", 
+    "Family": "Slavic / West", 
     "Language": "Polish P", 
     "importance": 0, 
     "pronunciations": "3", 
@@ -867,7 +867,7 @@
   }, 
   "Portuguese St": {
     "% pronunciation": "85", 
-    "Family": "Romance / Iberian", 
+    "Family": "Romance / Iberian / .por", 
     "Language": "Portuguese St", 
     "importance": 3, 
     "pronunciations": "198", 
@@ -914,7 +914,7 @@
   }, 
   "Russian": {
     "% pronunciation": "99", 
-    "Family": "Slavic", 
+    "Family": "Slavic / East", 
     "Language": "Russian", 
     "importance": 4, 
     "pronunciations": "195", 
@@ -922,7 +922,7 @@
   }, 
   "Russian P": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / East", 
     "Language": "Russian P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -962,7 +962,7 @@
   }, 
   "Schwyzerd\u00fctsch": {
     "% pronunciation": "0", 
-    "Family": "Germanic / West / High German", 
+    "Family": "Germanic / West / High German / .", 
     "Language": "Schwyzerd\u00fctsch", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -978,7 +978,7 @@
   }, 
   "Serbian": {
     "% pronunciation": "70", 
-    "Family": "Slavic", 
+    "Family": "Slavic / South / Western", 
     "Language": "Serbian", 
     "importance": 3, 
     "pronunciations": "157", 
@@ -986,7 +986,7 @@
   }, 
   "Serbocroatian": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / South / Western", 
     "Language": "Serbocroatian", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -994,7 +994,7 @@
   }, 
   "Serbocroatian P": {
     "% pronunciation": "73", 
-    "Family": "Slavic", 
+    "Family": "Slavic / South / Western", 
     "Language": "Serbocroatian P", 
     "importance": 0, 
     "pronunciations": "164", 
@@ -1026,7 +1026,7 @@
   }, 
   "Slovak": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / West", 
     "Language": "Slovak", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -1034,7 +1034,7 @@
   }, 
   "Slovak P": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / West", 
     "Language": "Slovak P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1042,7 +1042,7 @@
   }, 
   "Slovenian": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / South / Western", 
     "Language": "Slovenian", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -1050,7 +1050,7 @@
   }, 
   "Slovenian P": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / South / Western", 
     "Language": "Slovenian P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1091,7 +1091,7 @@
   }, 
   "Standard German (Munich)": {
     "% pronunciation": "0", 
-    "Family": "Germanic / West / High German", 
+    "Family": "Germanic / West / High German / .", 
     "Language": "Standard German (Munich)", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -1108,7 +1108,7 @@
   }, 
   "Swedish": {
     "% pronunciation": "97", 
-    "Family": "Germanic / North / East", 
+    "Family": "Germanic / North / East / .swe / .", 
     "Language": "Swedish", 
     "Parent": "Old Swedish", 
     "importance": 3, 
@@ -1117,7 +1117,7 @@
   }, 
   "Swedish Up": {
     "% pronunciation": "1", 
-    "Family": "Germanic / North / East", 
+    "Family": "Germanic / North / East / .swe / .", 
     "Language": "Swedish Up", 
     "Parent": "Old Swedish", 
     "importance": 0, 
@@ -1126,7 +1126,7 @@
   }, 
   "Swedish Vl": {
     "% pronunciation": "1", 
-    "Family": "Germanic / North / East", 
+    "Family": "Germanic / North / East / .swe / .", 
     "Language": "Swedish Vl", 
     "Parent": "Old Swedish", 
     "importance": 0, 
@@ -1168,7 +1168,7 @@
   }, 
   "Ukrainian": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / East", 
     "Language": "Ukrainian", 
     "importance": 3, 
     "pronunciations": "1", 
@@ -1176,7 +1176,7 @@
   }, 
   "Ukrainian P": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Slavic / East", 
     "Language": "Ukrainian P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1216,7 +1216,7 @@
   }, 
   "Vlach": {
     "% pronunciation": "0", 
-    "Family": "Slavic", 
+    "Family": "Romance / Eastern", 
     "Language": "Vlach", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -1248,7 +1248,7 @@
   }, 
   "Welsh C": {
     "% pronunciation": "0", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .wel / .", 
     "Language": "Welsh C", 
     "Parent": "Old Welsh", 
     "importance": 0, 
@@ -1257,7 +1257,7 @@
   }, 
   "Welsh N": {
     "% pronunciation": "10", 
-    "Family": "Celtic / Brittonic", 
+    "Family": "Celtic / Brittonic / .wel / .", 
     "Language": "Welsh N", 
     "Parent": "Old Welsh", 
     "importance": 3, 
