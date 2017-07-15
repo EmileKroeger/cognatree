@@ -15,7 +15,9 @@
 </tr>
 <tr ng-repeat="worddesc in worddescs">
   <th>
-  {{worddesc.meaning}}
+    <a href="#/word/{{worddesc.index}}">
+      {{worddesc.meaning}}
+    </a>
   </th>
   <td ng-repeat="family in families"
     ng-style="{'background-color': getcellcolor(worddesc, family)}"
@@ -31,10 +33,6 @@
         <span class="secondary"
         >{{word.code}}:</span>
         {{word.writing}}
-        <a
-        ng-if="word.lang === 'English'" 
-        href="#/wordtree/{{word.writing}}"
-        >link</a>
       </div>
     </div>
   </td>

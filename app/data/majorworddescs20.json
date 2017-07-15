@@ -83,6 +83,7 @@
       "Romance", 
       "Slavic"
     ], 
+    "index": 0, 
     "meaning": "I"
   }, 
   {
@@ -111,6 +112,7 @@
       "Germanic", 
       "Indo-Iranian"
     ], 
+    "index": 2, 
     "meaning": "I"
   }, 
   {
@@ -136,6 +138,7 @@
       "Greek", 
       "Indo-Iranian"
     ], 
+    "index": 16, 
     "meaning": "and"
   }, 
   {
@@ -161,6 +164,7 @@
       "Greek", 
       "Slavic"
     ], 
+    "index": 27, 
     "meaning": "animal"
   }, 
   {
@@ -210,6 +214,7 @@
       "Romance", 
       "Slavic"
     ], 
+    "index": 28, 
     "meaning": "animal"
   }, 
   {
@@ -228,6 +233,7 @@
       "Germanic", 
       "Romance"
     ], 
+    "index": 29, 
     "meaning": "animal"
   }, 
   {
@@ -244,6 +250,7 @@
       "Greek", 
       "Slavic"
     ], 
+    "index": 30, 
     "meaning": "animal"
   }, 
   {
@@ -277,6 +284,7 @@
       "Germanic", 
       "Indo-Iranian"
     ], 
+    "index": 39, 
     "meaning": "ashes"
   }, 
   {
@@ -306,6 +314,7 @@
       "Romance", 
       "Slavic"
     ], 
+    "index": 42, 
     "meaning": "ashes"
   }, 
   {
@@ -333,6 +342,7 @@
       "Greek", 
       "Indo-Iranian"
     ], 
+    "index": 67, 
     "meaning": "at"
   }, 
   {
@@ -360,6 +370,7 @@
       "Romance", 
       "Slavic"
     ], 
+    "index": 70, 
     "meaning": "at"
   }, 
   {
@@ -416,6 +427,7 @@
       "Romance", 
       "Slavic"
     ], 
+    "index": 78, 
     "meaning": "at"
   }, 
   {
@@ -434,6 +446,7 @@
       "Greek", 
       "Slavic"
     ], 
+    "index": 100, 
     "meaning": "back"
   }, 
   {
@@ -450,6 +463,7 @@
       "Germanic", 
       "Slavic"
     ], 
+    "index": 126, 
     "meaning": "bad"
   }, 
   {
@@ -467,6 +481,7 @@
       "Greek", 
       "Indo-Iranian"
     ], 
+    "index": 131, 
     "meaning": "bad"
   }, 
   {
@@ -483,6 +498,7 @@
       "?", 
       "Germanic"
     ], 
+    "index": 143, 
     "meaning": "bad"
   }, 
   {
@@ -499,6 +515,7 @@
       "Celtic", 
       "Germanic"
     ], 
+    "index": 144, 
     "meaning": "bad"
   }, 
   {
@@ -538,6 +555,7 @@
       "Romance", 
       "Slavic"
     ], 
+    "index": 175, 
     "meaning": "bark"
   }, 
   {
@@ -554,6 +572,7 @@
       "Celtic", 
       "Romance"
     ], 
+    "index": 179, 
     "meaning": "bark"
   }, 
   {
@@ -582,6 +601,7 @@
       "Romance", 
       "Slavic"
     ], 
+    "index": 219, 
     "meaning": "because"
   }
 ]

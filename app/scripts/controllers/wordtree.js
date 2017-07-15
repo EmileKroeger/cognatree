@@ -128,9 +128,14 @@ angular.module('cognatreeApp')
     });
 
     // Handle word
-    console.debug($routeParams.word);
+    console.debug([$routeParams.word, $routeParams.index]);
     $scope.word = $routeParams.word;
-    var wordurl = 'data/families/english/' + $scope.word + '.json';
+    $scope.index = $routeParams.index;
+    if ($scope.word) {
+      var wordurl = 'data/families/english/' + $scope.word + '.json';
+    } else {
+      var wordurl = 'data/families/all/wordfam' + $scope.index + '.json';
+    }
     $scope.branches = [];
     $http.get(wordurl).
     success(function(familydata) {
