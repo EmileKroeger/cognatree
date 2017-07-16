@@ -96,8 +96,12 @@ angular.module('cognatreeApp')
       'Germanic / North / East / .swe / .',
       'Slavic',
       'Slavic / Baltic',
+      'Slavic / Baltic / East',
       'Slavic / Baltic / West',
       'Slavic / West',
+      'Slavic / West / .sor',
+      'Slavic / West / .slo',
+      'Slavic / West / .pol',
       'Slavic / West / .cz',
       'Slavic / West / .cz / .',
       'Slavic / South / Western',
@@ -113,6 +117,8 @@ angular.module('cognatreeApp')
       'Indo-Iranian',
       'Indo-Iranian / Iranian',
       'Indo-Iranian / Iranian / .',
+      'Indo-Iranian / ?',
+      'Indo-Iranian / Indo-Aryan',
     ];
     var FAMCOLORS = {
       null: '#aaaaaa',
@@ -262,7 +268,7 @@ angular.module('cognatreeApp')
     });
 
     // Handle word
-    console.debug([$routeParams.word, $routeParams.index]);
+    //console.debug([$routeParams.word, $routeParams.index]);
     $scope.word = $routeParams.word;
     $scope.index = $routeParams.index;
     if ($scope.word) {
@@ -272,11 +278,11 @@ angular.module('cognatreeApp')
     }
     $scope.branches = [];
     $http.get(wordurl).
-    success(function(familydata) {
+    success(function(wordFamilyData) {
       //console.debug('data:');
-      //console.debug(familydata);
-      $scope.meaning = familydata._MEANING;
-      delete familydata._MEANING;
+      //console.debug(wordFamilyData);
+      $scope.meaning = wordFamilyData._MEANING;
+      delete wordFamilyData._MEANING;
       var byFamily = {};
       sLangInfo.onReady(function(langInfo) {
         // Data format: tree
@@ -287,7 +293,7 @@ angular.module('cognatreeApp')
         };
         // Now let's process all our languages to build our tree
         //angular.forEach(sLangInfo.families, function(family) {
-        angular.forEach(familydata, function(wordInLang, lang) {
+        angular.forEach(wordFamilyData, function(wordInLang, lang) {
           if (wordInLang) {
             var family = '?';
             var color = 'lightgrey';
@@ -321,13 +327,12 @@ angular.module('cognatreeApp')
             } else {
               byFamily[family].minor.push(entry);
             }
-            delete familydata[lang];
           }
         });
         // Next: take those by family, insert them in the tree IN ORDER
         angular.forEach(sLangInfo.families, function(family) {
           // TODO: figure out families
-          console.log("Inserting: " + family)
+          //console.log("Inserting: " + family)
           var branch = byFamily[family];
           if (branch) {
             var parts = [];

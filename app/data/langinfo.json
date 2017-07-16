@@ -84,7 +84,7 @@
   }, 
   "Ashkun": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Ashkun", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -92,7 +92,7 @@
   }, 
   "Assamese": {
     "% pronunciation": "65", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Assamese", 
     "Parent": "1", 
     "importance": 0, 
@@ -101,7 +101,7 @@
   }, 
   "Avestan": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Avestan", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -109,7 +109,7 @@
   }, 
   "Baluchi": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Baluchi", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -117,7 +117,7 @@
   }, 
   "Bengali": {
     "% pronunciation": "15", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Bengali", 
     "Parent": "0", 
     "importance": 2, 
@@ -126,7 +126,7 @@
   }, 
   "Bhojpuri": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Bhojpuri", 
     "Parent": "0", 
     "importance": 0, 
@@ -135,7 +135,7 @@
   }, 
   "Bihari": {
     "% pronunciation": "80", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Bihari", 
     "Parent": "0", 
     "importance": 0, 
@@ -277,7 +277,7 @@
   }, 
   "Digor Ossetic": {
     "% pronunciation": "99", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Digor Ossetic", 
     "importance": 0, 
     "pronunciations": "182", 
@@ -431,7 +431,7 @@
   }, 
   "Gujarati": {
     "% pronunciation": "5", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Gujarati", 
     "importance": 0, 
     "pronunciations": "11", 
@@ -447,7 +447,7 @@
   }, 
   "Gypsy Gk": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Gypsy Gk", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -455,7 +455,7 @@
   }, 
   "Hindi": {
     "% pronunciation": "35", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Hindi", 
     "importance": 3, 
     "pronunciations": "76", 
@@ -497,7 +497,7 @@
   }, 
   "Iron Ossetic": {
     "% pronunciation": "100", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Iron Ossetic", 
     "importance": 0, 
     "pronunciations": "188", 
@@ -514,7 +514,7 @@
   }, 
   "Kashmiri": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Kashmiri", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -522,7 +522,7 @@
   }, 
   "Kati": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Kati", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -530,7 +530,7 @@
   }, 
   "Khaskura": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Khaskura", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -538,7 +538,7 @@
   }, 
   "Kurdish": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Kurdish", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -554,7 +554,7 @@
   }, 
   "Lahnda": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Lahnda", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -570,7 +570,7 @@
   }, 
   "Latvian": {
     "% pronunciation": "0", 
-    "Family": "Slavic / Baltic", 
+    "Family": "Slavic / Baltic / East", 
     "Language": "Latvian", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -578,7 +578,7 @@
   }, 
   "Lithuanian O": {
     "% pronunciation": "0", 
-    "Family": "Slavic / Baltic", 
+    "Family": "Slavic / Baltic / East", 
     "Language": "Lithuanian O", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -586,7 +586,7 @@
   }, 
   "Lithuanian St": {
     "% pronunciation": "32", 
-    "Family": "Slavic / Baltic", 
+    "Family": "Slavic / Baltic / East", 
     "Language": "Lithuanian St", 
     "importance": 1, 
     "pronunciations": "68", 
@@ -594,7 +594,7 @@
   }, 
   "Lower Sorbian": {
     "% pronunciation": "0", 
-    "Family": "Slavic / West", 
+    "Family": "Slavic / West / .sor", 
     "Language": "Lower Sorbian", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -642,7 +642,7 @@
   }, 
   "Magahi": {
     "% pronunciation": "100", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Magahi", 
     "importance": 0, 
     "pronunciations": "61", 
@@ -658,7 +658,7 @@
   }, 
   "Marathi": {
     "% pronunciation": "86", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Marathi", 
     "importance": 1, 
     "pronunciations": "192", 
@@ -666,7 +666,7 @@
   }, 
   "Marwari": {
     "% pronunciation": "45", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Marwari", 
     "importance": 0, 
     "pronunciations": "81", 
@@ -674,7 +674,7 @@
   }, 
   "Nepali": {
     "% pronunciation": "5", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Nepali", 
     "importance": 1, 
     "pronunciations": "13", 
@@ -786,7 +786,7 @@
   }, 
   "Oriya": {
     "% pronunciation": "99", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Oriya", 
     "importance": 0, 
     "pronunciations": "231", 
@@ -802,7 +802,7 @@
   }, 
   "Ossetic": {
     "% pronunciation": "82", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Ossetic", 
     "importance": 0, 
     "pronunciations": "165", 
@@ -818,7 +818,7 @@
   }, 
   "Panjabi St": {
     "% pronunciation": "5", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Panjabi St", 
     "importance": 0, 
     "pronunciations": "10", 
@@ -826,7 +826,7 @@
   }, 
   "Pashto": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Pashto", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -851,7 +851,7 @@
   }, 
   "Polish": {
     "% pronunciation": "100", 
-    "Family": "Slavic / West", 
+    "Family": "Slavic / West / .pol", 
     "Language": "Polish", 
     "importance": 3, 
     "pronunciations": "212", 
@@ -859,7 +859,7 @@
   }, 
   "Polish P": {
     "% pronunciation": "1", 
-    "Family": "Slavic / West", 
+    "Family": "Slavic / West / .pol", 
     "Language": "Polish P", 
     "importance": 0, 
     "pronunciations": "3", 
@@ -875,7 +875,7 @@
   }, 
   "Prasun": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Prasun", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -954,7 +954,7 @@
   }, 
   "Sariqoli": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Sariqoli", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1002,7 +1002,7 @@
   }, 
   "Shughni": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Shughni", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1010,7 +1010,7 @@
   }, 
   "Sindhi": {
     "% pronunciation": "13", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Sindhi", 
     "importance": 0, 
     "pronunciations": "24", 
@@ -1018,7 +1018,7 @@
   }, 
   "Singhalese": {
     "% pronunciation": "11", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Singhalese", 
     "importance": 0, 
     "pronunciations": "15", 
@@ -1026,7 +1026,7 @@
   }, 
   "Slovak": {
     "% pronunciation": "0", 
-    "Family": "Slavic / West", 
+    "Family": "Slavic / West / .slo", 
     "Language": "Slovak", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -1034,7 +1034,7 @@
   }, 
   "Slovak P": {
     "% pronunciation": "0", 
-    "Family": "Slavic / West", 
+    "Family": "Slavic / West / .slo", 
     "Language": "Slovak P", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1058,7 +1058,7 @@
   }, 
   "Sogdian": {
     "% pronunciation": "1", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Sogdian", 
     "importance": 0, 
     "pronunciations": "2", 
@@ -1135,7 +1135,7 @@
   }, 
   "Tadzik": {
     "% pronunciation": "32", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Iranian", 
     "Language": "Tadzik", 
     "importance": 1, 
     "pronunciations": "72", 
@@ -1143,7 +1143,7 @@
   }, 
   "Tocharian A": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Tocharian A", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1151,7 +1151,7 @@
   }, 
   "Tocharian B": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Tocharian B", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1192,7 +1192,7 @@
   }, 
   "Upper Sorbian": {
     "% pronunciation": "0", 
-    "Family": "Slavic / West", 
+    "Family": "Slavic / West / .sor", 
     "Language": "Upper Sorbian", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1200,7 +1200,7 @@
   }, 
   "Urdu": {
     "% pronunciation": "100", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Urdu", 
     "importance": 3, 
     "pronunciations": "204", 
@@ -1208,7 +1208,7 @@
   }, 
   "Vedic Sanskrit": {
     "% pronunciation": "1", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Vedic Sanskrit", 
     "importance": 0, 
     "pronunciations": "4", 
@@ -1224,7 +1224,7 @@
   }, 
   "Wakhi": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Wakhi", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1240,7 +1240,7 @@
   }, 
   "Waziri": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Waziri", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1266,7 +1266,7 @@
   }, 
   "Zazaki": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian", 
+    "Family": "Indo-Iranian / ?", 
     "Language": "Zazaki", 
     "importance": 0, 
     "pronunciations": "0", 

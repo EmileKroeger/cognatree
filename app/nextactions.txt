@@ -14,8 +14,8 @@
  * -simplify color handling (fam only?)-
  * -generate a tree data structure for each of those entries (wordfam)-
  * -Make fuller language families for better depths-
+ * -Make a simple language tree viewer-
 
- * Make a simple language tree viewer
  * add count of languages with that word to wordlist
  * Make hidden words collapsible
 

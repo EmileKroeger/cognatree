@@ -2,12 +2,13 @@
   Family tree
 </h1>
 
+<!--
 <div>
   <div ng-repeat="family in families">
     '{{family}}',
   </div>
 </div>
-  
+-->
 
 <table>
   <tr ng-repeat="row in langTable">
@@ -30,7 +31,9 @@
     }"
     ng-style="{'border-color': cell.color}"
     >
-      {{cell.label}}<br>
+      <div ng-if="cell.label[0] != '.'">
+        {{cell.label}}
+      </div>
 
   <div ng-repeat="entry in cell.branch.important" class="wordentry"
   ng-style="{'background-color': entry.color}">
