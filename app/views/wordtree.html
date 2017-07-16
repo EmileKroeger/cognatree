@@ -21,14 +21,17 @@
     }"
     ng-style="{'border-color': cell.color}"
     >
-      <div ng-if="cell.label[0] != '.'">
+      <div
+        ng-if="cell.label[0] != '.'"
+        ng-style="{'color': cell.color}">
         {{cell.label}}
       </div>
 
       <div ng-repeat="entry in cell.branch.important" class="wordentry"
       ng-style="{'background-color': entry.color}">
-        {{entry.lang}}
-        <br>
+        <div class="langname">
+          {{entry.lang}}
+        </div>
         <b>{{entry.writing}}</b>
         <br>
         <i>{{entry.pronunciation}}</i>

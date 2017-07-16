@@ -96,7 +96,9 @@ body {
   display: inline-block;
   background-color: #eef;
   margin: 3px;
+  padding: 4px;
   justify: center;
+  min-width: 80px;
 }
 
 table {
@@ -136,4 +138,10 @@ table {
 
 .wordindex .colheader {
   text-align: center;
+}
+
+.langname {
+  color: white;
+  font-style: italic;
+  opacity: 0.6;
 }

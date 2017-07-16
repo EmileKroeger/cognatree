@@ -31,7 +31,9 @@
     }"
     ng-style="{'border-color': cell.color}"
     >
-      <div ng-if="cell.label[0] != '.'">
+      <div
+        ng-if="cell.label[0] != '.'"
+        ng-style="{'color': cell.color}">
         {{cell.label}}
       </div>
 

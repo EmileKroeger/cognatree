@@ -84,7 +84,7 @@
   }, 
   "Ashkun": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Nuristani", 
     "Language": "Ashkun", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -92,7 +92,7 @@
   }, 
   "Assamese": {
     "% pronunciation": "65", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Assamese", 
     "Parent": "1", 
     "importance": 0, 
@@ -101,7 +101,7 @@
   }, 
   "Avestan": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Avestan", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -109,7 +109,7 @@
   }, 
   "Baluchi": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Baluchi", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -277,7 +277,7 @@
   }, 
   "Digor Ossetic": {
     "% pronunciation": "99", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Digor Ossetic", 
     "importance": 0, 
     "pronunciations": "182", 
@@ -497,7 +497,7 @@
   }, 
   "Iron Ossetic": {
     "% pronunciation": "100", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Iron Ossetic", 
     "importance": 0, 
     "pronunciations": "188", 
@@ -522,7 +522,7 @@
   }, 
   "Kati": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Nuristani", 
     "Language": "Kati", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -530,7 +530,7 @@
   }, 
   "Khaskura": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Khaskura", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -538,7 +538,7 @@
   }, 
   "Kurdish": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Kurdish", 
     "importance": 1, 
     "pronunciations": "0", 
@@ -554,7 +554,7 @@
   }, 
   "Lahnda": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Lahnda", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -666,7 +666,7 @@
   }, 
   "Marwari": {
     "% pronunciation": "45", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Indo-Aryan", 
     "Language": "Marwari", 
     "importance": 0, 
     "pronunciations": "81", 
@@ -754,7 +754,7 @@
   }, 
   "Old Persian": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .per", 
     "Language": "Old Persian", 
     "importance": 2, 
     "pronunciations": "0", 
@@ -802,7 +802,7 @@
   }, 
   "Ossetic": {
     "% pronunciation": "82", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Ossetic", 
     "importance": 0, 
     "pronunciations": "165", 
@@ -826,7 +826,7 @@
   }, 
   "Pashto": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Pashto", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -842,7 +842,7 @@
   }, 
   "Persian": {
     "% pronunciation": "26", 
-    "Family": "Indo-Iranian / Iranian / .", 
+    "Family": "Indo-Iranian / Iranian / .per / .", 
     "Language": "Persian", 
     "Parent": "Old Persian", 
     "importance": 3, 
@@ -875,7 +875,7 @@
   }, 
   "Prasun": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Nuristani", 
     "Language": "Prasun", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -954,7 +954,7 @@
   }, 
   "Sariqoli": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Sariqoli", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1002,7 +1002,7 @@
   }, 
   "Shughni": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Shughni", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1058,7 +1058,7 @@
   }, 
   "Sogdian": {
     "% pronunciation": "1", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Sogdian", 
     "importance": 0, 
     "pronunciations": "2", 
@@ -1135,7 +1135,7 @@
   }, 
   "Tadzik": {
     "% pronunciation": "32", 
-    "Family": "Indo-Iranian / Iranian", 
+    "Family": "Indo-Iranian / Iranian / .per / .", 
     "Language": "Tadzik", 
     "importance": 1, 
     "pronunciations": "72", 
@@ -1143,7 +1143,7 @@
   }, 
   "Tocharian A": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Tocharian", 
     "Language": "Tocharian A", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1151,7 +1151,7 @@
   }, 
   "Tocharian B": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Tocharian", 
     "Language": "Tocharian B", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1224,7 +1224,7 @@
   }, 
   "Wakhi": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Wakhi", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1240,7 +1240,7 @@
   }, 
   "Waziri": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Waziri", 
     "importance": 0, 
     "pronunciations": "0", 
@@ -1266,7 +1266,7 @@
   }, 
   "Zazaki": {
     "% pronunciation": "0", 
-    "Family": "Indo-Iranian / ?", 
+    "Family": "Indo-Iranian / Iranian / .", 
     "Language": "Zazaki", 
     "importance": 0, 
     "pronunciations": "0", 

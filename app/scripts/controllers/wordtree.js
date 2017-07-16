@@ -117,22 +117,25 @@ angular.module('cognatreeApp')
       'Indo-Iranian',
       'Indo-Iranian / Iranian',
       'Indo-Iranian / Iranian / .',
+      'Indo-Iranian / Iranian / .per',
+      'Indo-Iranian / Iranian / .per / .',
       'Indo-Iranian / ?',
       'Indo-Iranian / Indo-Aryan',
+      'Indo-Iranian / Nuristani',
     ];
     var FAMCOLORS = {
       null: '#aaaaaa',
       '?': '#aaaaaa',
       'Celtic': '#00ff00',
-      'Osco-Umbrian': '#00ffff',
-      'Romance': '#00ffff',
+      'Osco-Umbrian': '#00dddd',
+      'Romance': '#00dddd',
       'Germanic': '#6666ff',
       'Slavic': '#dd00dd',
-      'Albanian': '#cccccc',
+      'Albanian': '#bbbbbb',
       'Greek': '#ff6622',
-      'Anatolian': '#cccccc',
-      'Armenian': '#cccccc',
-      'Indo-Iranian': '#ffff00',
+      'Anatolian': '#bbbbbb',
+      'Armenian': '#bbbbbb',
+      'Indo-Iranian': '#dddd00',
     };
     function getPathColor(path) {
       if (path) {
