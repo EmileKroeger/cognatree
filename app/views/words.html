@@ -5,17 +5,19 @@
     Sort:<br> {{sortname}}
   </th>
   <th
-    ng-style="{'color': colors['?']}"
+    ng-style="{'color': colors['?'], 'text-decoration': checkDecoration('?')}"
     class="colheader"
+    ng-click="toggleFilter('?')"
   >Indo-European</th>
   <th ng-repeat="family in families.slice(1)"
-    ng-style="{'color': colors[family]}"
+    ng-style="{'color': colors[family], 'text-decoration': checkDecoration(family)}"
     class="colheader"
+    ng-click="toggleFilter(family)"
   >
       {{family}}
   </th>
 </tr>
-<tr ng-repeat="worddesc in worddescs | orderBy:sortkey">
+<tr ng-repeat="worddesc in worddescs | filter:filterKey | orderBy:sortkey">
   <th>
     <a href="#/word/{{worddesc.index}}">
       {{worddesc.meaning}}

@@ -138,11 +138,13 @@ table {
 
 .wordindex .colheader {
   text-align: center;
+  user-select: none;
+  cursor: pointer;
 }
 
 .wordindex td {
   vertical-align: top;
-  min-width: 75px;
+  width: 90px;
   padding: 4px;
 }
 

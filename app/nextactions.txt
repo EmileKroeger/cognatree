@@ -21,6 +21,7 @@
  * -Find a better name for cognate groups-
  * -Allow sorting of language list by number of branches-
 
+ * Allow toggling of families in table
  * in tree: Make hidden words collapsible
 
 Terminology:

@@ -10,7 +10,7 @@
 angular.module('cognatreeApp')
   .controller('WordsCtrl', function ($scope, $http, sLangInfo) {
     var WORDINDEX_URL = 'data/majorworddescs.json';
-    //WORDINDEX_URL = 'data/majorworddescs20.json';
+    WORDINDEX_URL = 'data/majorworddescs20.json';
     $scope.families = sLangInfo.majorfamilies;
     $scope.colors = sLangInfo.colors;
     $http.get(WORDINDEX_URL).success(function(worddescs) {
@@ -22,6 +22,21 @@ angular.module('cognatreeApp')
         return sLangInfo.colors[family];
       } else {
         return "white";
+      }
+    }
+
+    // Keep track of which families we want to track
+    $scope.filterKey = null;
+    $scope.toggleFilter = function(family) {
+      if ($scope.filterKey === family) {
+        $scope.filterKey = null;
+      } else {
+        $scope.filterKey = family;
+      }
+    };
+    $scope.checkDecoration = function(family) {
+      if ($scope.filterKey === family) {
+        return "underline";
       }
     }
     
