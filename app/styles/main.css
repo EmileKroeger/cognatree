@@ -142,6 +142,8 @@ table {
 
 .wordindex td {
   vertical-align: top;
+  min-width: 75px;
+  padding: 4px;
 }
 
 .langname {

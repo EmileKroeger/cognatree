@@ -16,9 +16,8 @@
  * -Make fuller language families for better depths-
  * -Make a simple language tree viewer-
  * -add count of languages with that word to wordlist-
-
- * table: align on top
- * split proto IE in several tables
+ * -table: align on top-
+ * -split proto IE in several tables-
 
  * Find a better name for cognate groups
  * Allow sorting of language list by number of branches
