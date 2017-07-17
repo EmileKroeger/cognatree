@@ -23,16 +23,28 @@
     ng-style="{'background-color': getcellcolor(worddesc, family)}"
      style="border-top:1px solid white"
   >
-    <div>
-      <span ng-if="worddesc[family].length === 0" 
+    <div ng-if="worddesc[family]">
+      <div ng-if="worddesc[family].major.length === 0" 
       class="secondary"
       >
         {{family}}
-      </span>
-      <div ng-repeat="word in worddesc[family]">
+        <div
+          ng-if="worddesc[family].other === 1">
+          1 language
+        </div>
+        <div
+          ng-if="worddesc[family].other > 1">
+          {{worddesc[family].other}} languages
+        </div>
+      </div>
+      <div ng-repeat="word in worddesc[family].major">
         <span class="secondary"
         >{{word.code}}:</span>
         {{word.writing}}
+      </div>
+      <div class="secondary"
+        ng-if="worddesc[family].other && worddesc[family].major.length">
+        ... {{worddesc[family].other}} others
       </div>
     </div>
   </td>

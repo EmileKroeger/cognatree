@@ -15,9 +15,14 @@
  * -generate a tree data structure for each of those entries (wordfam)-
  * -Make fuller language families for better depths-
  * -Make a simple language tree viewer-
+ * -add count of languages with that word to wordlist-
 
- * add count of languages with that word to wordlist
- * Make hidden words collapsible
+ * table: align on top
+ * split proto IE in several tables
+
+ * Find a better name for cognate groups
+ * Allow sorting of language list by number of branches
+ * in tree: Make hidden words collapsible
 
 More general reflections:
 
@@ -27,3 +32,5 @@ I could have two kinds of tree display:
  
 Other interesting data:
  * compare words with p- and f-
+ 
+ 

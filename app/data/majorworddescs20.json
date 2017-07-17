@@ -1,77 +1,95 @@
 [
   {
-    "?": [
-      {
-        "code": "pie", 
-        "lang": "Proto-Indo-European", 
-        "pronunciation": "", 
-        "writing": "*h\u2081eg\u0311h\u2082-\u00f3m"
-      }
-    ], 
-    "Germanic": [
-      {
-        "code": "eng", 
-        "lang": "English", 
-        "pronunciation": "a\u026a", 
-        "writing": "I"
-      }, 
-      {
-        "code": "deu", 
-        "lang": "German", 
-        "pronunciation": "\u026a\u00e7", 
-        "writing": "ich"
-      }
-    ], 
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "e\u0261\u0254\u02d0", 
-        "writing": "\u1f10\u03b3\u03ce"
-      }
-    ], 
-    "Indo-Iranian": [
-      {
-        "code": "hin", 
-        "lang": "Hindi", 
-        "pronunciation": "m\u025b\u0303", 
-        "writing": "me"
-      }, 
-      {
-        "code": "fas", 
-        "lang": "Persian", 
-        "pronunciation": "m\u00e6n", 
-        "writing": "man"
-      }
-    ], 
-    "Romance": [
-      {
-        "code": "lat", 
-        "lang": "Latin", 
-        "pronunciation": "", 
-        "writing": "ego"
-      }, 
-      {
-        "code": "fra", 
-        "lang": "French", 
-        "pronunciation": "\u0292\u0259", 
-        "writing": "je"
-      }, 
-      {
-        "code": "spa", 
-        "lang": "Spanish", 
-        "pronunciation": "\u029do", 
-        "writing": "yo"
-      }
-    ], 
-    "Slavic": [
-      {
-        "code": "rus", 
-        "lang": "Russian", 
-        "pronunciation": "ja", 
-        "writing": "\u044f"
-      }
-    ], 
+    "?": {
+      "major": [
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2081eg\u0311h\u2082-\u00f3m"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Germanic": {
+      "major": [
+        {
+          "code": "eng", 
+          "lang": "English", 
+          "pronunciation": "a\u026a", 
+          "writing": "I"
+        }, 
+        {
+          "code": "deu", 
+          "lang": "German", 
+          "pronunciation": "\u026a\u00e7", 
+          "writing": "ich"
+        }
+      ], 
+      "other": 22
+    }, 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "e\u0261\u0254\u02d0", 
+          "writing": "\u1f10\u03b3\u03ce"
+        }
+      ], 
+      "other": 6
+    }, 
+    "Indo-Iranian": {
+      "major": [
+        {
+          "code": "hin", 
+          "lang": "Hindi", 
+          "pronunciation": "m\u025b\u0303", 
+          "writing": "me"
+        }, 
+        {
+          "code": "fas", 
+          "lang": "Persian", 
+          "pronunciation": "m\u00e6n", 
+          "writing": "man"
+        }
+      ], 
+      "other": 36
+    }, 
+    "Romance": {
+      "major": [
+        {
+          "code": "lat", 
+          "lang": "Latin", 
+          "pronunciation": "", 
+          "writing": "ego"
+        }, 
+        {
+          "code": "fra", 
+          "lang": "French", 
+          "pronunciation": "\u0292\u0259", 
+          "writing": "je"
+        }, 
+        {
+          "code": "spa", 
+          "lang": "Spanish", 
+          "pronunciation": "\u029do", 
+          "writing": "yo"
+        }
+      ], 
+      "other": 16
+    }, 
+    "Slavic": {
+      "major": [
+        {
+          "code": "rus", 
+          "lang": "Russian", 
+          "pronunciation": "ja", 
+          "writing": "\u044f"
+        }
+      ], 
+      "other": 29
+    }, 
     "families": [
       "?", 
       "Albanian", 
@@ -87,24 +105,36 @@
     "meaning": "I"
   }, 
   {
-    "?": [
-      {
-        "code": "pie", 
-        "lang": "Proto-Indo-European", 
-        "pronunciation": "", 
-        "writing": "*me-"
-      }
-    ], 
-    "Celtic": [
-      {
-        "code": "gla", 
-        "lang": "Irish B", 
-        "pronunciation": "m\u02b2e\u02d0", 
-        "writing": "m\u00e9"
-      }
-    ], 
-    "Germanic": [], 
-    "Indo-Iranian": [], 
+    "?": {
+      "major": [
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*me-"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Celtic": {
+      "major": [
+        {
+          "code": "gla", 
+          "lang": "Irish B", 
+          "pronunciation": "m\u02b2e\u02d0", 
+          "writing": "m\u00e9"
+        }
+      ], 
+      "other": 13
+    }, 
+    "Germanic": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Indo-Iranian": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "?", 
       "Anatolian", 
@@ -116,23 +146,32 @@
     "meaning": "I"
   }, 
   {
-    "?": [
-      {
-        "code": "pie", 
-        "lang": "Proto-Indo-European", 
-        "pronunciation": "", 
-        "writing": "*k\u02b7e"
-      }
-    ], 
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "", 
-        "writing": "\u03c4\u03b5"
-      }
-    ], 
-    "Indo-Iranian": [], 
+    "?": {
+      "major": [
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*k\u02b7e"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "", 
+          "writing": "\u03c4\u03b5"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Indo-Iranian": {
+      "major": [], 
+      "other": 5
+    }, 
     "families": [
       "?", 
       "Greek", 
@@ -142,23 +181,32 @@
     "meaning": "and"
   }, 
   {
-    "Celtic": [], 
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "zd\u0254\u02d0jon", 
-        "writing": "\u03b6\u1ff7\u03bf\u03bd"
-      }
-    ], 
-    "Slavic": [
-      {
-        "code": "rus", 
-        "lang": "Russian", 
-        "pronunciation": "\u0292\u0268'votnoe", 
-        "writing": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435"
-      }
-    ], 
+    "Celtic": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "zd\u0254\u02d0jon", 
+          "writing": "\u03b6\u1ff7\u03bf\u03bd"
+        }
+      ], 
+      "other": 5
+    }, 
+    "Slavic": {
+      "major": [
+        {
+          "code": "rus", 
+          "lang": "Russian", 
+          "pronunciation": "\u0292\u0268'votnoe", 
+          "writing": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435"
+        }
+      ], 
+      "other": 9
+    }, 
     "families": [
       "Celtic", 
       "Greek", 
@@ -168,44 +216,59 @@
     "meaning": "animal"
   }, 
   {
-    "Celtic": [
-      {
-        "code": "gla", 
-        "lang": "Irish B", 
-        "pronunciation": "", 
-        "writing": "ainmh\u00ed"
-      }
-    ], 
-    "Germanic": [
-      {
-        "code": "eng", 
-        "lang": "English", 
-        "pronunciation": "'\u00e6n\u026am\u0259l", 
-        "writing": "animal"
-      }
-    ], 
-    "Indo-Iranian": [], 
-    "Romance": [
-      {
-        "code": "lat", 
-        "lang": "Latin", 
-        "pronunciation": "", 
-        "writing": "animal"
-      }, 
-      {
-        "code": "fra", 
-        "lang": "French", 
-        "pronunciation": "animal", 
-        "writing": "animal"
-      }, 
-      {
-        "code": "spa", 
-        "lang": "Spanish", 
-        "pronunciation": "ani'mal", 
-        "writing": "animal"
-      }
-    ], 
-    "Slavic": [], 
+    "Celtic": {
+      "major": [
+        {
+          "code": "gla", 
+          "lang": "Irish B", 
+          "pronunciation": "", 
+          "writing": "ainmh\u00ed"
+        }
+      ], 
+      "other": 3
+    }, 
+    "Germanic": {
+      "major": [
+        {
+          "code": "eng", 
+          "lang": "English", 
+          "pronunciation": "'\u00e6n\u026am\u0259l", 
+          "writing": "animal"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Indo-Iranian": {
+      "major": [], 
+      "other": 4
+    }, 
+    "Romance": {
+      "major": [
+        {
+          "code": "lat", 
+          "lang": "Latin", 
+          "pronunciation": "", 
+          "writing": "animal"
+        }, 
+        {
+          "code": "fra", 
+          "lang": "French", 
+          "pronunciation": "animal", 
+          "writing": "animal"
+        }, 
+        {
+          "code": "spa", 
+          "lang": "Spanish", 
+          "pronunciation": "ani'mal", 
+          "writing": "animal"
+        }
+      ], 
+      "other": 14
+    }, 
+    "Slavic": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "Albanian", 
       "Celtic", 
@@ -218,16 +281,25 @@
     "meaning": "animal"
   }, 
   {
-    "Celtic": [], 
-    "Germanic": [], 
-    "Romance": [
-      {
-        "code": "lat", 
-        "lang": "Latin", 
-        "pronunciation": "", 
-        "writing": "bestia"
-      }
-    ], 
+    "Celtic": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Germanic": {
+      "major": [], 
+      "other": 2
+    }, 
+    "Romance": {
+      "major": [
+        {
+          "code": "lat", 
+          "lang": "Latin", 
+          "pronunciation": "", 
+          "writing": "bestia"
+        }
+      ], 
+      "other": 2
+    }, 
     "families": [
       "Celtic", 
       "Germanic", 
@@ -237,15 +309,21 @@
     "meaning": "animal"
   }, 
   {
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "", 
-        "writing": "\u03b8\u03ae\u03c1"
-      }
-    ], 
-    "Slavic": [], 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "", 
+          "writing": "\u03b8\u03ae\u03c1"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Slavic": {
+      "major": [], 
+      "other": 22
+    }, 
     "families": [
       "Greek", 
       "Slavic"
@@ -254,29 +332,38 @@
     "meaning": "animal"
   }, 
   {
-    "?": [
-      {
-        "code": "pie", 
-        "lang": "Proto-Indo-European", 
-        "pronunciation": "", 
-        "writing": "*h\u2082\u00e9h\u2081s-s, *h\u2082h\u2081s-\u00f3s"
-      }
-    ], 
-    "Germanic": [
-      {
-        "code": "eng", 
-        "lang": "English", 
-        "pronunciation": "\u00e6\u0283\u026az", 
-        "writing": "ashes"
-      }, 
-      {
-        "code": "deu", 
-        "lang": "German", 
-        "pronunciation": "'a\u0283\u0259", 
-        "writing": "Asche"
-      }
-    ], 
-    "Indo-Iranian": [], 
+    "?": {
+      "major": [
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2082\u00e9h\u2081s-s, *h\u2082h\u2081s-\u00f3s"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Germanic": {
+      "major": [
+        {
+          "code": "eng", 
+          "lang": "English", 
+          "pronunciation": "\u00e6\u0283\u026az", 
+          "writing": "ashes"
+        }, 
+        {
+          "code": "deu", 
+          "lang": "German", 
+          "pronunciation": "'a\u0283\u0259", 
+          "writing": "Asche"
+        }
+      ], 
+      "other": 22
+    }, 
+    "Indo-Iranian": {
+      "major": [], 
+      "other": 3
+    }, 
     "families": [
       "?", 
       "Anatolian", 
@@ -288,27 +375,33 @@
     "meaning": "ashes"
   }, 
   {
-    "Romance": [
-      {
-        "code": "lat", 
-        "lang": "Latin", 
-        "pronunciation": "", 
-        "writing": "cinis"
-      }, 
-      {
-        "code": "fra", 
-        "lang": "French", 
-        "pronunciation": "s\u0251\u0303d\u0280", 
-        "writing": "cendre"
-      }, 
-      {
-        "code": "spa", 
-        "lang": "Spanish", 
-        "pronunciation": "\u03b8e'ni\u03b8as", 
-        "writing": "cenizas"
-      }
-    ], 
-    "Slavic": [], 
+    "Romance": {
+      "major": [
+        {
+          "code": "lat", 
+          "lang": "Latin", 
+          "pronunciation": "", 
+          "writing": "cinis"
+        }, 
+        {
+          "code": "fra", 
+          "lang": "French", 
+          "pronunciation": "s\u0251\u0303d\u0280", 
+          "writing": "cendre"
+        }, 
+        {
+          "code": "spa", 
+          "lang": "Spanish", 
+          "pronunciation": "\u03b8e'ni\u03b8as", 
+          "writing": "cenizas"
+        }
+      ], 
+      "other": 16
+    }, 
+    "Slavic": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "Albanian", 
       "Romance", 
@@ -318,24 +411,36 @@
     "meaning": "ashes"
   }, 
   {
-    "?": [
-      {
-        "code": "pie", 
-        "lang": "Proto-Indo-European", 
-        "pronunciation": "", 
-        "writing": "*h\u2081epi, *h\u2081opi"
-      }
-    ], 
-    "Germanic": [], 
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "", 
-        "writing": "\u1f10\u03c0\u03af"
-      }
-    ], 
-    "Indo-Iranian": [], 
+    "?": {
+      "major": [
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2081epi, *h\u2081opi"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Germanic": {
+      "major": [], 
+      "other": 2
+    }, 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "", 
+          "writing": "\u1f10\u03c0\u03af"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Indo-Iranian": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "?", 
       "Germanic", 
@@ -346,24 +451,36 @@
     "meaning": "at"
   }, 
   {
-    "Celtic": [], 
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "en", 
-        "writing": "\u1f10\u03bd"
-      }
-    ], 
-    "Romance": [], 
-    "Slavic": [
-      {
-        "code": "rus", 
-        "lang": "Russian", 
-        "pronunciation": "v", 
-        "writing": "\u0432"
-      }
-    ], 
+    "Celtic": {
+      "major": [], 
+      "other": 5
+    }, 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "en", 
+          "writing": "\u1f10\u03bd"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Romance": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Slavic": {
+      "major": [
+        {
+          "code": "rus", 
+          "lang": "Russian", 
+          "pronunciation": "v", 
+          "writing": "\u0432"
+        }
+      ], 
+      "other": 3
+    }, 
     "families": [
       "Celtic", 
       "Greek", 
@@ -374,51 +491,66 @@
     "meaning": "at"
   }, 
   {
-    "?": [
-      {
-        "code": "pie", 
-        "lang": "Proto-Indo-European", 
-        "pronunciation": "", 
-        "writing": "*h\u2082ed"
-      }
-    ], 
-    "Celtic": [
-      {
-        "code": "gla", 
-        "lang": "Irish B", 
-        "pronunciation": "\u025b\u025f", 
-        "writing": "ag"
-      }
-    ], 
-    "Germanic": [
-      {
-        "code": "eng", 
-        "lang": "English", 
-        "pronunciation": "\u00e6t", 
-        "writing": "at"
-      }
-    ], 
-    "Romance": [
-      {
-        "code": "lat", 
-        "lang": "Latin", 
-        "pronunciation": "ad", 
-        "writing": "ad"
-      }, 
-      {
-        "code": "fra", 
-        "lang": "French", 
-        "pronunciation": "a", 
-        "writing": "\u00e0"
-      }, 
-      {
-        "code": "spa", 
-        "lang": "Spanish", 
-        "pronunciation": "a", 
-        "writing": "a"
-      }
-    ], 
-    "Slavic": [], 
+    "?": {
+      "major": [
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2082ed"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Celtic": {
+      "major": [
+        {
+          "code": "gla", 
+          "lang": "Irish B", 
+          "pronunciation": "\u025b\u025f", 
+          "writing": "ag"
+        }
+      ], 
+      "other": 3
+    }, 
+    "Germanic": {
+      "major": [
+        {
+          "code": "eng", 
+          "lang": "English", 
+          "pronunciation": "\u00e6t", 
+          "writing": "at"
+        }
+      ], 
+      "other": 8
+    }, 
+    "Romance": {
+      "major": [
+        {
+          "code": "lat", 
+          "lang": "Latin", 
+          "pronunciation": "ad", 
+          "writing": "ad"
+        }, 
+        {
+          "code": "fra", 
+          "lang": "French", 
+          "pronunciation": "a", 
+          "writing": "\u00e0"
+        }, 
+        {
+          "code": "spa", 
+          "lang": "Spanish", 
+          "pronunciation": "a", 
+          "writing": "a"
+        }
+      ], 
+      "other": 15
+    }, 
+    "Slavic": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "?", 
       "Celtic", 
@@ -431,16 +563,25 @@
     "meaning": "at"
   }, 
   {
-    "Germanic": [], 
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "", 
-        "writing": "\u03bd\u1ff6\u03c4\u03bf\u03bd"
-      }
-    ], 
-    "Slavic": [], 
+    "Germanic": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "", 
+          "writing": "\u03bd\u1ff6\u03c4\u03bf\u03bd"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Slavic": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "Germanic", 
       "Greek", 
@@ -450,15 +591,21 @@
     "meaning": "back"
   }, 
   {
-    "Germanic": [
-      {
-        "code": "deu", 
-        "lang": "German", 
-        "pronunciation": "\u0283l\u025b\u00e7t", 
-        "writing": "schlecht"
-      }
-    ], 
-    "Slavic": [], 
+    "Germanic": {
+      "major": [
+        {
+          "code": "deu", 
+          "lang": "German", 
+          "pronunciation": "\u0283l\u025b\u00e7t", 
+          "writing": "schlecht"
+        }
+      ], 
+      "other": 6
+    }, 
+    "Slavic": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "Germanic", 
       "Slavic"
@@ -467,15 +614,21 @@
     "meaning": "bad"
   }, 
   {
-    "Greek": [
-      {
-        "code": "grc", 
-        "lang": "Ancient Greek", 
-        "pronunciation": "kak\u00f3s", 
-        "writing": "\u03ba\u03b1\u03ba\u03cc\u03c2"
-      }
-    ], 
-    "Indo-Iranian": [], 
+    "Greek": {
+      "major": [
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "kak\u00f3s", 
+          "writing": "\u03ba\u03b1\u03ba\u03cc\u03c2"
+        }
+      ], 
+      "other": 4
+    }, 
+    "Indo-Iranian": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "Albanian", 
       "Greek", 
@@ -485,15 +638,21 @@
     "meaning": "bad"
   }, 
   {
-    "?": [
-      {
-        "code": "pie", 
-        "lang": "Proto-Indo-European", 
-        "pronunciation": "", 
-        "writing": "*uba"
-      }
-    ], 
-    "Germanic": [], 
+    "?": {
+      "major": [
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*uba"
+        }
+      ], 
+      "other": 0
+    }, 
+    "Germanic": {
+      "major": [], 
+      "other": 3
+    }, 
     "families": [
       "?", 
       "Germanic"
@@ -502,15 +661,21 @@
     "meaning": "bad"
   }, 
   {
-    "Celtic": [], 
-    "Germanic": [
-      {
-        "code": "eng", 
-        "lang": "English", 
-        "pronunciation": "b\u00e6d", 
-        "writing": "bad"
-      }
-    ], 
+    "Celtic": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Germanic": {
+      "major": [
+        {
+          "code": "eng", 
+          "lang": "English", 
+          "pronunciation": "b\u00e6d", 
+          "writing": "bad"
+        }
+      ], 
+      "other": 0
+    }, 
     "families": [
       "Celtic", 
       "Germanic"
@@ -519,36 +684,48 @@
     "meaning": "bad"
   }, 
   {
-    "Germanic": [], 
-    "Indo-Iranian": [], 
-    "Romance": [
-      {
-        "code": "lat", 
-        "lang": "Latin", 
-        "pronunciation": "", 
-        "writing": "cortex"
-      }, 
-      {
-        "code": "fra", 
-        "lang": "French", 
-        "pronunciation": "ek\u0254\u0280s", 
-        "writing": "\u00e9corce"
-      }, 
-      {
-        "code": "spa", 
-        "lang": "Spanish", 
-        "pronunciation": "ko\u027e'te\u03b8a", 
-        "writing": "corteza"
-      }
-    ], 
-    "Slavic": [
-      {
-        "code": "rus", 
-        "lang": "Russian", 
-        "pronunciation": "ko'ra", 
-        "writing": "\u043a\u043e\u0440\u0430"
-      }
-    ], 
+    "Germanic": {
+      "major": [], 
+      "other": 2
+    }, 
+    "Indo-Iranian": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Romance": {
+      "major": [
+        {
+          "code": "lat", 
+          "lang": "Latin", 
+          "pronunciation": "", 
+          "writing": "cortex"
+        }, 
+        {
+          "code": "fra", 
+          "lang": "French", 
+          "pronunciation": "ek\u0254\u0280s", 
+          "writing": "\u00e9corce"
+        }, 
+        {
+          "code": "spa", 
+          "lang": "Spanish", 
+          "pronunciation": "ko\u027e'te\u03b8a", 
+          "writing": "corteza"
+        }
+      ], 
+      "other": 12
+    }, 
+    "Slavic": {
+      "major": [
+        {
+          "code": "rus", 
+          "lang": "Russian", 
+          "pronunciation": "ko'ra", 
+          "writing": "\u043a\u043e\u0440\u0430"
+        }
+      ], 
+      "other": 22
+    }, 
     "families": [
       "Germanic", 
       "Indo-Iranian", 
@@ -559,15 +736,21 @@
     "meaning": "bark"
   }, 
   {
-    "Celtic": [
-      {
-        "code": "gla", 
-        "lang": "Irish B", 
-        "pronunciation": "", 
-        "writing": "r\u00fasc"
-      }
-    ], 
-    "Romance": [], 
+    "Celtic": {
+      "major": [
+        {
+          "code": "gla", 
+          "lang": "Irish B", 
+          "pronunciation": "", 
+          "writing": "r\u00fasc"
+        }
+      ], 
+      "other": 11
+    }, 
+    "Romance": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "Celtic", 
       "Romance"
@@ -576,24 +759,36 @@
     "meaning": "bark"
   }, 
   {
-    "Greek": [], 
-    "Indo-Iranian": [
-      {
-        "code": "fas", 
-        "lang": "Persian", 
-        "pronunciation": "", 
-        "writing": "CHUN"
-      }
-    ], 
-    "Romance": [
-      {
-        "code": "lat", 
-        "lang": "Latin", 
-        "pronunciation": "", 
-        "writing": "quod"
-      }
-    ], 
-    "Slavic": [], 
+    "Greek": {
+      "major": [], 
+      "other": 1
+    }, 
+    "Indo-Iranian": {
+      "major": [
+        {
+          "code": "fas", 
+          "lang": "Persian", 
+          "pronunciation": "", 
+          "writing": "CHUN"
+        }
+      ], 
+      "other": 8
+    }, 
+    "Romance": {
+      "major": [
+        {
+          "code": "lat", 
+          "lang": "Latin", 
+          "pronunciation": "", 
+          "writing": "quod"
+        }
+      ], 
+      "other": 1
+    }, 
+    "Slavic": {
+      "major": [], 
+      "other": 1
+    }, 
     "families": [
       "Anatolian", 
       "Greek", 
