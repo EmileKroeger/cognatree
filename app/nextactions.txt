@@ -18,10 +18,13 @@
  * -add count of languages with that word to wordlist-
  * -table: align on top-
  * -split proto IE in several tables-
+ * -Find a better name for cognate groups-
+ * -Allow sorting of language list by number of branches-
 
- * Find a better name for cognate groups
- * Allow sorting of language list by number of branches
  * in tree: Make hidden words collapsible
+
+Terminology:
+ * What I call "cognate group" is "word family" or (maybe) "paradigm"
 
 More general reflections:
 
@@ -31,5 +34,3 @@ I could have two kinds of tree display:
  
 Other interesting data:
  * compare words with p- and f-
- 
- 

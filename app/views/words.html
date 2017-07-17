@@ -1,7 +1,9 @@
 <p>Words</p>
 <table class="wordindex">
 <tr>
-  <th>Meaning</th>
+  <th ng-click="toggleSort()">
+    Sort:<br> {{sortname}}
+  </th>
   <th
     ng-style="{'color': colors['?']}"
     class="colheader"
@@ -13,7 +15,7 @@
       {{family}}
   </th>
 </tr>
-<tr ng-repeat="worddesc in worddescs">
+<tr ng-repeat="worddesc in worddescs | orderBy:sortkey">
   <th>
     <a href="#/word/{{worddesc.index}}">
       {{worddesc.meaning}}

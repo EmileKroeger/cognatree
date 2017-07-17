@@ -102,7 +102,8 @@
       "Slavic"
     ], 
     "index": 0, 
-    "meaning": "I"
+    "meaning": "I", 
+    "sortcount": 610
   }, 
   {
     "?": {
@@ -143,7 +144,8 @@
       "Indo-Iranian"
     ], 
     "index": 2, 
-    "meaning": "I"
+    "meaning": "I", 
+    "sortcount": 402
   }, 
   {
     "?": {
@@ -178,7 +180,8 @@
       "Indo-Iranian"
     ], 
     "index": 16, 
-    "meaning": "and"
+    "meaning": "and", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -213,7 +216,8 @@
       "Slavic"
     ], 
     "index": 27, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -278,7 +282,8 @@
       "Slavic"
     ], 
     "index": 28, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 505
   }, 
   {
     "Celtic": {
@@ -306,7 +311,8 @@
       "Romance"
     ], 
     "index": 29, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 301
   }, 
   {
     "Greek": {
@@ -329,7 +335,8 @@
       "Slavic"
     ], 
     "index": 30, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -378,7 +385,8 @@
       "Indo-Iranian"
     ], 
     "index": 39, 
-    "meaning": "ashes"
+    "meaning": "ashes", 
+    "sortcount": 303
   }, 
   {
     "Romance": {
@@ -414,7 +422,8 @@
       "Slavic"
     ], 
     "index": 42, 
-    "meaning": "ashes"
+    "meaning": "ashes", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -460,7 +469,8 @@
       "Indo-Iranian"
     ], 
     "index": 67, 
-    "meaning": "at"
+    "meaning": "at", 
+    "sortcount": 402
   }, 
   {
     "Celtic": {
@@ -500,7 +510,8 @@
       "Slavic"
     ], 
     "index": 70, 
-    "meaning": "at"
+    "meaning": "at", 
+    "sortcount": 402
   }, 
   {
     "?": {
@@ -572,7 +583,8 @@
       "Slavic"
     ], 
     "index": 78, 
-    "meaning": "at"
+    "meaning": "at", 
+    "sortcount": 506
   }, 
   {
     "Germanic": {
@@ -600,7 +612,8 @@
       "Slavic"
     ], 
     "index": 100, 
-    "meaning": "back"
+    "meaning": "back", 
+    "sortcount": 301
   }, 
   {
     "Germanic": {
@@ -623,7 +636,8 @@
       "Slavic"
     ], 
     "index": 126, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -647,7 +661,8 @@
       "Indo-Iranian"
     ], 
     "index": 131, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -670,7 +685,8 @@
       "Germanic"
     ], 
     "index": 143, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -693,7 +709,8 @@
       "Germanic"
     ], 
     "index": 144, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -745,7 +762,8 @@
       "Slavic"
     ], 
     "index": 175, 
-    "meaning": "bark"
+    "meaning": "bark", 
+    "sortcount": 404
   }, 
   {
     "Celtic": {
@@ -768,7 +786,8 @@
       "Romance"
     ], 
     "index": 179, 
-    "meaning": "bark"
+    "meaning": "bark", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -809,7 +828,8 @@
       "Slavic"
     ], 
     "index": 219, 
-    "meaning": "because"
+    "meaning": "because", 
+    "sortcount": 402
   }, 
   {
     "Germanic": {
@@ -832,7 +852,8 @@
       "Romance"
     ], 
     "index": 221, 
-    "meaning": "because"
+    "meaning": "because", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -868,7 +889,8 @@
       "Germanic"
     ], 
     "index": 255, 
-    "meaning": "belly"
+    "meaning": "belly", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -925,7 +947,8 @@
       "Slavic"
     ], 
     "index": 256, 
-    "meaning": "belly"
+    "meaning": "belly", 
+    "sortcount": 504
   }, 
   {
     "Celtic": {
@@ -973,7 +996,8 @@
       "Romance"
     ], 
     "index": 294, 
-    "meaning": "big"
+    "meaning": "big", 
+    "sortcount": 502
   }, 
   {
     "Germanic": {
@@ -1008,7 +1032,8 @@
       "Romance"
     ], 
     "index": 296, 
-    "meaning": "big"
+    "meaning": "big", 
+    "sortcount": 203
   }, 
   {
     "Celtic": {
@@ -1043,7 +1068,8 @@
       "Romance"
     ], 
     "index": 329, 
-    "meaning": "bird"
+    "meaning": "bird", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -1105,7 +1131,8 @@
       "Romance"
     ], 
     "index": 330, 
-    "meaning": "bird"
+    "meaning": "bird", 
+    "sortcount": 405
   }, 
   {
     "Romance": {
@@ -1128,7 +1155,8 @@
       "Slavic"
     ], 
     "index": 332, 
-    "meaning": "bird"
+    "meaning": "bird", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -1168,7 +1196,8 @@
       "Indo-Iranian"
     ], 
     "index": 344, 
-    "meaning": "bite"
+    "meaning": "bite", 
+    "sortcount": 402
   }, 
   {
     "Celtic": {
@@ -1197,7 +1226,8 @@
       "Germanic"
     ], 
     "index": 346, 
-    "meaning": "bite"
+    "meaning": "bite", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -1228,7 +1258,8 @@
       "Slavic"
     ], 
     "index": 354, 
-    "meaning": "bite"
+    "meaning": "bite", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -1258,7 +1289,8 @@
       "Germanic"
     ], 
     "index": 375, 
-    "meaning": "black"
+    "meaning": "black", 
+    "sortcount": 202
   }, 
   {
     "Greek": {
@@ -1288,7 +1320,8 @@
       "Indo-Iranian"
     ], 
     "index": 376, 
-    "meaning": "black"
+    "meaning": "black", 
+    "sortcount": 202
   }, 
   {
     "Indo-Iranian": {
@@ -1311,7 +1344,8 @@
       "Slavic"
     ], 
     "index": 381, 
-    "meaning": "black"
+    "meaning": "black", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -1339,7 +1373,8 @@
       "Slavic"
     ], 
     "index": 382, 
-    "meaning": "black"
+    "meaning": "black", 
+    "sortcount": 301
   }, 
   {
     "Greek": {
@@ -1362,7 +1397,8 @@
       "Indo-Iranian"
     ], 
     "index": 384, 
-    "meaning": "black"
+    "meaning": "black", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -1416,7 +1452,8 @@
       "Slavic"
     ], 
     "index": 392, 
-    "meaning": "blood"
+    "meaning": "blood", 
+    "sortcount": 404
   }, 
   {
     "?": {
@@ -1474,7 +1511,8 @@
       "Slavic"
     ], 
     "index": 394, 
-    "meaning": "blood"
+    "meaning": "blood", 
+    "sortcount": 503
   }, 
   {
     "?": {
@@ -1534,7 +1572,8 @@
       "Romance"
     ], 
     "index": 403, 
-    "meaning": "blow"
+    "meaning": "blow", 
+    "sortcount": 305
   }, 
   {
     "Indo-Iranian": {
@@ -1557,7 +1596,8 @@
       "Slavic"
     ], 
     "index": 409, 
-    "meaning": "blow"
+    "meaning": "blow", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -1610,7 +1650,8 @@
       "Slavic"
     ], 
     "index": 411, 
-    "meaning": "blow"
+    "meaning": "blow", 
+    "sortcount": 404
   }, 
   {
     "Celtic": {
@@ -1677,7 +1718,8 @@
       "Slavic"
     ], 
     "index": 426, 
-    "meaning": "bone"
+    "meaning": "bone", 
+    "sortcount": 505
   }, 
   {
     "Celtic": {
@@ -1706,7 +1748,8 @@
       "Romance"
     ], 
     "index": 436, 
-    "meaning": "breast"
+    "meaning": "breast", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -1735,7 +1778,8 @@
       "Germanic"
     ], 
     "index": 437, 
-    "meaning": "breast"
+    "meaning": "breast", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -1777,7 +1821,8 @@
       "Indo-Iranian"
     ], 
     "index": 443, 
-    "meaning": "breast"
+    "meaning": "breast", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -1807,7 +1852,8 @@
       "Romance"
     ], 
     "index": 459, 
-    "meaning": "breast"
+    "meaning": "breast", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -1840,7 +1886,8 @@
       "Romance"
     ], 
     "index": 476, 
-    "meaning": "breathe"
+    "meaning": "breathe", 
+    "sortcount": 401
   }, 
   {
     "?": {
@@ -1870,7 +1917,8 @@
       "Greek"
     ], 
     "index": 479, 
-    "meaning": "breathe"
+    "meaning": "breathe", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -1899,7 +1947,8 @@
       "Slavic"
     ], 
     "index": 484, 
-    "meaning": "burn"
+    "meaning": "burn", 
+    "sortcount": 301
   }, 
   {
     "Romance": {
@@ -1928,7 +1977,8 @@
       "Slavic"
     ], 
     "index": 490, 
-    "meaning": "burn"
+    "meaning": "burn", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -1956,7 +2006,8 @@
       "Slavic"
     ], 
     "index": 495, 
-    "meaning": "burn"
+    "meaning": "burn", 
+    "sortcount": 301
   }, 
   {
     "?": {
@@ -2003,7 +2054,8 @@
       "Romance"
     ], 
     "index": 501, 
-    "meaning": "burn"
+    "meaning": "burn", 
+    "sortcount": 403
   }, 
   {
     "Greek": {
@@ -2033,7 +2085,8 @@
       "Romance"
     ], 
     "index": 518, 
-    "meaning": "child"
+    "meaning": "child", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -2081,7 +2134,8 @@
       "Slavic"
     ], 
     "index": 563, 
-    "meaning": "cloud"
+    "meaning": "cloud", 
+    "sortcount": 403
   }, 
   {
     "Celtic": {
@@ -2133,7 +2187,8 @@
       "Slavic"
     ], 
     "index": 565, 
-    "meaning": "cloud"
+    "meaning": "cloud", 
+    "sortcount": 404
   }, 
   {
     "Indo-Iranian": {
@@ -2157,7 +2212,8 @@
       "Slavic"
     ], 
     "index": 584, 
-    "meaning": "cold"
+    "meaning": "cold", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -2193,7 +2249,8 @@
       "Germanic"
     ], 
     "index": 586, 
-    "meaning": "cold"
+    "meaning": "cold", 
+    "sortcount": 203
   }, 
   {
     "Celtic": {
@@ -2216,7 +2273,8 @@
       "Slavic"
     ], 
     "index": 591, 
-    "meaning": "cold"
+    "meaning": "cold", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -2239,7 +2297,8 @@
       "Indo-Iranian"
     ], 
     "index": 592, 
-    "meaning": "cold"
+    "meaning": "cold", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -2304,7 +2363,8 @@
       "Romance"
     ], 
     "index": 610, 
-    "meaning": "come"
+    "meaning": "come", 
+    "sortcount": 406
   }, 
   {
     "Indo-Iranian": {
@@ -2327,7 +2387,8 @@
       "Slavic"
     ], 
     "index": 614, 
-    "meaning": "come"
+    "meaning": "come", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -2363,7 +2424,8 @@
       "Romance"
     ], 
     "index": 632, 
-    "meaning": "count"
+    "meaning": "count", 
+    "sortcount": 203
   }, 
   {
     "Celtic": {
@@ -2398,7 +2460,8 @@
       "Greek"
     ], 
     "index": 638, 
-    "meaning": "count"
+    "meaning": "count", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -2422,7 +2485,8 @@
       "Romance"
     ], 
     "index": 641, 
-    "meaning": "count"
+    "meaning": "count", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -2464,7 +2528,8 @@
       "Slavic"
     ], 
     "index": 653, 
-    "meaning": "cut"
+    "meaning": "cut", 
+    "sortcount": 402
   }, 
   {
     "Romance": {
@@ -2487,7 +2552,8 @@
       "Slavic"
     ], 
     "index": 666, 
-    "meaning": "cut"
+    "meaning": "cut", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -2510,7 +2576,8 @@
       "Slavic"
     ], 
     "index": 668, 
-    "meaning": "cut"
+    "meaning": "cut", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -2585,7 +2652,8 @@
       "Slavic"
     ], 
     "index": 683, 
-    "meaning": "day"
+    "meaning": "day", 
+    "sortcount": 506
   }, 
   {
     "?": {
@@ -2626,7 +2694,8 @@
       "Indo-Iranian"
     ], 
     "index": 684, 
-    "meaning": "day"
+    "meaning": "day", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -2704,7 +2773,8 @@
       "Slavic"
     ], 
     "index": 693, 
-    "meaning": "die"
+    "meaning": "die", 
+    "sortcount": 507
   }, 
   {
     "Greek": {
@@ -2733,7 +2803,8 @@
       "Slavic"
     ], 
     "index": 702, 
-    "meaning": "dig"
+    "meaning": "dig", 
+    "sortcount": 301
   }, 
   {
     "Celtic": {
@@ -2756,7 +2827,8 @@
       "Romance"
     ], 
     "index": 705, 
-    "meaning": "dig"
+    "meaning": "dig", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -2798,7 +2870,8 @@
       "Slavic"
     ], 
     "index": 713, 
-    "meaning": "dig"
+    "meaning": "dig", 
+    "sortcount": 303
   }, 
   {
     "Germanic": {
@@ -2821,7 +2894,8 @@
       "Slavic"
     ], 
     "index": 714, 
-    "meaning": "dig"
+    "meaning": "dig", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -2856,7 +2930,8 @@
       "Romance"
     ], 
     "index": 736, 
-    "meaning": "dirty"
+    "meaning": "dirty", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -2955,7 +3030,8 @@
       "Slavic"
     ], 
     "index": 764, 
-    "meaning": "dog"
+    "meaning": "dog", 
+    "sortcount": 708
   }, 
   {
     "?": {
@@ -3048,7 +3124,8 @@
       "Slavic"
     ], 
     "index": 783, 
-    "meaning": "drink"
+    "meaning": "drink", 
+    "sortcount": 608
   }, 
   {
     "?": {
@@ -3072,7 +3149,8 @@
       "Indo-Iranian"
     ], 
     "index": 790, 
-    "meaning": "drink"
+    "meaning": "drink", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -3119,7 +3197,8 @@
       "Indo-Iranian"
     ], 
     "index": 798, 
-    "meaning": "dry"
+    "meaning": "dry", 
+    "sortcount": 402
   }, 
   {
     "Celtic": {
@@ -3161,7 +3240,8 @@
       "Romance"
     ], 
     "index": 799, 
-    "meaning": "dry"
+    "meaning": "dry", 
+    "sortcount": 204
   }, 
   {
     "Greek": {
@@ -3210,7 +3290,8 @@
       "Slavic"
     ], 
     "index": 800, 
-    "meaning": "dry"
+    "meaning": "dry", 
+    "sortcount": 304
   }, 
   {
     "Indo-Iranian": {
@@ -3233,7 +3314,8 @@
       "Romance"
     ], 
     "index": 804, 
-    "meaning": "dry"
+    "meaning": "dry", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -3263,7 +3345,8 @@
       "Slavic"
     ], 
     "index": 814, 
-    "meaning": "dull"
+    "meaning": "dull", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -3293,7 +3376,8 @@
       "Germanic"
     ], 
     "index": 815, 
-    "meaning": "dull"
+    "meaning": "dull", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -3328,7 +3412,8 @@
       "Indo-Iranian"
     ], 
     "index": 825, 
-    "meaning": "dull"
+    "meaning": "dull", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -3351,7 +3436,8 @@
       "Romance"
     ], 
     "index": 826, 
-    "meaning": "dull"
+    "meaning": "dull", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -3387,7 +3473,8 @@
       "Romance"
     ], 
     "index": 849, 
-    "meaning": "dust"
+    "meaning": "dust", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -3420,7 +3507,8 @@
       "Slavic"
     ], 
     "index": 851, 
-    "meaning": "dust"
+    "meaning": "dust", 
+    "sortcount": 401
   }, 
   {
     "Greek": {
@@ -3444,7 +3532,8 @@
       "Indo-Iranian"
     ], 
     "index": 853, 
-    "meaning": "dust"
+    "meaning": "dust", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -3477,7 +3566,8 @@
       "Slavic"
     ], 
     "index": 858, 
-    "meaning": "dust"
+    "meaning": "dust", 
+    "sortcount": 401
   }, 
   {
     "?": {
@@ -3568,7 +3658,8 @@
       "Slavic"
     ], 
     "index": 872, 
-    "meaning": "ear"
+    "meaning": "ear", 
+    "sortcount": 608
   }, 
   {
     "Celtic": {
@@ -3596,7 +3687,8 @@
       "Slavic"
     ], 
     "index": 873, 
-    "meaning": "ear"
+    "meaning": "ear", 
+    "sortcount": 301
   }, 
   {
     "?": {
@@ -3670,7 +3762,8 @@
       "Slavic"
     ], 
     "index": 879, 
-    "meaning": "earth"
+    "meaning": "earth", 
+    "sortcount": 505
   }, 
   {
     "Celtic": {
@@ -3713,7 +3806,8 @@
       "Romance"
     ], 
     "index": 884, 
-    "meaning": "earth"
+    "meaning": "earth", 
+    "sortcount": 204
   }, 
   {
     "?": {
@@ -3794,7 +3888,8 @@
       "Slavic"
     ], 
     "index": 906, 
-    "meaning": "eat"
+    "meaning": "eat", 
+    "sortcount": 606
   }, 
   {
     "Romance": {
@@ -3817,7 +3912,8 @@
       "Slavic"
     ], 
     "index": 909, 
-    "meaning": "eat"
+    "meaning": "eat", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -3908,7 +4004,8 @@
       "Slavic"
     ], 
     "index": 919, 
-    "meaning": "egg"
+    "meaning": "egg", 
+    "sortcount": 608
   }, 
   {
     "?": {
@@ -3999,7 +4096,8 @@
       "Slavic"
     ], 
     "index": 937, 
-    "meaning": "eye"
+    "meaning": "eye", 
+    "sortcount": 608
   }, 
   {
     "Germanic": {
@@ -4028,7 +4126,8 @@
       "Slavic"
     ], 
     "index": 949, 
-    "meaning": "fall"
+    "meaning": "fall", 
+    "sortcount": 202
   }, 
   {
     "Romance": {
@@ -4057,7 +4156,8 @@
       "Slavic"
     ], 
     "index": 952, 
-    "meaning": "fall"
+    "meaning": "fall", 
+    "sortcount": 202
   }, 
   {
     "Indo-Iranian": {
@@ -4080,7 +4180,8 @@
       "Slavic"
     ], 
     "index": 954, 
-    "meaning": "fall"
+    "meaning": "fall", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -4110,7 +4211,8 @@
       "Indo-Iranian"
     ], 
     "index": 961, 
-    "meaning": "fall"
+    "meaning": "fall", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -4154,7 +4256,8 @@
       "Romance"
     ], 
     "index": 980, 
-    "meaning": "far"
+    "meaning": "far", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -4184,7 +4287,8 @@
       "Germanic"
     ], 
     "index": 983, 
-    "meaning": "far"
+    "meaning": "far", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -4213,7 +4317,8 @@
       "Romance"
     ], 
     "index": 989, 
-    "meaning": "far"
+    "meaning": "far", 
+    "sortcount": 202
   }, 
   {
     "Romance": {
@@ -4248,7 +4353,8 @@
       "Slavic"
     ], 
     "index": 1005, 
-    "meaning": "fat"
+    "meaning": "fat", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -4271,7 +4377,8 @@
       "Germanic"
     ], 
     "index": 1017, 
-    "meaning": "fat"
+    "meaning": "fat", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -4374,7 +4481,8 @@
       "Romance"
     ], 
     "index": 1034, 
-    "meaning": "father"
+    "meaning": "father", 
+    "sortcount": 610
   }, 
   {
     "?": {
@@ -4411,7 +4519,8 @@
       "Slavic"
     ], 
     "index": 1036, 
-    "meaning": "father"
+    "meaning": "father", 
+    "sortcount": 302
   }, 
   {
     "Indo-Iranian": {
@@ -4434,7 +4543,8 @@
       "Slavic"
     ], 
     "index": 1048, 
-    "meaning": "fear"
+    "meaning": "fear", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -4457,7 +4567,8 @@
       "Indo-Iranian"
     ], 
     "index": 1052, 
-    "meaning": "fear"
+    "meaning": "fear", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -4524,7 +4635,8 @@
       "Slavic"
     ], 
     "index": 1067, 
-    "meaning": "feather"
+    "meaning": "feather", 
+    "sortcount": 505
   }, 
   {
     "Germanic": {
@@ -4559,7 +4671,8 @@
       "Romance"
     ], 
     "index": 1071, 
-    "meaning": "feather"
+    "meaning": "feather", 
+    "sortcount": 203
   }, 
   {
     "Indo-Iranian": {
@@ -4595,7 +4708,8 @@
       "Slavic"
     ], 
     "index": 1072, 
-    "meaning": "feather"
+    "meaning": "feather", 
+    "sortcount": 203
   }, 
   {
     "Germanic": {
@@ -4623,7 +4737,8 @@
       "Slavic"
     ], 
     "index": 1085, 
-    "meaning": "few"
+    "meaning": "few", 
+    "sortcount": 301
   }, 
   {
     "Germanic": {
@@ -4677,7 +4792,8 @@
       "Romance"
     ], 
     "index": 1088, 
-    "meaning": "few"
+    "meaning": "few", 
+    "sortcount": 305
   }, 
   {
     "Celtic": {
@@ -4700,7 +4816,8 @@
       "Germanic"
     ], 
     "index": 1106, 
-    "meaning": "fight"
+    "meaning": "fight", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -4723,7 +4840,8 @@
       "Slavic"
     ], 
     "index": 1112, 
-    "meaning": "fight"
+    "meaning": "fight", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -4834,7 +4952,8 @@
       "Slavic"
     ], 
     "index": 1136, 
-    "meaning": "fingernail"
+    "meaning": "fingernail", 
+    "sortcount": 710
   }, 
   {
     "?": {
@@ -4901,7 +5020,8 @@
       "Slavic"
     ], 
     "index": 1140, 
-    "meaning": "fire"
+    "meaning": "fire", 
+    "sortcount": 504
   }, 
   {
     "?": {
@@ -4955,7 +5075,8 @@
       "Slavic"
     ], 
     "index": 1141, 
-    "meaning": "fire"
+    "meaning": "fire", 
+    "sortcount": 404
   }, 
   {
     "Romance": {
@@ -4984,7 +5105,8 @@
       "Slavic"
     ], 
     "index": 1144, 
-    "meaning": "fire"
+    "meaning": "fire", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -5019,7 +5141,8 @@
       "Slavic"
     ], 
     "index": 1148, 
-    "meaning": "fire"
+    "meaning": "fire", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -5103,7 +5226,8 @@
       "Slavic"
     ], 
     "index": 1152, 
-    "meaning": "fish"
+    "meaning": "fish", 
+    "sortcount": 507
   }, 
   {
     "?": {
@@ -5139,7 +5263,8 @@
       "Slavic"
     ], 
     "index": 1154, 
-    "meaning": "fish"
+    "meaning": "fish", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -5256,7 +5381,8 @@
       "Slavic"
     ], 
     "index": 1159, 
-    "meaning": "five"
+    "meaning": "five", 
+    "sortcount": 711
   }, 
   {
     "Celtic": {
@@ -5286,7 +5412,8 @@
       "Romance"
     ], 
     "index": 1161, 
-    "meaning": "float"
+    "meaning": "float", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -5363,7 +5490,8 @@
       "Slavic"
     ], 
     "index": 1164, 
-    "meaning": "float"
+    "meaning": "float", 
+    "sortcount": 606
   }, 
   {
     "Germanic": {
@@ -5397,7 +5525,8 @@
       "Slavic"
     ], 
     "index": 1183, 
-    "meaning": "flow"
+    "meaning": "flow", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -5437,7 +5566,8 @@
       "Indo-Iranian"
     ], 
     "index": 1188, 
-    "meaning": "flow"
+    "meaning": "flow", 
+    "sortcount": 402
   }, 
   {
     "Celtic": {
@@ -5482,7 +5612,8 @@
       "Slavic"
     ], 
     "index": 1189, 
-    "meaning": "flow"
+    "meaning": "flow", 
+    "sortcount": 502
   }, 
   {
     "Celtic": {
@@ -5543,7 +5674,8 @@
       "Romance"
     ], 
     "index": 1206, 
-    "meaning": "flower"
+    "meaning": "flower", 
+    "sortcount": 306
   }, 
   {
     "?": {
@@ -5585,7 +5717,8 @@
       "Indo-Iranian"
     ], 
     "index": 1224, 
-    "meaning": "fly"
+    "meaning": "fly", 
+    "sortcount": 402
   }, 
   {
     "Germanic": {
@@ -5626,7 +5759,8 @@
       "Slavic"
     ], 
     "index": 1234, 
-    "meaning": "fog"
+    "meaning": "fog", 
+    "sortcount": 402
   }, 
   {
     "Celtic": {
@@ -5667,7 +5801,8 @@
       "Romance"
     ], 
     "index": 1241, 
-    "meaning": "fog"
+    "meaning": "fog", 
+    "sortcount": 303
   }, 
   {
     "Indo-Iranian": {
@@ -5690,7 +5825,8 @@
       "Slavic"
     ], 
     "index": 1243, 
-    "meaning": "fog"
+    "meaning": "fog", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -5719,7 +5855,8 @@
       "Indo-Iranian"
     ], 
     "index": 1253, 
-    "meaning": "fog"
+    "meaning": "fog", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -5823,7 +5960,8 @@
       "Slavic"
     ], 
     "index": 1262, 
-    "meaning": "foot"
+    "meaning": "foot", 
+    "sortcount": 609
   }, 
   {
     "?": {
@@ -5952,7 +6090,8 @@
       "Slavic"
     ], 
     "index": 1274, 
-    "meaning": "four"
+    "meaning": "four", 
+    "sortcount": 711
   }, 
   {
     "Celtic": {
@@ -5988,7 +6127,8 @@
       "Germanic"
     ], 
     "index": 1294, 
-    "meaning": "freeze"
+    "meaning": "freeze", 
+    "sortcount": 203
   }, 
   {
     "Germanic": {
@@ -6036,7 +6176,8 @@
       "Romance"
     ], 
     "index": 1299, 
-    "meaning": "fruit"
+    "meaning": "fruit", 
+    "sortcount": 304
   }, 
   {
     "Romance": {
@@ -6059,7 +6200,8 @@
       "Slavic"
     ], 
     "index": 1308, 
-    "meaning": "fruit"
+    "meaning": "fruit", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -6170,7 +6312,8 @@
       "Slavic"
     ], 
     "index": 1318, 
-    "meaning": "full"
+    "meaning": "full", 
+    "sortcount": 710
   }, 
   {
     "?": {
@@ -6267,7 +6410,8 @@
       "Slavic"
     ], 
     "index": 1328, 
-    "meaning": "give"
+    "meaning": "give", 
+    "sortcount": 608
   }, 
   {
     "Germanic": {
@@ -6307,7 +6451,8 @@
       "Slavic"
     ], 
     "index": 1344, 
-    "meaning": "good"
+    "meaning": "good", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -6349,7 +6494,8 @@
       "Indo-Iranian"
     ], 
     "index": 1355, 
-    "meaning": "good"
+    "meaning": "good", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -6377,7 +6523,8 @@
       "Indo-Iranian"
     ], 
     "index": 1367, 
-    "meaning": "good"
+    "meaning": "good", 
+    "sortcount": 301
   }, 
   {
     "Germanic": {
@@ -6413,7 +6560,8 @@
       "Romance"
     ], 
     "index": 1373, 
-    "meaning": "grass"
+    "meaning": "grass", 
+    "sortcount": 203
   }, 
   {
     "Romance": {
@@ -6448,7 +6596,8 @@
       "Slavic"
     ], 
     "index": 1377, 
-    "meaning": "grass"
+    "meaning": "grass", 
+    "sortcount": 203
   }, 
   {
     "Greek": {
@@ -6471,7 +6620,8 @@
       "Slavic"
     ], 
     "index": 1381, 
-    "meaning": "grass"
+    "meaning": "grass", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -6518,7 +6668,8 @@
       "Slavic"
     ], 
     "index": 1389, 
-    "meaning": "green"
+    "meaning": "green", 
+    "sortcount": 403
   }, 
   {
     "Celtic": {
@@ -6559,7 +6710,8 @@
       "Slavic"
     ], 
     "index": 1394, 
-    "meaning": "green"
+    "meaning": "green", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -6630,7 +6782,8 @@
       "Slavic"
     ], 
     "index": 1418, 
-    "meaning": "guts"
+    "meaning": "guts", 
+    "sortcount": 605
   }, 
   {
     "Celtic": {
@@ -6665,7 +6818,8 @@
       "Slavic"
     ], 
     "index": 1445, 
-    "meaning": "hair"
+    "meaning": "hair", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -6705,7 +6859,8 @@
       "Slavic"
     ], 
     "index": 1450, 
-    "meaning": "hair"
+    "meaning": "hair", 
+    "sortcount": 402
   }, 
   {
     "?": {
@@ -6749,7 +6904,8 @@
       "Indo-Iranian"
     ], 
     "index": 1466, 
-    "meaning": "hand"
+    "meaning": "hand", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -6797,7 +6953,8 @@
       "Slavic"
     ], 
     "index": 1468, 
-    "meaning": "hand"
+    "meaning": "hand", 
+    "sortcount": 304
   }, 
   {
     "Greek": {
@@ -6831,7 +6988,8 @@
       "Slavic"
     ], 
     "index": 1485, 
-    "meaning": "he"
+    "meaning": "he", 
+    "sortcount": 401
   }, 
   {
     "Celtic": {
@@ -6879,7 +7037,8 @@
       "Slavic"
     ], 
     "index": 1486, 
-    "meaning": "he"
+    "meaning": "he", 
+    "sortcount": 403
   }, 
   {
     "?": {
@@ -6938,7 +7097,8 @@
       "Slavic"
     ], 
     "index": 1489, 
-    "meaning": "head"
+    "meaning": "head", 
+    "sortcount": 404
   }, 
   {
     "Germanic": {
@@ -6974,7 +7134,8 @@
       "Greek"
     ], 
     "index": 1505, 
-    "meaning": "hear"
+    "meaning": "hear", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -7035,7 +7196,8 @@
       "Slavic"
     ], 
     "index": 1506, 
-    "meaning": "hear"
+    "meaning": "hear", 
+    "sortcount": 405
   }, 
   {
     "Romance": {
@@ -7064,7 +7226,8 @@
       "Slavic"
     ], 
     "index": 1508, 
-    "meaning": "hear"
+    "meaning": "hear", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -7174,7 +7337,8 @@
       "Slavic"
     ], 
     "index": 1525, 
-    "meaning": "heart"
+    "meaning": "heart", 
+    "sortcount": 710
   }, 
   {
     "Germanic": {
@@ -7197,7 +7361,8 @@
       "Greek"
     ], 
     "index": 1535, 
-    "meaning": "hit"
+    "meaning": "hit", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -7220,7 +7385,8 @@
       "Slavic"
     ], 
     "index": 1546, 
-    "meaning": "hit"
+    "meaning": "hit", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -7243,7 +7409,8 @@
       "Romance"
     ], 
     "index": 1550, 
-    "meaning": "hit"
+    "meaning": "hit", 
+    "sortcount": 201
   }, 
   {
     "Indo-Iranian": {
@@ -7273,7 +7440,8 @@
       "Slavic"
     ], 
     "index": 1565, 
-    "meaning": "hold"
+    "meaning": "hold", 
+    "sortcount": 202
   }, 
   {
     "Romance": {
@@ -7308,7 +7476,8 @@
       "Slavic"
     ], 
     "index": 1568, 
-    "meaning": "hold"
+    "meaning": "hold", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -7343,7 +7512,8 @@
       "Romance"
     ], 
     "index": 1573, 
-    "meaning": "hold"
+    "meaning": "hold", 
+    "sortcount": 302
   }, 
   {
     "Germanic": {
@@ -7366,7 +7536,8 @@
       "Indo-Iranian"
     ], 
     "index": 1574, 
-    "meaning": "hold"
+    "meaning": "hold", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -7468,7 +7639,8 @@
       "Slavic"
     ], 
     "index": 1584, 
-    "meaning": "horn"
+    "meaning": "horn", 
+    "sortcount": 709
   }, 
   {
     "Celtic": {
@@ -7571,7 +7743,8 @@
       "Slavic"
     ], 
     "index": 1596, 
-    "meaning": "how"
+    "meaning": "how", 
+    "sortcount": 610
   }, 
   {
     "Germanic": {
@@ -7594,7 +7767,8 @@
       "Slavic"
     ], 
     "index": 1602, 
-    "meaning": "hunt"
+    "meaning": "hunt", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -7623,7 +7797,8 @@
       "Romance"
     ], 
     "index": 1603, 
-    "meaning": "hunt"
+    "meaning": "hunt", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -7646,7 +7821,8 @@
       "Slavic"
     ], 
     "index": 1626, 
-    "meaning": "husband"
+    "meaning": "husband", 
+    "sortcount": 201
   }, 
   {
     "Indo-Iranian": {
@@ -7681,7 +7857,8 @@
       "Romance"
     ], 
     "index": 1627, 
-    "meaning": "husband"
+    "meaning": "husband", 
+    "sortcount": 203
   }, 
   {
     "Celtic": {
@@ -7714,7 +7891,8 @@
       "Slavic"
     ], 
     "index": 1634, 
-    "meaning": "husband"
+    "meaning": "husband", 
+    "sortcount": 401
   }, 
   {
     "Greek": {
@@ -7744,7 +7922,8 @@
       "Indo-Iranian"
     ], 
     "index": 1640, 
-    "meaning": "husband"
+    "meaning": "husband", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -7767,7 +7946,8 @@
       "Slavic"
     ], 
     "index": 1676, 
-    "meaning": "if"
+    "meaning": "if", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -7795,7 +7975,8 @@
       "Slavic"
     ], 
     "index": 1677, 
-    "meaning": "if"
+    "meaning": "if", 
+    "sortcount": 301
   }, 
   {
     "?": {
@@ -7913,7 +8094,8 @@
       "Slavic"
     ], 
     "index": 1697, 
-    "meaning": "in"
+    "meaning": "in", 
+    "sortcount": 709
   }, 
   {
     "Greek": {
@@ -7936,7 +8118,8 @@
       "Indo-Iranian"
     ], 
     "index": 1699, 
-    "meaning": "in"
+    "meaning": "in", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -7971,7 +8154,8 @@
       "Romance"
     ], 
     "index": 1721, 
-    "meaning": "kill"
+    "meaning": "kill", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -7995,7 +8179,8 @@
       "Indo-Iranian"
     ], 
     "index": 1735, 
-    "meaning": "kill"
+    "meaning": "kill", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -8087,7 +8272,8 @@
       "Romance"
     ], 
     "index": 1750, 
-    "meaning": "knee"
+    "meaning": "knee", 
+    "sortcount": 607
   }, 
   {
     "?": {
@@ -8177,7 +8363,8 @@
       "Slavic"
     ], 
     "index": 1751, 
-    "meaning": "know"
+    "meaning": "know", 
+    "sortcount": 707
   }, 
   {
     "Germanic": {
@@ -8206,7 +8393,8 @@
       "Romance"
     ], 
     "index": 1752, 
-    "meaning": "know"
+    "meaning": "know", 
+    "sortcount": 202
   }, 
   {
     "Romance": {
@@ -8229,7 +8417,8 @@
       "Slavic"
     ], 
     "index": 1755, 
-    "meaning": "know"
+    "meaning": "know", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -8294,7 +8483,8 @@
       "Slavic"
     ], 
     "index": 1757, 
-    "meaning": "know"
+    "meaning": "know", 
+    "sortcount": 604
   }, 
   {
     "Celtic": {
@@ -8348,7 +8538,8 @@
       "Romance"
     ], 
     "index": 1765, 
-    "meaning": "lake"
+    "meaning": "lake", 
+    "sortcount": 305
   }, 
   {
     "?": {
@@ -8383,7 +8574,8 @@
       "Slavic"
     ], 
     "index": 1774, 
-    "meaning": "lake"
+    "meaning": "lake", 
+    "sortcount": 302
   }, 
   {
     "Romance": {
@@ -8418,7 +8610,8 @@
       "Slavic"
     ], 
     "index": 1794, 
-    "meaning": "laugh"
+    "meaning": "laugh", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -8448,7 +8641,8 @@
       "Slavic"
     ], 
     "index": 1796, 
-    "meaning": "laugh"
+    "meaning": "laugh", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -8525,7 +8719,8 @@
       "Romance"
     ], 
     "index": 1806, 
-    "meaning": "leaf"
+    "meaning": "leaf", 
+    "sortcount": 506
   }, 
   {
     "Germanic": {
@@ -8548,7 +8743,8 @@
       "Slavic"
     ], 
     "index": 1811, 
-    "meaning": "leaf"
+    "meaning": "leaf", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -8571,7 +8767,8 @@
       "Germanic"
     ], 
     "index": 1828, 
-    "meaning": "left"
+    "meaning": "left", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -8601,7 +8798,8 @@
       "Slavic"
     ], 
     "index": 1831, 
-    "meaning": "left"
+    "meaning": "left", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -8634,7 +8832,8 @@
       "Slavic"
     ], 
     "index": 1841, 
-    "meaning": "left"
+    "meaning": "left", 
+    "sortcount": 401
   }, 
   {
     "?": {
@@ -8670,7 +8869,8 @@
       "Romance"
     ], 
     "index": 1860, 
-    "meaning": "leg"
+    "meaning": "leg", 
+    "sortcount": 302
   }, 
   {
     "Germanic": {
@@ -8709,7 +8909,8 @@
       "Slavic"
     ], 
     "index": 1863, 
-    "meaning": "leg"
+    "meaning": "leg", 
+    "sortcount": 501
   }, 
   {
     "?": {
@@ -8740,7 +8941,8 @@
       "Celtic"
     ], 
     "index": 1864, 
-    "meaning": "leg"
+    "meaning": "leg", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -8805,7 +9007,8 @@
       "Slavic"
     ], 
     "index": 1869, 
-    "meaning": "lie"
+    "meaning": "lie", 
+    "sortcount": 505
   }, 
   {
     "?": {
@@ -8841,7 +9044,8 @@
       "Indo-Iranian"
     ], 
     "index": 1878, 
-    "meaning": "lie"
+    "meaning": "lie", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -8938,7 +9142,8 @@
       "Slavic"
     ], 
     "index": 1882, 
-    "meaning": "live"
+    "meaning": "live", 
+    "sortcount": 609
   }, 
   {
     "?": {
@@ -8998,7 +9203,8 @@
       "Slavic"
     ], 
     "index": 1895, 
-    "meaning": "liver"
+    "meaning": "liver", 
+    "sortcount": 504
   }, 
   {
     "Romance": {
@@ -9027,7 +9233,8 @@
       "Slavic"
     ], 
     "index": 1898, 
-    "meaning": "liver"
+    "meaning": "liver", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -9107,7 +9314,8 @@
       "Slavic"
     ], 
     "index": 1908, 
-    "meaning": "long"
+    "meaning": "long", 
+    "sortcount": 507
   }, 
   {
     "?": {
@@ -9165,7 +9373,8 @@
       "Slavic"
     ], 
     "index": 1920, 
-    "meaning": "louse"
+    "meaning": "louse", 
+    "sortcount": 504
   }, 
   {
     "Indo-Iranian": {
@@ -9205,7 +9414,8 @@
       "Slavic"
     ], 
     "index": 1924, 
-    "meaning": "louse"
+    "meaning": "louse", 
+    "sortcount": 303
   }, 
   {
     "Germanic": {
@@ -9246,7 +9456,8 @@
       "Slavic"
     ], 
     "index": 1933, 
-    "meaning": "man"
+    "meaning": "man", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -9303,7 +9514,8 @@
       "Slavic"
     ], 
     "index": 1934, 
-    "meaning": "man"
+    "meaning": "man", 
+    "sortcount": 603
   }, 
   {
     "Celtic": {
@@ -9344,7 +9556,8 @@
       "Romance"
     ], 
     "index": 1935, 
-    "meaning": "man"
+    "meaning": "man", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -9381,7 +9594,8 @@
       "Indo-Iranian"
     ], 
     "index": 1939, 
-    "meaning": "man"
+    "meaning": "man", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -9424,7 +9638,8 @@
       "Greek"
     ], 
     "index": 1956, 
-    "meaning": "many"
+    "meaning": "many", 
+    "sortcount": 303
   }, 
   {
     "Romance": {
@@ -9453,7 +9668,8 @@
       "Slavic"
     ], 
     "index": 1959, 
-    "meaning": "many"
+    "meaning": "many", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -9489,7 +9705,8 @@
       "Slavic"
     ], 
     "index": 1962, 
-    "meaning": "many"
+    "meaning": "many", 
+    "sortcount": 302
   }, 
   {
     "Germanic": {
@@ -9526,7 +9743,8 @@
       "Slavic"
     ], 
     "index": 1991, 
-    "meaning": "meat"
+    "meaning": "meat", 
+    "sortcount": 302
   }, 
   {
     "Romance": {
@@ -9555,7 +9773,8 @@
       "Slavic"
     ], 
     "index": 1994, 
-    "meaning": "meat"
+    "meaning": "meat", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -9614,7 +9833,8 @@
       "Slavic"
     ], 
     "index": 2007, 
-    "meaning": "moon"
+    "meaning": "moon", 
+    "sortcount": 504
   }, 
   {
     "Celtic": {
@@ -9669,7 +9889,8 @@
       "Slavic"
     ], 
     "index": 2008, 
-    "meaning": "moon"
+    "meaning": "moon", 
+    "sortcount": 305
   }, 
   {
     "?": {
@@ -9786,7 +10007,8 @@
       "Slavic"
     ], 
     "index": 2026, 
-    "meaning": "mother"
+    "meaning": "mother", 
+    "sortcount": 711
   }, 
   {
     "?": {
@@ -9822,7 +10044,8 @@
       "Slavic"
     ], 
     "index": 2035, 
-    "meaning": "mountain"
+    "meaning": "mountain", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -9845,7 +10068,8 @@
       "Germanic"
     ], 
     "index": 2037, 
-    "meaning": "mountain"
+    "meaning": "mountain", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -9897,7 +10121,8 @@
       "Slavic"
     ], 
     "index": 2041, 
-    "meaning": "mountain"
+    "meaning": "mountain", 
+    "sortcount": 404
   }, 
   {
     "Celtic": {
@@ -9926,7 +10151,8 @@
       "Romance"
     ], 
     "index": 2070, 
-    "meaning": "mouth"
+    "meaning": "mouth", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -9967,7 +10193,8 @@
       "Slavic"
     ], 
     "index": 2071, 
-    "meaning": "mouth"
+    "meaning": "mouth", 
+    "sortcount": 402
   }, 
   {
     "Germanic": {
@@ -9995,7 +10222,8 @@
       "Slavic"
     ], 
     "index": 2076, 
-    "meaning": "mouth"
+    "meaning": "mouth", 
+    "sortcount": 301
   }, 
   {
     "?": {
@@ -10074,7 +10302,8 @@
       "Slavic"
     ], 
     "index": 2087, 
-    "meaning": "narrow"
+    "meaning": "narrow", 
+    "sortcount": 606
   }, 
   {
     "Celtic": {
@@ -10108,7 +10337,8 @@
       "Slavic"
     ], 
     "index": 2095, 
-    "meaning": "narrow"
+    "meaning": "narrow", 
+    "sortcount": 302
   }, 
   {
     "Romance": {
@@ -10131,7 +10361,8 @@
       "Slavic"
     ], 
     "index": 2113, 
-    "meaning": "near"
+    "meaning": "near", 
+    "sortcount": 201
   }, 
   {
     "Indo-Iranian": {
@@ -10160,7 +10391,8 @@
       "Slavic"
     ], 
     "index": 2133, 
-    "meaning": "neck"
+    "meaning": "neck", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -10202,7 +10434,8 @@
       "Romance"
     ], 
     "index": 2135, 
-    "meaning": "neck"
+    "meaning": "neck", 
+    "sortcount": 204
   }, 
   {
     "Celtic": {
@@ -10225,7 +10458,8 @@
       "Indo-Iranian"
     ], 
     "index": 2142, 
-    "meaning": "neck"
+    "meaning": "neck", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -10335,7 +10569,8 @@
       "Slavic"
     ], 
     "index": 2154, 
-    "meaning": "new"
+    "meaning": "new", 
+    "sortcount": 710
   }, 
   {
     "?": {
@@ -10431,7 +10666,8 @@
       "Slavic"
     ], 
     "index": 2162, 
-    "meaning": "night"
+    "meaning": "night", 
+    "sortcount": 708
   }, 
   {
     "?": {
@@ -10521,7 +10757,8 @@
       "Slavic"
     ], 
     "index": 2167, 
-    "meaning": "nose"
+    "meaning": "nose", 
+    "sortcount": 508
   }, 
   {
     "?": {
@@ -10632,7 +10869,8 @@
       "Slavic"
     ], 
     "index": 2178, 
-    "meaning": "not"
+    "meaning": "not", 
+    "sortcount": 610
   }, 
   {
     "Celtic": {
@@ -10663,7 +10901,8 @@
       "Greek"
     ], 
     "index": 2180, 
-    "meaning": "not"
+    "meaning": "not", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -10699,7 +10938,8 @@
       "Indo-Iranian"
     ], 
     "index": 2183, 
-    "meaning": "not"
+    "meaning": "not", 
+    "sortcount": 302
   }, 
   {
     "Germanic": {
@@ -10722,7 +10962,8 @@
       "Indo-Iranian"
     ], 
     "index": 2185, 
-    "meaning": "old"
+    "meaning": "old", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -10763,7 +11004,8 @@
       "Slavic"
     ], 
     "index": 2189, 
-    "meaning": "old"
+    "meaning": "old", 
+    "sortcount": 402
   }, 
   {
     "Romance": {
@@ -10799,7 +11041,8 @@
       "Slavic"
     ], 
     "index": 2190, 
-    "meaning": "old"
+    "meaning": "old", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -10913,7 +11156,8 @@
       "Slavic"
     ], 
     "index": 2199, 
-    "meaning": "one"
+    "meaning": "one", 
+    "sortcount": 610
   }, 
   {
     "?": {
@@ -10956,7 +11200,8 @@
       "Indo-Iranian"
     ], 
     "index": 2200, 
-    "meaning": "one"
+    "meaning": "one", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -11040,7 +11285,8 @@
       "Slavic"
     ], 
     "index": 2205, 
-    "meaning": "other"
+    "meaning": "other", 
+    "sortcount": 606
   }, 
   {
     "Germanic": {
@@ -11069,7 +11315,8 @@
       "Indo-Iranian"
     ], 
     "index": 2215, 
-    "meaning": "other"
+    "meaning": "other", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -11092,7 +11339,8 @@
       "Indo-Iranian"
     ], 
     "index": 2216, 
-    "meaning": "person"
+    "meaning": "person", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -11138,7 +11386,8 @@
       "Slavic"
     ], 
     "index": 2219, 
-    "meaning": "person"
+    "meaning": "person", 
+    "sortcount": 403
   }, 
   {
     "Celtic": {
@@ -11197,7 +11446,8 @@
       "Slavic"
     ], 
     "index": 2220, 
-    "meaning": "person"
+    "meaning": "person", 
+    "sortcount": 405
   }, 
   {
     "Germanic": {
@@ -11220,7 +11470,8 @@
       "Slavic"
     ], 
     "index": 2243, 
-    "meaning": "play"
+    "meaning": "play", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -11244,7 +11495,8 @@
       "Slavic"
     ], 
     "index": 2261, 
-    "meaning": "pull"
+    "meaning": "pull", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -11272,7 +11524,8 @@
       "Slavic"
     ], 
     "index": 2269, 
-    "meaning": "pull"
+    "meaning": "pull", 
+    "sortcount": 301
   }, 
   {
     "Germanic": {
@@ -11295,7 +11548,8 @@
       "Slavic"
     ], 
     "index": 2279, 
-    "meaning": "pull"
+    "meaning": "pull", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -11331,7 +11585,8 @@
       "Romance"
     ], 
     "index": 2299, 
-    "meaning": "push"
+    "meaning": "push", 
+    "sortcount": 203
   }, 
   {
     "Germanic": {
@@ -11360,7 +11615,8 @@
       "Slavic"
     ], 
     "index": 2307, 
-    "meaning": "push"
+    "meaning": "push", 
+    "sortcount": 301
   }, 
   {
     "?": {
@@ -11402,7 +11658,8 @@
       "Slavic"
     ], 
     "index": 2329, 
-    "meaning": "rain"
+    "meaning": "rain", 
+    "sortcount": 402
   }, 
   {
     "?": {
@@ -11496,7 +11753,8 @@
       "Slavic"
     ], 
     "index": 2338, 
-    "meaning": "red"
+    "meaning": "red", 
+    "sortcount": 708
   }, 
   {
     "Celtic": {
@@ -11549,7 +11807,8 @@
       "Romance"
     ], 
     "index": 2354, 
-    "meaning": "right"
+    "meaning": "right", 
+    "sortcount": 404
   }, 
   {
     "Germanic": {
@@ -11572,7 +11831,8 @@
       "Romance"
     ], 
     "index": 2365, 
-    "meaning": "right"
+    "meaning": "right", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -11631,7 +11891,8 @@
       "Slavic"
     ], 
     "index": 2382, 
-    "meaning": "rightside"
+    "meaning": "rightside", 
+    "sortcount": 405
   }, 
   {
     "?": {
@@ -11702,7 +11963,8 @@
       "Slavic"
     ], 
     "index": 2383, 
-    "meaning": "rightside"
+    "meaning": "rightside", 
+    "sortcount": 704
   }, 
   {
     "Greek": {
@@ -11725,7 +11987,8 @@
       "Indo-Iranian"
     ], 
     "index": 2394, 
-    "meaning": "river"
+    "meaning": "river", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -11760,7 +12023,8 @@
       "Slavic"
     ], 
     "index": 2398, 
-    "meaning": "river"
+    "meaning": "river", 
+    "sortcount": 302
   }, 
   {
     "Germanic": {
@@ -11795,7 +12059,8 @@
       "Slavic"
     ], 
     "index": 2400, 
-    "meaning": "river"
+    "meaning": "river", 
+    "sortcount": 302
   }, 
   {
     "Greek": {
@@ -11818,7 +12083,8 @@
       "Indo-Iranian"
     ], 
     "index": 2401, 
-    "meaning": "river"
+    "meaning": "river", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -11842,7 +12108,8 @@
       "Slavic"
     ], 
     "index": 2404, 
-    "meaning": "river"
+    "meaning": "river", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -11865,7 +12132,8 @@
       "Germanic"
     ], 
     "index": 2405, 
-    "meaning": "river"
+    "meaning": "river", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -11900,7 +12168,8 @@
       "Romance"
     ], 
     "index": 2420, 
-    "meaning": "road"
+    "meaning": "road", 
+    "sortcount": 203
   }, 
   {
     "Germanic": {
@@ -11923,7 +12192,8 @@
       "Romance"
     ], 
     "index": 2428, 
-    "meaning": "road"
+    "meaning": "road", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -12025,7 +12295,8 @@
       "Slavic"
     ], 
     "index": 2446, 
-    "meaning": "root"
+    "meaning": "root", 
+    "sortcount": 709
   }, 
   {
     "Germanic": {
@@ -12054,7 +12325,8 @@
       "Romance"
     ], 
     "index": 2460, 
-    "meaning": "rope"
+    "meaning": "rope", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -12077,7 +12349,8 @@
       "Germanic"
     ], 
     "index": 2464, 
-    "meaning": "rope"
+    "meaning": "rope", 
+    "sortcount": 201
   }, 
   {
     "Romance": {
@@ -12100,7 +12373,8 @@
       "Slavic"
     ], 
     "index": 2470, 
-    "meaning": "rope"
+    "meaning": "rope", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -12123,7 +12397,8 @@
       "Indo-Iranian"
     ], 
     "index": 2472, 
-    "meaning": "rope"
+    "meaning": "rope", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -12146,7 +12421,8 @@
       "Indo-Iranian"
     ], 
     "index": 2476, 
-    "meaning": "rope"
+    "meaning": "rope", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -12206,7 +12482,8 @@
       "Slavic"
     ], 
     "index": 2499, 
-    "meaning": "rotten"
+    "meaning": "rotten", 
+    "sortcount": 405
   }, 
   {
     "Greek": {
@@ -12229,7 +12506,8 @@
       "Indo-Iranian"
     ], 
     "index": 2501, 
-    "meaning": "rotten"
+    "meaning": "rotten", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -12277,7 +12555,8 @@
       "Romance"
     ], 
     "index": 2512, 
-    "meaning": "round"
+    "meaning": "round", 
+    "sortcount": 205
   }, 
   {
     "Celtic": {
@@ -12312,7 +12591,8 @@
       "Slavic"
     ], 
     "index": 2514, 
-    "meaning": "round"
+    "meaning": "round", 
+    "sortcount": 302
   }, 
   {
     "Romance": {
@@ -12348,7 +12628,8 @@
       "Slavic"
     ], 
     "index": 2535, 
-    "meaning": "rub"
+    "meaning": "rub", 
+    "sortcount": 203
   }, 
   {
     "Greek": {
@@ -12383,7 +12664,8 @@
       "Slavic"
     ], 
     "index": 2537, 
-    "meaning": "rub"
+    "meaning": "rub", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -12418,7 +12700,8 @@
       "Indo-Iranian"
     ], 
     "index": 2541, 
-    "meaning": "rub"
+    "meaning": "rub", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -12521,7 +12804,8 @@
       "Slavic"
     ], 
     "index": 2550, 
-    "meaning": "salt"
+    "meaning": "salt", 
+    "sortcount": 709
   }, 
   {
     "Celtic": {
@@ -12575,7 +12859,8 @@
       "Romance"
     ], 
     "index": 2559, 
-    "meaning": "sand"
+    "meaning": "sand", 
+    "sortcount": 404
   }, 
   {
     "Romance": {
@@ -12599,7 +12884,8 @@
       "Slavic"
     ], 
     "index": 2562, 
-    "meaning": "sand"
+    "meaning": "sand", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -12628,7 +12914,8 @@
       "Slavic"
     ], 
     "index": 2581, 
-    "meaning": "say"
+    "meaning": "say", 
+    "sortcount": 202
   }, 
   {
     "Romance": {
@@ -12663,7 +12950,8 @@
       "Slavic"
     ], 
     "index": 2585, 
-    "meaning": "say"
+    "meaning": "say", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -12686,7 +12974,8 @@
       "Germanic"
     ], 
     "index": 2614, 
-    "meaning": "scratch"
+    "meaning": "scratch", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -12721,7 +13010,8 @@
       "Slavic"
     ], 
     "index": 2617, 
-    "meaning": "scratch"
+    "meaning": "scratch", 
+    "sortcount": 302
   }, 
   {
     "Germanic": {
@@ -12744,7 +13034,8 @@
       "Romance"
     ], 
     "index": 2623, 
-    "meaning": "scratch"
+    "meaning": "scratch", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -12778,7 +13069,8 @@
       "Slavic"
     ], 
     "index": 2632, 
-    "meaning": "scratch"
+    "meaning": "scratch", 
+    "sortcount": 401
   }, 
   {
     "Celtic": {
@@ -12844,7 +13136,8 @@
       "Slavic"
     ], 
     "index": 2635, 
-    "meaning": "sea"
+    "meaning": "sea", 
+    "sortcount": 406
   }, 
   {
     "Germanic": {
@@ -12874,7 +13167,8 @@
       "Indo-Iranian"
     ], 
     "index": 2636, 
-    "meaning": "sea"
+    "meaning": "sea", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -12897,7 +13191,8 @@
       "Indo-Iranian"
     ], 
     "index": 2637, 
-    "meaning": "sea"
+    "meaning": "sea", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -12952,7 +13247,8 @@
       "Slavic"
     ], 
     "index": 2649, 
-    "meaning": "see"
+    "meaning": "see", 
+    "sortcount": 305
   }, 
   {
     "?": {
@@ -12982,7 +13278,8 @@
       "Indo-Iranian"
     ], 
     "index": 2650, 
-    "meaning": "see"
+    "meaning": "see", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -13061,7 +13358,8 @@
       "Slavic"
     ], 
     "index": 2665, 
-    "meaning": "seed"
+    "meaning": "seed", 
+    "sortcount": 507
   }, 
   {
     "Greek": {
@@ -13085,7 +13383,8 @@
       "Slavic"
     ], 
     "index": 2668, 
-    "meaning": "seed"
+    "meaning": "seed", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -13168,7 +13467,8 @@
       "Slavic"
     ], 
     "index": 2682, 
-    "meaning": "sew"
+    "meaning": "sew", 
+    "sortcount": 607
   }, 
   {
     "?": {
@@ -13234,7 +13534,8 @@
       "Slavic"
     ], 
     "index": 2690, 
-    "meaning": "sharp"
+    "meaning": "sharp", 
+    "sortcount": 505
   }, 
   {
     "Germanic": {
@@ -13284,7 +13585,8 @@
       "Slavic"
     ], 
     "index": 2708, 
-    "meaning": "short"
+    "meaning": "short", 
+    "sortcount": 304
   }, 
   {
     "?": {
@@ -13336,7 +13638,8 @@
       "Romance"
     ], 
     "index": 2715, 
-    "meaning": "short"
+    "meaning": "short", 
+    "sortcount": 503
   }, 
   {
     "?": {
@@ -13397,7 +13700,8 @@
       "Slavic"
     ], 
     "index": 2727, 
-    "meaning": "sing"
+    "meaning": "sing", 
+    "sortcount": 405
   }, 
   {
     "Indo-Iranian": {
@@ -13420,7 +13724,8 @@
       "Slavic"
     ], 
     "index": 2728, 
-    "meaning": "sing"
+    "meaning": "sing", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -13450,7 +13755,8 @@
       "Indo-Iranian"
     ], 
     "index": 2732, 
-    "meaning": "sing"
+    "meaning": "sing", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -13552,7 +13858,8 @@
       "Slavic"
     ], 
     "index": 2743, 
-    "meaning": "sit"
+    "meaning": "sit", 
+    "sortcount": 709
   }, 
   {
     "?": {
@@ -13588,7 +13895,8 @@
       "Indo-Iranian"
     ], 
     "index": 2749, 
-    "meaning": "sit"
+    "meaning": "sit", 
+    "sortcount": 302
   }, 
   {
     "Greek": {
@@ -13611,7 +13919,8 @@
       "Indo-Iranian"
     ], 
     "index": 2752, 
-    "meaning": "skin"
+    "meaning": "skin", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -13670,7 +13979,8 @@
       "Slavic"
     ], 
     "index": 2754, 
-    "meaning": "skin"
+    "meaning": "skin", 
+    "sortcount": 405
   }, 
   {
     "Germanic": {
@@ -13716,7 +14026,8 @@
       "Slavic"
     ], 
     "index": 2755, 
-    "meaning": "skin"
+    "meaning": "skin", 
+    "sortcount": 403
   }, 
   {
     "Indo-Iranian": {
@@ -13740,7 +14051,8 @@
       "Slavic"
     ], 
     "index": 2772, 
-    "meaning": "sky"
+    "meaning": "sky", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -13763,7 +14075,8 @@
       "Indo-Iranian"
     ], 
     "index": 2774, 
-    "meaning": "sky"
+    "meaning": "sky", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -13836,7 +14149,8 @@
       "Slavic"
     ], 
     "index": 2784, 
-    "meaning": "sleep"
+    "meaning": "sleep", 
+    "sortcount": 506
   }, 
   {
     "?": {
@@ -13888,7 +14202,8 @@
       "Slavic"
     ], 
     "index": 2786, 
-    "meaning": "sleep"
+    "meaning": "sleep", 
+    "sortcount": 404
   }, 
   {
     "?": {
@@ -13930,7 +14245,8 @@
       "Slavic"
     ], 
     "index": 2809, 
-    "meaning": "small"
+    "meaning": "small", 
+    "sortcount": 303
   }, 
   {
     "Germanic": {
@@ -13958,7 +14274,8 @@
       "Romance"
     ], 
     "index": 2810, 
-    "meaning": "small"
+    "meaning": "small", 
+    "sortcount": 301
   }, 
   {
     "?": {
@@ -14000,7 +14317,8 @@
       "Slavic"
     ], 
     "index": 2843, 
-    "meaning": "smell"
+    "meaning": "smell", 
+    "sortcount": 303
   }, 
   {
     "Germanic": {
@@ -14030,7 +14348,8 @@
       "Slavic"
     ], 
     "index": 2849, 
-    "meaning": "smooth"
+    "meaning": "smooth", 
+    "sortcount": 202
   }, 
   {
     "Romance": {
@@ -14060,7 +14379,8 @@
       "Slavic"
     ], 
     "index": 2851, 
-    "meaning": "smooth"
+    "meaning": "smooth", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -14112,7 +14432,8 @@
       "Romance"
     ], 
     "index": 2857, 
-    "meaning": "smooth"
+    "meaning": "smooth", 
+    "sortcount": 503
   }, 
   {
     "Celtic": {
@@ -14172,7 +14493,8 @@
       "Romance"
     ], 
     "index": 2877, 
-    "meaning": "snake"
+    "meaning": "snake", 
+    "sortcount": 405
   }, 
   {
     "?": {
@@ -14225,7 +14547,8 @@
       "Slavic"
     ], 
     "index": 2878, 
-    "meaning": "snake"
+    "meaning": "snake", 
+    "sortcount": 503
   }, 
   {
     "Celtic": {
@@ -14248,7 +14571,8 @@
       "Germanic"
     ], 
     "index": 2879, 
-    "meaning": "snake"
+    "meaning": "snake", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -14332,7 +14656,8 @@
       "Slavic"
     ], 
     "index": 2897, 
-    "meaning": "snow"
+    "meaning": "snow", 
+    "sortcount": 508
   }, 
   {
     "Greek": {
@@ -14356,7 +14681,8 @@
       "Indo-Iranian"
     ], 
     "index": 2899, 
-    "meaning": "snow"
+    "meaning": "snow", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -14421,7 +14747,8 @@
       "Slavic"
     ], 
     "index": 2917, 
-    "meaning": "some"
+    "meaning": "some", 
+    "sortcount": 504
   }, 
   {
     "?": {
@@ -14511,7 +14838,8 @@
       "Slavic"
     ], 
     "index": 2932, 
-    "meaning": "spit"
+    "meaning": "spit", 
+    "sortcount": 707
   }, 
   {
     "Celtic": {
@@ -14534,7 +14862,8 @@
       "Romance"
     ], 
     "index": 2937, 
-    "meaning": "spit"
+    "meaning": "spit", 
+    "sortcount": 201
   }, 
   {
     "Indo-Iranian": {
@@ -14569,7 +14898,8 @@
       "Romance"
     ], 
     "index": 2949, 
-    "meaning": "split"
+    "meaning": "split", 
+    "sortcount": 203
   }, 
   {
     "Celtic": {
@@ -14595,7 +14925,8 @@
       "Slavic"
     ], 
     "index": 2952, 
-    "meaning": "split"
+    "meaning": "split", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -14635,7 +14966,8 @@
       "Slavic"
     ], 
     "index": 2957, 
-    "meaning": "split"
+    "meaning": "split", 
+    "sortcount": 402
   }, 
   {
     "Germanic": {
@@ -14663,7 +14995,8 @@
       "Slavic"
     ], 
     "index": 2960, 
-    "meaning": "split"
+    "meaning": "split", 
+    "sortcount": 301
   }, 
   {
     "Germanic": {
@@ -14692,7 +15025,8 @@
       "Romance"
     ], 
     "index": 2973, 
-    "meaning": "squeeze"
+    "meaning": "squeeze", 
+    "sortcount": 202
   }, 
   {
     "Greek": {
@@ -14715,7 +15049,8 @@
       "Indo-Iranian"
     ], 
     "index": 2987, 
-    "meaning": "squeeze"
+    "meaning": "squeeze", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -14743,7 +15078,8 @@
       "Romance"
     ], 
     "index": 3015, 
-    "meaning": "stab"
+    "meaning": "stab", 
+    "sortcount": 301
   }, 
   {
     "Romance": {
@@ -14766,7 +15102,8 @@
       "Slavic"
     ], 
     "index": 3018, 
-    "meaning": "stab"
+    "meaning": "stab", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -14864,7 +15201,8 @@
       "Slavic"
     ], 
     "index": 3040, 
-    "meaning": "stand"
+    "meaning": "stand", 
+    "sortcount": 708
   }, 
   {
     "?": {
@@ -14966,7 +15304,8 @@
       "Slavic"
     ], 
     "index": 3057, 
-    "meaning": "star"
+    "meaning": "star", 
+    "sortcount": 709
   }, 
   {
     "Celtic": {
@@ -14989,7 +15328,8 @@
       "Romance"
     ], 
     "index": 3068, 
-    "meaning": "stick"
+    "meaning": "stick", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -15019,7 +15359,8 @@
       "Romance"
     ], 
     "index": 3079, 
-    "meaning": "stick"
+    "meaning": "stick", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -15062,7 +15403,8 @@
       "Slavic"
     ], 
     "index": 3096, 
-    "meaning": "stone"
+    "meaning": "stone", 
+    "sortcount": 303
   }, 
   {
     "Greek": {
@@ -15085,7 +15427,8 @@
       "Indo-Iranian"
     ], 
     "index": 3124, 
-    "meaning": "straight"
+    "meaning": "straight", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -15149,7 +15492,8 @@
       "Slavic"
     ], 
     "index": 3126, 
-    "meaning": "straight"
+    "meaning": "straight", 
+    "sortcount": 505
   }, 
   {
     "Celtic": {
@@ -15220,7 +15564,8 @@
       "Slavic"
     ], 
     "index": 3136, 
-    "meaning": "suck"
+    "meaning": "suck", 
+    "sortcount": 506
   }, 
   {
     "?": {
@@ -15261,7 +15606,8 @@
       "Indo-Iranian"
     ], 
     "index": 3144, 
-    "meaning": "suck"
+    "meaning": "suck", 
+    "sortcount": 402
   }, 
   {
     "Celtic": {
@@ -15284,7 +15630,8 @@
       "Indo-Iranian"
     ], 
     "index": 3153, 
-    "meaning": "sun"
+    "meaning": "sun", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -15391,7 +15738,8 @@
       "Slavic"
     ], 
     "index": 3155, 
-    "meaning": "sun"
+    "meaning": "sun", 
+    "sortcount": 710
   }, 
   {
     "Germanic": {
@@ -15419,7 +15767,8 @@
       "Indo-Iranian"
     ], 
     "index": 3174, 
-    "meaning": "swell"
+    "meaning": "swell", 
+    "sortcount": 301
   }, 
   {
     "Greek": {
@@ -15442,7 +15791,8 @@
       "Slavic"
     ], 
     "index": 3176, 
-    "meaning": "swell"
+    "meaning": "swell", 
+    "sortcount": 201
   }, 
   {
     "Romance": {
@@ -15471,7 +15821,8 @@
       "Slavic"
     ], 
     "index": 3178, 
-    "meaning": "swell"
+    "meaning": "swell", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -15543,7 +15894,8 @@
       "Romance"
     ], 
     "index": 3187, 
-    "meaning": "swim"
+    "meaning": "swim", 
+    "sortcount": 506
   }, 
   {
     "Indo-Iranian": {
@@ -15566,7 +15918,8 @@
       "Slavic"
     ], 
     "index": 3189, 
-    "meaning": "swim"
+    "meaning": "swim", 
+    "sortcount": 201
   }, 
   {
     "Romance": {
@@ -15601,7 +15954,8 @@
       "Slavic"
     ], 
     "index": 3201, 
-    "meaning": "tail"
+    "meaning": "tail", 
+    "sortcount": 203
   }, 
   {
     "Celtic": {
@@ -15631,7 +15985,8 @@
       "Greek"
     ], 
     "index": 3208, 
-    "meaning": "tail"
+    "meaning": "tail", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -15654,7 +16009,8 @@
       "Romance"
     ], 
     "index": 3215, 
-    "meaning": "tail"
+    "meaning": "tail", 
+    "sortcount": 201
   }, 
   {
     "Romance": {
@@ -15683,7 +16039,8 @@
       "Slavic"
     ], 
     "index": 3230, 
-    "meaning": "that"
+    "meaning": "that", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -15706,7 +16063,8 @@
       "Greek"
     ], 
     "index": 3235, 
-    "meaning": "that"
+    "meaning": "that", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -15792,7 +16150,8 @@
       "Slavic"
     ], 
     "index": 3245, 
-    "meaning": "that"
+    "meaning": "that", 
+    "sortcount": 506
   }, 
   {
     "Romance": {
@@ -15827,7 +16186,8 @@
       "Slavic"
     ], 
     "index": 3247, 
-    "meaning": "there"
+    "meaning": "there", 
+    "sortcount": 203
   }, 
   {
     "Germanic": {
@@ -15870,7 +16230,8 @@
       "Slavic"
     ], 
     "index": 3248, 
-    "meaning": "there"
+    "meaning": "there", 
+    "sortcount": 303
   }, 
   {
     "Celtic": {
@@ -15934,7 +16295,8 @@
       "Slavic"
     ], 
     "index": 3261, 
-    "meaning": "they"
+    "meaning": "they", 
+    "sortcount": 604
   }, 
   {
     "Romance": {
@@ -15975,7 +16337,8 @@
       "Slavic"
     ], 
     "index": 3265, 
-    "meaning": "they"
+    "meaning": "they", 
+    "sortcount": 203
   }, 
   {
     "Celtic": {
@@ -16011,7 +16374,8 @@
       "Germanic"
     ], 
     "index": 3278, 
-    "meaning": "thick"
+    "meaning": "thick", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -16051,7 +16415,8 @@
       "Slavic"
     ], 
     "index": 3285, 
-    "meaning": "thick"
+    "meaning": "thick", 
+    "sortcount": 402
   }, 
   {
     "?": {
@@ -16128,7 +16493,8 @@
       "Slavic"
     ], 
     "index": 3301, 
-    "meaning": "thin"
+    "meaning": "thin", 
+    "sortcount": 606
   }, 
   {
     "Germanic": {
@@ -16156,7 +16522,8 @@
       "Slavic"
     ], 
     "index": 3305, 
-    "meaning": "thin"
+    "meaning": "thin", 
+    "sortcount": 301
   }, 
   {
     "?": {
@@ -16192,7 +16559,8 @@
       "Germanic"
     ], 
     "index": 3322, 
-    "meaning": "think"
+    "meaning": "think", 
+    "sortcount": 203
   }, 
   {
     "Greek": {
@@ -16215,7 +16583,8 @@
       "Indo-Iranian"
     ], 
     "index": 3335, 
-    "meaning": "think"
+    "meaning": "think", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -16280,7 +16649,8 @@
       "Slavic"
     ], 
     "index": 3348, 
-    "meaning": "this"
+    "meaning": "this", 
+    "sortcount": 604
   }, 
   {
     "?": {
@@ -16316,7 +16686,8 @@
       "Slavic"
     ], 
     "index": 3350, 
-    "meaning": "this"
+    "meaning": "this", 
+    "sortcount": 201
   }, 
   {
     "Indo-Iranian": {
@@ -16346,7 +16717,8 @@
       "Slavic"
     ], 
     "index": 3352, 
-    "meaning": "this"
+    "meaning": "this", 
+    "sortcount": 202
   }, 
   {
     "Romance": {
@@ -16375,7 +16747,8 @@
       "Slavic"
     ], 
     "index": 3355, 
-    "meaning": "this"
+    "meaning": "this", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -16493,7 +16866,8 @@
       "Slavic"
     ], 
     "index": 3356, 
-    "meaning": "thou"
+    "meaning": "thou", 
+    "sortcount": 711
   }, 
   {
     "?": {
@@ -16611,7 +16985,8 @@
       "Slavic"
     ], 
     "index": 3361, 
-    "meaning": "three"
+    "meaning": "three", 
+    "sortcount": 711
   }, 
   {
     "Germanic": {
@@ -16646,7 +17021,8 @@
       "Slavic"
     ], 
     "index": 3364, 
-    "meaning": "throw"
+    "meaning": "throw", 
+    "sortcount": 302
   }, 
   {
     "Romance": {
@@ -16676,7 +17052,8 @@
       "Slavic"
     ], 
     "index": 3396, 
-    "meaning": "tie"
+    "meaning": "tie", 
+    "sortcount": 202
   }, 
   {
     "Germanic": {
@@ -16712,7 +17089,8 @@
       "Indo-Iranian"
     ], 
     "index": 3397, 
-    "meaning": "tie"
+    "meaning": "tie", 
+    "sortcount": 203
   }, 
   {
     "Greek": {
@@ -16735,7 +17113,8 @@
       "Indo-Iranian"
     ], 
     "index": 3405, 
-    "meaning": "tie"
+    "meaning": "tie", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -16839,7 +17218,8 @@
       "Slavic"
     ], 
     "index": 3417, 
-    "meaning": "tongue"
+    "meaning": "tongue", 
+    "sortcount": 610
   }, 
   {
     "?": {
@@ -16875,7 +17255,8 @@
       "Slavic"
     ], 
     "index": 3420, 
-    "meaning": "tooth"
+    "meaning": "tooth", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -16996,7 +17377,8 @@
       "Slavic"
     ], 
     "index": 3421, 
-    "meaning": "tooth"
+    "meaning": "tooth", 
+    "sortcount": 711
   }, 
   {
     "?": {
@@ -17064,7 +17446,8 @@
       "Slavic"
     ], 
     "index": 3424, 
-    "meaning": "tree"
+    "meaning": "tree", 
+    "sortcount": 505
   }, 
   {
     "Romance": {
@@ -17099,7 +17482,8 @@
       "Slavic"
     ], 
     "index": 3429, 
-    "meaning": "tree"
+    "meaning": "tree", 
+    "sortcount": 203
   }, 
   {
     "Greek": {
@@ -17122,7 +17506,8 @@
       "Romance"
     ], 
     "index": 3449, 
-    "meaning": "turn"
+    "meaning": "turn", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -17152,7 +17537,8 @@
       "Romance"
     ], 
     "index": 3456, 
-    "meaning": "turn"
+    "meaning": "turn", 
+    "sortcount": 202
   }, 
   {
     "Indo-Iranian": {
@@ -17194,7 +17580,8 @@
       "Slavic"
     ], 
     "index": 3457, 
-    "meaning": "turn"
+    "meaning": "turn", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -17312,7 +17699,8 @@
       "Slavic"
     ], 
     "index": 3479, 
-    "meaning": "two"
+    "meaning": "two", 
+    "sortcount": 711
   }, 
   {
     "?": {
@@ -17388,7 +17776,8 @@
       "Slavic"
     ], 
     "index": 3484, 
-    "meaning": "vomit"
+    "meaning": "vomit", 
+    "sortcount": 606
   }, 
   {
     "?": {
@@ -17411,7 +17800,8 @@
       "Romance"
     ], 
     "index": 3498, 
-    "meaning": "vomit"
+    "meaning": "vomit", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -17441,7 +17831,8 @@
       "Germanic"
     ], 
     "index": 3510, 
-    "meaning": "walk"
+    "meaning": "walk", 
+    "sortcount": 202
   }, 
   {
     "Greek": {
@@ -17464,7 +17855,8 @@
       "Indo-Iranian"
     ], 
     "index": 3515, 
-    "meaning": "walk"
+    "meaning": "walk", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -17487,7 +17879,8 @@
       "Indo-Iranian"
     ], 
     "index": 3520, 
-    "meaning": "walk"
+    "meaning": "walk", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -17560,7 +17953,8 @@
       "Slavic"
     ], 
     "index": 3535, 
-    "meaning": "warm"
+    "meaning": "warm", 
+    "sortcount": 506
   }, 
   {
     "Celtic": {
@@ -17605,7 +17999,8 @@
       "Slavic"
     ], 
     "index": 3536, 
-    "meaning": "warm"
+    "meaning": "warm", 
+    "sortcount": 403
   }, 
   {
     "?": {
@@ -17664,7 +18059,8 @@
       "Slavic"
     ], 
     "index": 3537, 
-    "meaning": "warm"
+    "meaning": "warm", 
+    "sortcount": 504
   }, 
   {
     "Greek": {
@@ -17713,7 +18109,8 @@
       "Slavic"
     ], 
     "index": 3550, 
-    "meaning": "wash"
+    "meaning": "wash", 
+    "sortcount": 304
   }, 
   {
     "?": {
@@ -17760,7 +18157,8 @@
       "Indo-Iranian"
     ], 
     "index": 3558, 
-    "meaning": "wash"
+    "meaning": "wash", 
+    "sortcount": 403
   }, 
   {
     "Celtic": {
@@ -17827,7 +18225,8 @@
       "Slavic"
     ], 
     "index": 3566, 
-    "meaning": "water"
+    "meaning": "water", 
+    "sortcount": 505
   }, 
   {
     "?": {
@@ -17874,7 +18273,8 @@
       "Slavic"
     ], 
     "index": 3567, 
-    "meaning": "water"
+    "meaning": "water", 
+    "sortcount": 304
   }, 
   {
     "?": {
@@ -17991,7 +18391,8 @@
       "Slavic"
     ], 
     "index": 3575, 
-    "meaning": "we"
+    "meaning": "we", 
+    "sortcount": 711
   }, 
   {
     "?": {
@@ -18021,7 +18422,8 @@
       "Germanic"
     ], 
     "index": 3584, 
-    "meaning": "wet"
+    "meaning": "wet", 
+    "sortcount": 202
   }, 
   {
     "Greek": {
@@ -18056,7 +18458,8 @@
       "Slavic"
     ], 
     "index": 3586, 
-    "meaning": "wet"
+    "meaning": "wet", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -18162,7 +18565,8 @@
       "Slavic"
     ], 
     "index": 3603, 
-    "meaning": "what"
+    "meaning": "what", 
+    "sortcount": 610
   }, 
   {
     "Celtic": {
@@ -18266,7 +18670,8 @@
       "Slavic"
     ], 
     "index": 3608, 
-    "meaning": "when"
+    "meaning": "when", 
+    "sortcount": 610
   }, 
   {
     "Germanic": {
@@ -18358,7 +18763,8 @@
       "Slavic"
     ], 
     "index": 3615, 
-    "meaning": "where"
+    "meaning": "where", 
+    "sortcount": 509
   }, 
   {
     "Germanic": {
@@ -18394,7 +18800,8 @@
       "Indo-Iranian"
     ], 
     "index": 3620, 
-    "meaning": "white"
+    "meaning": "white", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -18429,7 +18836,8 @@
       "Slavic"
     ], 
     "index": 3621, 
-    "meaning": "white"
+    "meaning": "white", 
+    "sortcount": 302
   }, 
   {
     "Romance": {
@@ -18465,7 +18873,8 @@
       "Slavic"
     ], 
     "index": 3623, 
-    "meaning": "white"
+    "meaning": "white", 
+    "sortcount": 203
   }, 
   {
     "Greek": {
@@ -18489,7 +18898,8 @@
       "Indo-Iranian"
     ], 
     "index": 3630, 
-    "meaning": "white"
+    "meaning": "white", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -18607,7 +19017,8 @@
       "Slavic"
     ], 
     "index": 3637, 
-    "meaning": "who"
+    "meaning": "who", 
+    "sortcount": 711
   }, 
   {
     "Celtic": {
@@ -18642,7 +19053,8 @@
       "Slavic"
     ], 
     "index": 3642, 
-    "meaning": "wide"
+    "meaning": "wide", 
+    "sortcount": 401
   }, 
   {
     "Celtic": {
@@ -18670,7 +19082,8 @@
       "Slavic"
     ], 
     "index": 3644, 
-    "meaning": "wide"
+    "meaning": "wide", 
+    "sortcount": 301
   }, 
   {
     "Greek": {
@@ -18693,7 +19106,8 @@
       "Indo-Iranian"
     ], 
     "index": 3650, 
-    "meaning": "wide"
+    "meaning": "wide", 
+    "sortcount": 201
   }, 
   {
     "Romance": {
@@ -18716,7 +19130,8 @@
       "Slavic"
     ], 
     "index": 3661, 
-    "meaning": "wife"
+    "meaning": "wife", 
+    "sortcount": 201
   }, 
   {
     "Indo-Iranian": {
@@ -18739,7 +19154,8 @@
       "Slavic"
     ], 
     "index": 3672, 
-    "meaning": "wife"
+    "meaning": "wife", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -18800,7 +19216,8 @@
       "Slavic"
     ], 
     "index": 3682, 
-    "meaning": "wife"
+    "meaning": "wife", 
+    "sortcount": 504
   }, 
   {
     "Celtic": {
@@ -18879,7 +19296,8 @@
       "Slavic"
     ], 
     "index": 3688, 
-    "meaning": "wind"
+    "meaning": "wind", 
+    "sortcount": 507
   }, 
   {
     "Greek": {
@@ -18921,7 +19339,8 @@
       "Slavic"
     ], 
     "index": 3733, 
-    "meaning": "with"
+    "meaning": "with", 
+    "sortcount": 303
   }, 
   {
     "Germanic": {
@@ -18952,7 +19371,8 @@
       "Greek"
     ], 
     "index": 3734, 
-    "meaning": "with"
+    "meaning": "with", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -18999,7 +19419,8 @@
       "Slavic"
     ], 
     "index": 3736, 
-    "meaning": "with"
+    "meaning": "with", 
+    "sortcount": 403
   }, 
   {
     "Romance": {
@@ -19028,7 +19449,8 @@
       "Slavic"
     ], 
     "index": 3761, 
-    "meaning": "woman"
+    "meaning": "woman", 
+    "sortcount": 202
   }, 
   {
     "?": {
@@ -19101,7 +19523,8 @@
       "Slavic"
     ], 
     "index": 3762, 
-    "meaning": "woman"
+    "meaning": "woman", 
+    "sortcount": 605
   }, 
   {
     "Germanic": {
@@ -19131,7 +19554,8 @@
       "Romance"
     ], 
     "index": 3792, 
-    "meaning": "woods"
+    "meaning": "woods", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -19161,7 +19585,8 @@
       "Germanic"
     ], 
     "index": 3804, 
-    "meaning": "woods"
+    "meaning": "woods", 
+    "sortcount": 202
   }, 
   {
     "Celtic": {
@@ -19184,7 +19609,8 @@
       "Indo-Iranian"
     ], 
     "index": 3810, 
-    "meaning": "woods"
+    "meaning": "woods", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -19227,7 +19653,8 @@
       "Slavic"
     ], 
     "index": 3820, 
-    "meaning": "worm"
+    "meaning": "worm", 
+    "sortcount": 303
   }, 
   {
     "?": {
@@ -19286,7 +19713,8 @@
       "Slavic"
     ], 
     "index": 3822, 
-    "meaning": "worm"
+    "meaning": "worm", 
+    "sortcount": 405
   }, 
   {
     "?": {
@@ -19323,7 +19751,8 @@
       "Indo-Iranian"
     ], 
     "index": 3840, 
-    "meaning": "year"
+    "meaning": "year", 
+    "sortcount": 302
   }, 
   {
     "?": {
@@ -19364,7 +19793,8 @@
       "Indo-Iranian"
     ], 
     "index": 3841, 
-    "meaning": "year"
+    "meaning": "year", 
+    "sortcount": 303
   }, 
   {
     "Germanic": {
@@ -19404,7 +19834,8 @@
       "Slavic"
     ], 
     "index": 3845, 
-    "meaning": "year"
+    "meaning": "year", 
+    "sortcount": 303
   }, 
   {
     "Germanic": {
@@ -19457,7 +19888,8 @@
       "Slavic"
     ], 
     "index": 3855, 
-    "meaning": "yellow"
+    "meaning": "yellow", 
+    "sortcount": 404
   }, 
   {
     "Romance": {
@@ -19480,7 +19912,8 @@
       "Slavic"
     ], 
     "index": 3861, 
-    "meaning": "yellow"
+    "meaning": "yellow", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -19591,6 +20024,7 @@
       "Slavic"
     ], 
     "index": 3871, 
-    "meaning": "you"
+    "meaning": "you", 
+    "sortcount": 710
   }
 ]

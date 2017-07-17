@@ -102,7 +102,8 @@
       "Slavic"
     ], 
     "index": 0, 
-    "meaning": "I"
+    "meaning": "I", 
+    "sortcount": 610
   }, 
   {
     "?": {
@@ -143,7 +144,8 @@
       "Indo-Iranian"
     ], 
     "index": 2, 
-    "meaning": "I"
+    "meaning": "I", 
+    "sortcount": 402
   }, 
   {
     "?": {
@@ -178,7 +180,8 @@
       "Indo-Iranian"
     ], 
     "index": 16, 
-    "meaning": "and"
+    "meaning": "and", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -213,7 +216,8 @@
       "Slavic"
     ], 
     "index": 27, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 302
   }, 
   {
     "Celtic": {
@@ -278,7 +282,8 @@
       "Slavic"
     ], 
     "index": 28, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 505
   }, 
   {
     "Celtic": {
@@ -306,7 +311,8 @@
       "Romance"
     ], 
     "index": 29, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 301
   }, 
   {
     "Greek": {
@@ -329,7 +335,8 @@
       "Slavic"
     ], 
     "index": 30, 
-    "meaning": "animal"
+    "meaning": "animal", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -378,7 +385,8 @@
       "Indo-Iranian"
     ], 
     "index": 39, 
-    "meaning": "ashes"
+    "meaning": "ashes", 
+    "sortcount": 303
   }, 
   {
     "Romance": {
@@ -414,7 +422,8 @@
       "Slavic"
     ], 
     "index": 42, 
-    "meaning": "ashes"
+    "meaning": "ashes", 
+    "sortcount": 203
   }, 
   {
     "?": {
@@ -460,7 +469,8 @@
       "Indo-Iranian"
     ], 
     "index": 67, 
-    "meaning": "at"
+    "meaning": "at", 
+    "sortcount": 402
   }, 
   {
     "Celtic": {
@@ -500,7 +510,8 @@
       "Slavic"
     ], 
     "index": 70, 
-    "meaning": "at"
+    "meaning": "at", 
+    "sortcount": 402
   }, 
   {
     "?": {
@@ -572,7 +583,8 @@
       "Slavic"
     ], 
     "index": 78, 
-    "meaning": "at"
+    "meaning": "at", 
+    "sortcount": 506
   }, 
   {
     "Germanic": {
@@ -600,7 +612,8 @@
       "Slavic"
     ], 
     "index": 100, 
-    "meaning": "back"
+    "meaning": "back", 
+    "sortcount": 301
   }, 
   {
     "Germanic": {
@@ -623,7 +636,8 @@
       "Slavic"
     ], 
     "index": 126, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -647,7 +661,8 @@
       "Indo-Iranian"
     ], 
     "index": 131, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "?": {
@@ -670,7 +685,8 @@
       "Germanic"
     ], 
     "index": 143, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "Celtic": {
@@ -693,7 +709,8 @@
       "Germanic"
     ], 
     "index": 144, 
-    "meaning": "bad"
+    "meaning": "bad", 
+    "sortcount": 201
   }, 
   {
     "Germanic": {
@@ -745,7 +762,8 @@
       "Slavic"
     ], 
     "index": 175, 
-    "meaning": "bark"
+    "meaning": "bark", 
+    "sortcount": 404
   }, 
   {
     "Celtic": {
@@ -768,7 +786,8 @@
       "Romance"
     ], 
     "index": 179, 
-    "meaning": "bark"
+    "meaning": "bark", 
+    "sortcount": 201
   }, 
   {
     "Greek": {
@@ -809,6 +828,7 @@
       "Slavic"
     ], 
     "index": 219, 
-    "meaning": "because"
+    "meaning": "because", 
+    "sortcount": 402
   }
 ]
