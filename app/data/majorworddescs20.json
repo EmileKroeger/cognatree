@@ -338,7 +338,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*h\u2082\u00e9h\u2081s-s, *h\u2082h\u2081s-\u00f3s"
+          "writing": "*h\u2082\u00e9h\u2081s-s"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2082h\u2081s-\u00f3s"
         }
       ], 
       "other": 0
@@ -417,7 +423,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*h\u2081epi, *h\u2081opi"
+          "writing": "*h\u2081epi"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2081opi"
         }
       ], 
       "other": 0

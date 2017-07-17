@@ -338,7 +338,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*h\u2082\u00e9h\u2081s-s, *h\u2082h\u2081s-\u00f3s"
+          "writing": "*h\u2082\u00e9h\u2081s-s"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2082h\u2081s-\u00f3s"
         }
       ], 
       "other": 0
@@ -417,7 +423,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*h\u2081epi, *h\u2081opi"
+          "writing": "*h\u2081epi"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2081opi"
         }
       ], 
       "other": 0
@@ -1413,7 +1425,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*kreuh\u2082-, *kruh\u2082-\u014ds"
+          "writing": "*kreuh\u2082-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*kruh\u2082-\u014ds"
         }
       ], 
       "other": 0
@@ -1465,7 +1483,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*b\u02b0leh\u2081-, *b\u02b0l\u0325h\u2081-"
+          "writing": "*b\u02b0leh\u2081-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*b\u02b0l\u0325h\u2081-"
         }
       ], 
       "other": 0
@@ -1720,7 +1744,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*speno-, *p(H)sten-o-"
+          "writing": "*speno-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*p(H)sten-o-"
         }
       ], 
       "other": 0
@@ -3051,7 +3081,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*trs-u-, *t\u0113rs-o-"
+          "writing": "*trs-u-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*t\u0113rs-o-"
         }
       ], 
       "other": 0
@@ -3569,7 +3605,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*d\u02b0g\u0311\u02b0(e)m, *d\u02b0\u00e9g\u0311\u02b0-m"
+          "writing": "*d\u02b0g\u0311\u02b0(e)m"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*d\u02b0\u00e9g\u0311\u02b0-m"
         }
       ], 
       "other": 0
@@ -4801,7 +4843,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*p\u00e9h\u2082-ur, *p(e)h\u2082-u\u032f\u00e9n-"
+          "writing": "*p\u00e9h\u2082-ur"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*p(e)h\u2082-u\u032f\u00e9n-"
         }
       ], 
       "other": 0
@@ -4980,7 +5028,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*pisk-, *peisk-"
+          "writing": "*pisk-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*peisk-"
         }
       ], 
       "other": 0
@@ -5645,7 +5699,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*(s)neu\u032fd\u02b0-, *(s)nou\u032fd\u02b0-."
+          "writing": "*(s)neu\u032fd\u02b0-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*(s)nou\u032fd\u02b0-."
         }
       ], 
       "other": 0
@@ -5668,7 +5728,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*ped-, *pod-"
+          "writing": "*ped-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*pod-"
         }
       ], 
       "other": 0
@@ -5766,7 +5832,19 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*k\u1d58\u00e9t-u\u032for-es, *k\u1d58et-u\u032f\u00e9r-, *k\u1d58et-ur-"
+          "writing": "*k\u1d58\u00e9t-u\u032for-es"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*k\u1d58et-u\u032f\u00e9r-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*k\u1d58et-ur-"
         }
       ], 
       "other": 0
@@ -6101,7 +6179,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*deh\u2083-, *deh\u2083u\u032f-"
+          "writing": "*deh\u2083-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*deh\u2083u\u032f-"
         }
       ], 
       "other": 0
@@ -6232,7 +6316,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*h\u2081su-, *h\u2081\u00f3s-u-"
+          "writing": "*h\u2081su-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2081\u00f3s-u-"
         }
       ], 
       "other": 0
@@ -6624,7 +6714,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*g\u0311\u02b0es-r(o)-, *g\u0311\u02b0es-t(o)-,"
+          "writing": "*g\u0311\u02b0es-r(o)-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*g\u0311\u02b0es-t(o)-,"
         }
       ], 
       "other": 0
@@ -6792,7 +6888,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*kapu-ko-, *kaput-o"
+          "writing": "*kapu-ko-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*kaput-o"
         }
       ], 
       "other": 0
@@ -7702,7 +7804,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*h\u2081en, *h\u2081en-ter"
+          "writing": "*h\u2081en"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2081en-ter"
         }
       ], 
       "other": 0
@@ -7713,10 +7821,16 @@
           "code": "gla", 
           "lang": "Irish B", 
           "pronunciation": "", 
-          "writing": "SA, SANN"
+          "writing": "SA"
+        }, 
+        {
+          "code": "gla", 
+          "lang": "Irish B", 
+          "pronunciation": "", 
+          "writing": "SANN"
         }
       ], 
-      "other": 9
+      "other": 8
     }, 
     "Germanic": {
       "major": [
@@ -7890,7 +8004,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*g\u0311\u00f3nu-/*g\u0311\u00e9nu-, *g\u0311n-\u00e9u-"
+          "writing": "*g\u0311\u00f3nu-/*g\u0311\u00e9nu-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*g\u0311n-\u00e9u-"
         }
       ], 
       "other": 0
@@ -8337,7 +8457,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*bhel-/bhol-i\u032fom, *bhl\u014d-t"
+          "writing": "*bhel-/bhol-i\u032fom"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*bhl\u014d-t"
         }
       ], 
       "other": 0
@@ -10314,7 +10440,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*hn\u00e9h\u2082s, *n\u0101\u0301s"
+          "writing": "*hn\u00e9h\u2082s"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*n\u0101\u0301s"
         }
       ], 
       "other": 0
@@ -10398,7 +10530,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*ne, *ney"
+          "writing": "*ne"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*ney"
         }
       ], 
       "other": 0
@@ -10670,7 +10808,19 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*(H)\u00f3ynos, *(H)\u00f3ykos, *(H)\u00f3ywos"
+          "writing": "*(H)\u00f3ynos"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*(H)\u00f3ykos"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*(H)\u00f3ywos"
         }
       ], 
       "other": 0
@@ -10815,7 +10965,13 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*h\u2082el-y\u00f3-, *h\u2082el-n\u00f3-"
+          "writing": "*h\u2082el-y\u00f3-"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*h\u2082el-n\u00f3-"
         }
       ], 
       "other": 0
@@ -14224,10 +14380,16 @@
           "code": "hin", 
           "lang": "Hindi", 
           "pronunciation": "", 
-          "writing": "KOI, KEI"
+          "writing": "KOI"
+        }, 
+        {
+          "code": "hin", 
+          "lang": "Hindi", 
+          "pronunciation": "", 
+          "writing": "KEI"
         }
       ], 
-      "other": 13
+      "other": 12
     }, 
     "Romance": {
       "major": [
@@ -15553,7 +15715,19 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*s\u00f3, *s\u00e9h\u2082, *t\u00f3d"
+          "writing": "*s\u00f3"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*s\u00e9h\u2082"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*t\u00f3d"
         }
       ], 
       "other": 0
@@ -15775,7 +15949,13 @@
           "code": "fra", 
           "lang": "French", 
           "pronunciation": "il, \u025bl", 
-          "writing": "ils, elles"
+          "writing": "ils"
+        }, 
+        {
+          "code": "fra", 
+          "lang": "French", 
+          "pronunciation": "il, \u025bl", 
+          "writing": "elles"
         }, 
         {
           "code": "spa", 
@@ -15784,7 +15964,7 @@
           "writing": "ellos"
         }
       ], 
-      "other": 8
+      "other": 7
     }, 
     "Slavic": {
       "major": [], 
@@ -16109,7 +16289,19 @@
           "code": "pie", 
           "lang": "Proto-Indo-European", 
           "pronunciation": "", 
-          "writing": "*kos, *koh\u2082, *kod"
+          "writing": "*kos"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*koh\u2082"
+        }, 
+        {
+          "code": "pie", 
+          "lang": "Proto-Indo-European", 
+          "pronunciation": "", 
+          "writing": "*kod"
         }
       ], 
       "other": 0
@@ -16731,10 +16923,16 @@
           "code": "grc", 
           "lang": "Ancient Greek", 
           "pronunciation": "", 
-          "writing": "\u03bf\u03b4\u03c9\u03bd, \u1f40\u03b4\u03bf\u03cd\u03c2"
+          "writing": "\u03bf\u03b4\u03c9\u03bd"
+        }, 
+        {
+          "code": "grc", 
+          "lang": "Ancient Greek", 
+          "pronunciation": "", 
+          "writing": "\u1f40\u03b4\u03bf\u03cd\u03c2"
         }
       ], 
-      "other": 6
+      "other": 5
     }, 
     "Indo-Iranian": {
       "major": [
