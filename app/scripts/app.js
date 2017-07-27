@@ -43,6 +43,10 @@ angular
         templateUrl: 'views/words.html',
         controller: 'WordsCtrl'
       })
+      .when('/decomposition/:lang', {
+        templateUrl: 'views/decomposition.html',
+        controller: 'DecompositionCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });

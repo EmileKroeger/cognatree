@@ -1,3 +1,39 @@
+Next actions on integrating etymwn data
+ * generate some kind of topologically sorted graph
+
+ * in tree: Make hidden words collapsible
+
+Terminology:
+ * What I call "cognate group" is "word family" or (maybe) "paradigm"
+
+More general reflections:
+
+I could have two kinds of tree display:
+ * Macro, in language families (most important languages only)
+ * Micro, inside a language family
+ 
+Other interesting data:
+ * compare words with p- and f-
+
+
+Now let's start attacking some goddamm linguistic rules:
+
+ * Satem-centum: dorsal consonants (that means palatal and velar - k and g)
+ 
+Some directions I could take this:
+ * Build trees for various sound groups, not for words (e.g. english "th")
+  * tricky: sounds have rules
+ * Have a big laundry list of sound changes, with example words
+   like this ? https://en.wikipedia.org/wiki/Indo-European_sound_laws
+ * IPA table for each language
+  * simpler, and doable
+  * A reference: https://en.wikipedia.org/wiki/Consonant
+ * Get better data on cognates from wiktionary
+  * or etymwn, which I already have and which is derived from Wiktionary
+  
+  
+Done
+
  * -Have "branch" have two lists of words, "important" and "not important"-
  * -toggle display of "not important"-
  * -Regroup families by "address", using that to build a tree (auto add IE on top)-
@@ -20,18 +56,4 @@
  * -split proto IE in several tables-
  * -Find a better name for cognate groups-
  * -Allow sorting of language list by number of branches-
-
- * Allow toggling of families in table
- * in tree: Make hidden words collapsible
-
-Terminology:
- * What I call "cognate group" is "word family" or (maybe) "paradigm"
-
-More general reflections:
-
-I could have two kinds of tree display:
- * Macro, in language families (most important languages only)
- * Micro, inside a language family
- 
-Other interesting data:
- * compare words with p- and f-
+ * -Allow toggling of families in table-

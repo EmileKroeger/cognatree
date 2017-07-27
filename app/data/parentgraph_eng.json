@@ -1,0 +1,3149 @@
+[
+  [
+    {
+      "childlangs": [], 
+      "lang": "eng", 
+      "words": []
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 183924935, 
+          "lang": "eng", 
+          "wordcount": 1511
+        }
+      ], 
+      "lang": "enm", 
+      "words": [
+        {
+          "finalword": "a", 
+          "word": "a"
+        }, 
+        {
+          "finalword": "and", 
+          "word": "and"
+        }, 
+        {
+          "finalword": "of", 
+          "word": "of"
+        }, 
+        {
+          "finalword": "me", 
+          "word": "me"
+        }, 
+        {
+          "finalword": "he", 
+          "word": "he"
+        }, 
+        {
+          "finalword": "for", 
+          "word": "for"
+        }, 
+        {
+          "finalword": "my", 
+          "word": "my"
+        }, 
+        {
+          "finalword": "have", 
+          "word": "haven"
+        }, 
+        {
+          "finalword": "no", 
+          "word": "no"
+        }, 
+        {
+          "finalword": "not", 
+          "word": "not"
+        }, 
+        {
+          "finalword": "know", 
+          "word": "knowen"
+        }, 
+        {
+          "finalword": "with", 
+          "word": "with"
+        }, 
+        {
+          "finalword": "but", 
+          "word": "but"
+        }, 
+        {
+          "finalword": "so", 
+          "word": "so"
+        }, 
+        {
+          "finalword": "here", 
+          "word": "here"
+        }, 
+        {
+          "finalword": "there", 
+          "word": "there"
+        }, 
+        {
+          "finalword": "they", 
+          "word": "they"
+        }, 
+        {
+          "finalword": "like", 
+          "word": "liken"
+        }, 
+        {
+          "finalword": "she", 
+          "word": "sche"
+        }, 
+        {
+          "finalword": "go", 
+          "word": "gon"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 62568, 
+          "lang": "eng", 
+          "wordcount": 25
+        }
+      ], 
+      "lang": "jpn", 
+      "words": [
+        {
+          "finalword": "dan", 
+          "word": "\u6bb5"
+        }, 
+        {
+          "finalword": "ninja", 
+          "word": "\u5fcd\u8005"
+        }, 
+        {
+          "finalword": "samurai", 
+          "word": "\u4f8d"
+        }, 
+        {
+          "finalword": "sushi", 
+          "word": "\u9ba8"
+        }, 
+        {
+          "finalword": "yuri", 
+          "word": "\u767e\u5408"
+        }, 
+        {
+          "finalword": "karaoke", 
+          "word": "\u30ab\u30e9\u30aa\u30b1"
+        }, 
+        {
+          "finalword": "mu", 
+          "word": "\u7121"
+        }, 
+        {
+          "finalword": "shogun", 
+          "word": "\u5c06\u8ecd"
+        }, 
+        {
+          "finalword": "geisha", 
+          "word": "\u82b8\u8005"
+        }, 
+        {
+          "finalword": "sakura", 
+          "word": "\u685c"
+        }, 
+        {
+          "finalword": "kimono", 
+          "word": "\u7740\u7269"
+        }, 
+        {
+          "finalword": "ramen", 
+          "word": "\u30e9\u30fc\u30e1\u30f3"
+        }, 
+        {
+          "finalword": "yumi", 
+          "word": "\u5f13"
+        }, 
+        {
+          "finalword": "judo", 
+          "word": "\u67d4\u9053"
+        }, 
+        {
+          "finalword": "koji", 
+          "word": "\u9eb9"
+        }, 
+        {
+          "finalword": "rickshaw", 
+          "word": "\u529b\u8eca"
+        }, 
+        {
+          "finalword": "dojo", 
+          "word": "\u9053\u5834"
+        }, 
+        {
+          "finalword": "hooch", 
+          "word": "\u3046\u3061"
+        }, 
+        {
+          "finalword": "sumo", 
+          "word": "\u76f8\u64b2"
+        }, 
+        {
+          "finalword": "maru", 
+          "word": "\u5186"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 32004, 
+          "lang": "eng", 
+          "wordcount": 5
+        }
+      ], 
+      "lang": "gle", 
+      "words": [
+        {
+          "finalword": "eric", 
+          "word": "eiric"
+        }, 
+        {
+          "finalword": "whiskey", 
+          "word": "uisce beatha"
+        }, 
+        {
+          "finalword": "slob", 
+          "word": "slaba"
+        }, 
+        {
+          "finalword": "leprechaun", 
+          "word": "leipreach\u00e1n"
+        }, 
+        {
+          "finalword": "tilly", 
+          "word": "tuilleadh"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 22146, 
+          "lang": "eng", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "rme", 
+      "words": [
+        {
+          "finalword": "pal", 
+          "word": "phal"
+        }, 
+        {
+          "finalword": "mush", 
+          "word": "mush"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 21715, 
+          "lang": "eng", 
+          "wordcount": 4
+        }
+      ], 
+      "lang": "rus", 
+      "words": [
+        {
+          "finalword": "da", 
+          "word": "\u0434\u0430"
+        }, 
+        {
+          "finalword": "commissar", 
+          "word": "\u043a\u043e\u043c\u0438\u0441\u0441\u0430\u0440"
+        }, 
+        {
+          "finalword": "czar", 
+          "word": "\u0446\u0430\u0440\u044c"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 20065, 
+          "lang": "eng", 
+          "wordcount": 4
+        }
+      ], 
+      "lang": "sco", 
+      "words": [
+        {
+          "finalword": "jo", 
+          "word": "jo"
+        }, 
+        {
+          "finalword": "raid", 
+          "word": "raid"
+        }, 
+        {
+          "finalword": "links", 
+          "word": "link"
+        }, 
+        {
+          "finalword": "glamour", 
+          "word": "gramarye"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 10777, 
+          "lang": "eng", 
+          "wordcount": 3
+        }
+      ], 
+      "lang": "gla", 
+      "words": [
+        {
+          "finalword": "clan", 
+          "word": "clann"
+        }, 
+        {
+          "finalword": "glen", 
+          "word": "gleann"
+        }, 
+        {
+          "finalword": "pollock", 
+          "word": "podlok"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 9793, 
+          "lang": "eng", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "ces", 
+      "words": [
+        {
+          "finalword": "robot", 
+          "word": "robot"
+        }, 
+        {
+          "finalword": "polka", 
+          "word": "polka"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 8109, 
+          "lang": "eng", 
+          "wordcount": 3
+        }
+      ], 
+      "lang": "cmn", 
+      "words": [
+        {
+          "finalword": "shanghai", 
+          "word": "\u4e0a\u6d77"
+        }, 
+        {
+          "finalword": "yuan", 
+          "word": "\u5143"
+        }, 
+        {
+          "finalword": "bi", 
+          "word": "\u74a7"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 6233, 
+          "lang": "eng", 
+          "wordcount": 5
+        }
+      ], 
+      "lang": "yid", 
+      "words": [
+        {
+          "finalword": "oy", 
+          "word": "\u05d0\u05d5\u05d9"
+        }, 
+        {
+          "finalword": "bagel", 
+          "word": "\u05d1\u05d9\u05d9\u05d2\u05dc"
+        }, 
+        {
+          "finalword": "schmuck", 
+          "word": "\u05e9\u05de\u05d0\u05b8\u05e7"
+        }, 
+        {
+          "finalword": "kosher", 
+          "word": "\u05db\u05bc\u05e9\u05e8"
+        }, 
+        {
+          "finalword": "nu", 
+          "word": "\u05e0\u05d5"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 5375, 
+          "lang": "eng", 
+          "wordcount": 4
+        }
+      ], 
+      "lang": "haw", 
+      "words": [
+        {
+          "finalword": "ki", 
+          "word": "ki"
+        }, 
+        {
+          "finalword": "aa", 
+          "word": "\u02bba\u02bb\u0101"
+        }, 
+        {
+          "finalword": "oo", 
+          "word": "\u2018\u014d\u2018\u014d"
+        }, 
+        {
+          "finalword": "aloha", 
+          "word": "aloha"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 3792, 
+          "lang": "eng", 
+          "wordcount": 3
+        }
+      ], 
+      "lang": "afr", 
+      "words": [
+        {
+          "finalword": "trek", 
+          "word": "trek"
+        }, 
+        {
+          "finalword": "commando", 
+          "word": "kommando"
+        }, 
+        {
+          "finalword": "donner", 
+          "word": "donder"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 3736, 
+          "lang": "eng", 
+          "wordcount": 4
+        }
+      ], 
+      "lang": "bod", 
+      "words": [
+        {
+          "finalword": "lama", 
+          "word": "\u0f56\u0fb3\u0f0b\u0f58"
+        }, 
+        {
+          "finalword": "yak", 
+          "word": "\u0f42\u0f61\u0f42"
+        }, 
+        {
+          "finalword": "momo", 
+          "word": "\u0f58\u0f7c\u0f42\u0f0b\u0f58\u0f7c\u0f42\u0f0b"
+        }, 
+        {
+          "finalword": "jong", 
+          "word": "\u0f62\u0fab\u0f7c\u0f44\u0f0b"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 3633, 
+          "lang": "eng", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "swe", 
+      "words": [
+        {
+          "finalword": "nickel", 
+          "word": "nickel"
+        }, 
+        {
+          "finalword": "slag", 
+          "word": "slagg"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 3451, 
+          "lang": "eng", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "tha", 
+      "words": [
+        {
+          "finalword": "ching", 
+          "word": "\u0e09\u0e34\u0e48\u0e07"
+        }, 
+        {
+          "finalword": "wat", 
+          "word": "\u0e27\u0e31\u0e14"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 64328620, 
+          "lang": "enm", 
+          "wordcount": 371
+        }, 
+        {
+          "freq": 7948, 
+          "lang": "sco", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 30533231, 
+          "lang": "eng", 
+          "wordcount": 396
+        }
+      ], 
+      "lang": "ang", 
+      "words": [
+        {
+          "finalword": "of", 
+          "word": "of"
+        }, 
+        {
+          "finalword": "in", 
+          "word": "inne"
+        }, 
+        {
+          "finalword": "me", 
+          "word": "me"
+        }, 
+        {
+          "finalword": "he", 
+          "word": "he"
+        }, 
+        {
+          "finalword": "for", 
+          "word": "for"
+        }, 
+        {
+          "finalword": "have", 
+          "word": "habban"
+        }, 
+        {
+          "finalword": "your", 
+          "word": "eower"
+        }, 
+        {
+          "finalword": "was", 
+          "word": "w\u00e6s"
+        }, 
+        {
+          "finalword": "with", 
+          "word": "wi\u00fe"
+        }, 
+        {
+          "finalword": "here", 
+          "word": "her"
+        }, 
+        {
+          "finalword": "like", 
+          "word": "lician"
+        }, 
+        {
+          "finalword": "go", 
+          "word": "gan"
+        }, 
+        {
+          "finalword": "up", 
+          "word": "upp"
+        }, 
+        {
+          "finalword": "at", 
+          "word": "\u00e6t"
+        }, 
+        {
+          "finalword": "who", 
+          "word": "hwa"
+        }, 
+        {
+          "finalword": "from", 
+          "word": "from"
+        }, 
+        {
+          "finalword": "back", 
+          "word": "b\u00e6c"
+        }, 
+        {
+          "finalword": "us", 
+          "word": "us"
+        }, 
+        {
+          "finalword": "take", 
+          "word": "tacan"
+        }, 
+        {
+          "finalword": "our", 
+          "word": "ure"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 2235926, 
+          "lang": "enm", 
+          "wordcount": 77
+        }, 
+        {
+          "freq": 1974649, 
+          "lang": "eng", 
+          "wordcount": 131
+        }
+      ], 
+      "lang": "xno", 
+      "words": [
+        {
+          "finalword": "car", 
+          "word": "carre"
+        }, 
+        {
+          "finalword": "try", 
+          "word": "trier"
+        }, 
+        {
+          "finalword": "matter", 
+          "word": "materie"
+        }, 
+        {
+          "finalword": "person", 
+          "word": "parsone"
+        }, 
+        {
+          "finalword": "music", 
+          "word": "musik"
+        }, 
+        {
+          "finalword": "number", 
+          "word": "noumbre"
+        }, 
+        {
+          "finalword": "reason", 
+          "word": "raisun"
+        }, 
+        {
+          "finalword": "question", 
+          "word": "questiun"
+        }, 
+        {
+          "finalword": "office", 
+          "word": "office"
+        }, 
+        {
+          "finalword": "clear", 
+          "word": "cler"
+        }, 
+        {
+          "finalword": "hour", 
+          "word": "houre"
+        }, 
+        {
+          "finalword": "uncle", 
+          "word": "uncle"
+        }, 
+        {
+          "finalword": "air", 
+          "word": "aeir"
+        }, 
+        {
+          "finalword": "dance", 
+          "word": "dancer"
+        }, 
+        {
+          "finalword": "catch", 
+          "word": "cachier"
+        }, 
+        {
+          "finalword": "voice", 
+          "word": "voiz"
+        }, 
+        {
+          "finalword": "report", 
+          "word": "reporter"
+        }, 
+        {
+          "finalword": "marry", 
+          "word": "marier"
+        }, 
+        {
+          "finalword": "general", 
+          "word": "general"
+        }, 
+        {
+          "finalword": "officer", 
+          "word": "officer"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 153421, 
+          "lang": "eng", 
+          "wordcount": 18
+        }, 
+        {
+          "freq": 953, 
+          "lang": "afr", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "nld", 
+      "words": [
+        {
+          "finalword": "tea", 
+          "word": "thee"
+        }, 
+        {
+          "finalword": "gas", 
+          "word": "gas"
+        }, 
+        {
+          "finalword": "boom", 
+          "word": "boom"
+        }, 
+        {
+          "finalword": "dollar", 
+          "word": "daler"
+        }, 
+        {
+          "finalword": "pit", 
+          "word": "pit"
+        }, 
+        {
+          "finalword": "cookie", 
+          "word": "koekje"
+        }, 
+        {
+          "finalword": "wagon", 
+          "word": "wagen"
+        }, 
+        {
+          "finalword": "cruise", 
+          "word": "kruisen"
+        }, 
+        {
+          "finalword": "slim", 
+          "word": "slim"
+        }, 
+        {
+          "finalword": "sketch", 
+          "word": "schets"
+        }, 
+        {
+          "finalword": "moose", 
+          "word": "moes"
+        }, 
+        {
+          "finalword": "bamboo", 
+          "word": "bamboe"
+        }, 
+        {
+          "finalword": "crate", 
+          "word": "krat"
+        }, 
+        {
+          "finalword": "sleigh", 
+          "word": "slee"
+        }, 
+        {
+          "finalword": "elope", 
+          "word": "ontlopen"
+        }, 
+        {
+          "finalword": "snoop", 
+          "word": "snoepen"
+        }, 
+        {
+          "finalword": "commodore", 
+          "word": "kommandeur"
+        }, 
+        {
+          "finalword": "spook", 
+          "word": "spook"
+        }, 
+        {
+          "finalword": "donner", 
+          "word": "donder"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 22146, 
+          "lang": "rme", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "rom", 
+      "words": [
+        {
+          "finalword": "pal", 
+          "word": "phral"
+        }, 
+        {
+          "finalword": "mush", 
+          "word": "mur\u0161"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 7182, 
+          "lang": "gla", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "sga", 
+      "words": [
+        {
+          "finalword": "clan", 
+          "word": "cland"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 1213, 
+          "lang": "yid", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "pol", 
+      "words": [
+        {
+          "finalword": "schmuck", 
+          "word": "smok"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 616, 
+          "lang": "frc", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "cho", 
+      "words": [
+        {
+          "finalword": "bayou", 
+          "word": "bayuk"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 2510633, 
+          "lang": "eng", 
+          "wordcount": 435
+        }, 
+        {
+          "freq": 1074, 
+          "lang": "nld", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 31023, 
+          "lang": "enm", 
+          "wordcount": 9
+        }
+      ], 
+      "lang": "fra", 
+      "words": [
+        {
+          "finalword": "plan", 
+          "word": "plan"
+        }, 
+        {
+          "finalword": "president", 
+          "word": "pr\u00e9sident"
+        }, 
+        {
+          "finalword": "class", 
+          "word": "classe"
+        }, 
+        {
+          "finalword": "hotel", 
+          "word": "h\u00f4tel"
+        }, 
+        {
+          "finalword": "attack", 
+          "word": "attaque"
+        }, 
+        {
+          "finalword": "frank", 
+          "word": "franc"
+        }, 
+        {
+          "finalword": "situation", 
+          "word": "situation"
+        }, 
+        {
+          "finalword": "group", 
+          "word": "groupe"
+        }, 
+        {
+          "finalword": "position", 
+          "word": "position"
+        }, 
+        {
+          "finalword": "impossible", 
+          "word": "impossible"
+        }, 
+        {
+          "finalword": "mission", 
+          "word": "mission"
+        }, 
+        {
+          "finalword": "department", 
+          "word": "d\u00e9partement"
+        }, 
+        {
+          "finalword": "sold", 
+          "word": "solde"
+        }, 
+        {
+          "finalword": "bomb", 
+          "word": "bombe"
+        }, 
+        {
+          "finalword": "responsible", 
+          "word": "responsable"
+        }, 
+        {
+          "finalword": "military", 
+          "word": "militaire"
+        }, 
+        {
+          "finalword": "code", 
+          "word": "code"
+        }, 
+        {
+          "finalword": "conversation", 
+          "word": "conversation"
+        }, 
+        {
+          "finalword": "copy", 
+          "word": "copie"
+        }, 
+        {
+          "finalword": "center", 
+          "word": "centre"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 119739, 
+          "lang": "ang", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "p_gem", 
+      "words": [
+        {
+          "finalword": "side", 
+          "word": "sithon"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 46848, 
+          "lang": "nld", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "nan", 
+      "words": [
+        {
+          "finalword": "tea", 
+          "word": "\u8336"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 7182, 
+          "lang": "sga", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "owl", 
+      "words": [
+        {
+          "finalword": "clan", 
+          "word": "plant"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 10133, 
+          "lang": "fra", 
+          "wordcount": 3
+        }, 
+        {
+          "freq": 726022, 
+          "lang": "enm", 
+          "wordcount": 23
+        }, 
+        {
+          "freq": 1199247, 
+          "lang": "eng", 
+          "wordcount": 143
+        }, 
+        {
+          "freq": 12686, 
+          "lang": "xno", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "frm", 
+      "words": [
+        {
+          "finalword": "sure", 
+          "word": "sur"
+        }, 
+        {
+          "finalword": "police", 
+          "word": "police"
+        }, 
+        {
+          "finalword": "stupid", 
+          "word": "stupide"
+        }, 
+        {
+          "finalword": "human", 
+          "word": "humain"
+        }, 
+        {
+          "finalword": "scene", 
+          "word": "scene"
+        }, 
+        {
+          "finalword": "machine", 
+          "word": "machine"
+        }, 
+        {
+          "finalword": "continue", 
+          "word": "continuer"
+        }, 
+        {
+          "finalword": "push", 
+          "word": "pousser"
+        }, 
+        {
+          "finalword": "race", 
+          "word": "race"
+        }, 
+        {
+          "finalword": "consider", 
+          "word": "considerer"
+        }, 
+        {
+          "finalword": "drug", 
+          "word": "drogue"
+        }, 
+        {
+          "finalword": "coach", 
+          "word": "coche"
+        }, 
+        {
+          "finalword": "prepare", 
+          "word": "preparer"
+        }, 
+        {
+          "finalword": "bullet", 
+          "word": "boulette"
+        }, 
+        {
+          "finalword": "social", 
+          "word": "social"
+        }, 
+        {
+          "finalword": "model", 
+          "word": "modelle"
+        }, 
+        {
+          "finalword": "permission", 
+          "word": "permettre"
+        }, 
+        {
+          "finalword": "period", 
+          "word": "periode"
+        }, 
+        {
+          "finalword": "jacket", 
+          "word": "jacquet"
+        }, 
+        {
+          "finalword": "appointment", 
+          "word": "apointement"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 1634, 
+          "lang": "fra", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "oci", 
+      "words": [
+        {
+          "finalword": "casserole", 
+          "word": "cassa"
+        }, 
+        {
+          "finalword": "cocoon", 
+          "word": "coucoun"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 5886945, 
+          "lang": "enm", 
+          "wordcount": 240
+        }, 
+        {
+          "freq": 9462, 
+          "lang": "ang", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 5347820, 
+          "lang": "eng", 
+          "wordcount": 482
+        }, 
+        {
+          "freq": 1218263, 
+          "lang": "xno", 
+          "wordcount": 62
+        }, 
+        {
+          "freq": 98808, 
+          "lang": "fra", 
+          "wordcount": 21
+        }, 
+        {
+          "freq": 82759, 
+          "lang": "frm", 
+          "wordcount": 11
+        }
+      ], 
+      "lang": "fro", 
+      "words": [
+        {
+          "finalword": "very", 
+          "word": "verai"
+        }, 
+        {
+          "finalword": "guy", 
+          "word": "guie"
+        }, 
+        {
+          "finalword": "course", 
+          "word": "cours"
+        }, 
+        {
+          "finalword": "remember", 
+          "word": "remembrer"
+        }, 
+        {
+          "finalword": "real", 
+          "word": "reel"
+        }, 
+        {
+          "finalword": "use", 
+          "word": "user"
+        }, 
+        {
+          "finalword": "matter", 
+          "word": "materie"
+        }, 
+        {
+          "finalword": "excuse", 
+          "word": "escuser"
+        }, 
+        {
+          "finalword": "pay", 
+          "word": "paier"
+        }, 
+        {
+          "finalword": "damn", 
+          "word": "dampner"
+        }, 
+        {
+          "finalword": "check", 
+          "word": "eschec"
+        }, 
+        {
+          "finalword": "point", 
+          "word": "point"
+        }, 
+        {
+          "finalword": "chance", 
+          "word": "cheance"
+        }, 
+        {
+          "finalword": "number", 
+          "word": "nombre"
+        }, 
+        {
+          "finalword": "moment", 
+          "word": "moment"
+        }, 
+        {
+          "finalword": "city", 
+          "word": "cit\u00e9"
+        }, 
+        {
+          "finalword": "question", 
+          "word": "question"
+        }, 
+        {
+          "finalword": "couple", 
+          "word": "cople"
+        }, 
+        {
+          "finalword": "power", 
+          "word": "poer"
+        }, 
+        {
+          "finalword": "front", 
+          "word": "front"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 84261, 
+          "lang": "eng", 
+          "wordcount": 25
+        }, 
+        {
+          "freq": 11266, 
+          "lang": "nld", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 26097, 
+          "lang": "frm", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 695, 
+          "lang": "rus", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "deu", 
+      "words": [
+        {
+          "finalword": "mum", 
+          "word": "Mummere"
+        }, 
+        {
+          "finalword": "coach", 
+          "word": "Kutsche"
+        }, 
+        {
+          "finalword": "dollar", 
+          "word": "Taler"
+        }, 
+        {
+          "finalword": "gene", 
+          "word": "Gen"
+        }, 
+        {
+          "finalword": "semester", 
+          "word": "Semester"
+        }, 
+        {
+          "finalword": "waltz", 
+          "word": "Walzer"
+        }, 
+        {
+          "finalword": "kindergarten", 
+          "word": "Kindergarten"
+        }, 
+        {
+          "finalword": "hamburger", 
+          "word": "Hamburger"
+        }, 
+        {
+          "finalword": "psychopath", 
+          "word": "psychopatisch"
+        }, 
+        {
+          "finalword": "seminar", 
+          "word": "Seminar"
+        }, 
+        {
+          "finalword": "bummer", 
+          "word": "Bummler"
+        }, 
+        {
+          "finalword": "statistics", 
+          "word": "Statistik"
+        }, 
+        {
+          "finalword": "stein", 
+          "word": "Stein"
+        }, 
+        {
+          "finalword": "shaman", 
+          "word": "Schamane"
+        }, 
+        {
+          "finalword": "allergy", 
+          "word": "Allergie"
+        }, 
+        {
+          "finalword": "iceberg", 
+          "word": "Eisberg"
+        }, 
+        {
+          "finalword": "hamster", 
+          "word": "Hamster"
+        }, 
+        {
+          "finalword": "wiener", 
+          "word": "Wienerwurst"
+        }, 
+        {
+          "finalword": "poodle", 
+          "word": "Pudel"
+        }, 
+        {
+          "finalword": "leukemia", 
+          "word": "Leuk\u00e4mie"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 304407, 
+          "lang": "ang", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 3214629, 
+          "lang": "enm", 
+          "wordcount": 25
+        }, 
+        {
+          "freq": 183211, 
+          "lang": "eng", 
+          "wordcount": 26
+        }, 
+        {
+          "freq": 5922, 
+          "lang": "fro", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 3696, 
+          "lang": "nor", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "non", 
+      "words": [
+        {
+          "finalword": "want", 
+          "word": "vanta"
+        }, 
+        {
+          "finalword": "give", 
+          "word": "gefa"
+        }, 
+        {
+          "finalword": "wrong", 
+          "word": "rangr"
+        }, 
+        {
+          "finalword": "same", 
+          "word": "samr"
+        }, 
+        {
+          "finalword": "both", 
+          "word": "b\u00e1\u00f0ir"
+        }, 
+        {
+          "finalword": "kid", 
+          "word": "ki\u00f0"
+        }, 
+        {
+          "finalword": "trust", 
+          "word": "traust"
+        }, 
+        {
+          "finalword": "bag", 
+          "word": "baggi"
+        }, 
+        {
+          "finalword": "club", 
+          "word": "klubba"
+        }, 
+        {
+          "finalword": "gift", 
+          "word": "gipt"
+        }, 
+        {
+          "finalword": "leg", 
+          "word": "leggr"
+        }, 
+        {
+          "finalword": "skin", 
+          "word": "skinn"
+        }, 
+        {
+          "finalword": "tight", 
+          "word": "\u00fe\u00e9ttr"
+        }, 
+        {
+          "finalword": "fellow", 
+          "word": "f\u0113lagi"
+        }, 
+        {
+          "finalword": "guest", 
+          "word": "gestr"
+        }, 
+        {
+          "finalword": "weak", 
+          "word": "veikr"
+        }, 
+        {
+          "finalword": "loose", 
+          "word": "lauss"
+        }, 
+        {
+          "finalword": "likely", 
+          "word": "l\u00edkligr"
+        }, 
+        {
+          "finalword": "rate", 
+          "word": "hrata"
+        }, 
+        {
+          "finalword": "cast", 
+          "word": "kasta"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 37576, 
+          "lang": "fro", 
+          "wordcount": 4
+        }, 
+        {
+          "freq": 174393, 
+          "lang": "fra", 
+          "wordcount": 26
+        }, 
+        {
+          "freq": 213283, 
+          "lang": "eng", 
+          "wordcount": 48
+        }, 
+        {
+          "freq": 4004, 
+          "lang": "nld", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 93879, 
+          "lang": "frm", 
+          "wordcount": 8
+        }
+      ], 
+      "lang": "ita", 
+      "words": [
+        {
+          "finalword": "coffee", 
+          "word": "caff\u00e8"
+        }, 
+        {
+          "finalword": "group", 
+          "word": "gruppo"
+        }, 
+        {
+          "finalword": "race", 
+          "word": "razza"
+        }, 
+        {
+          "finalword": "bomb", 
+          "word": "bomba"
+        }, 
+        {
+          "finalword": "model", 
+          "word": "modello"
+        }, 
+        {
+          "finalword": "studio", 
+          "word": "studio"
+        }, 
+        {
+          "finalword": "rice", 
+          "word": "riso"
+        }, 
+        {
+          "finalword": "zero", 
+          "word": "zero"
+        }, 
+        {
+          "finalword": "magazine", 
+          "word": "magazzino"
+        }, 
+        {
+          "finalword": "bravo", 
+          "word": "bravo"
+        }, 
+        {
+          "finalword": "attitude", 
+          "word": "attitudine"
+        }, 
+        {
+          "finalword": "campaign", 
+          "word": "campagna"
+        }, 
+        {
+          "finalword": "disaster", 
+          "word": "disastro"
+        }, 
+        {
+          "finalword": "donna", 
+          "word": "donna"
+        }, 
+        {
+          "finalword": "concert", 
+          "word": "concerto"
+        }, 
+        {
+          "finalword": "league", 
+          "word": "lega"
+        }, 
+        {
+          "finalword": "carol", 
+          "word": "carola"
+        }, 
+        {
+          "finalword": "average", 
+          "word": "avaria"
+        }, 
+        {
+          "finalword": "profile", 
+          "word": "profilo"
+        }, 
+        {
+          "finalword": "opera", 
+          "word": "opera"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 1658, 
+          "lang": "enm", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 15524, 
+          "lang": "eng", 
+          "wordcount": 3
+        }, 
+        {
+          "freq": 20037, 
+          "lang": "fro", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 18767, 
+          "lang": "nld", 
+          "wordcount": 5
+        }
+      ], 
+      "lang": "dum", 
+      "words": [
+        {
+          "finalword": "block", 
+          "word": "blok"
+        }, 
+        {
+          "finalword": "pit", 
+          "word": "pitte"
+        }, 
+        {
+          "finalword": "drill", 
+          "word": "drillen"
+        }, 
+        {
+          "finalword": "snack", 
+          "word": "snacken"
+        }, 
+        {
+          "finalword": "slim", 
+          "word": "slim"
+        }, 
+        {
+          "finalword": "blink", 
+          "word": "blinken"
+        }, 
+        {
+          "finalword": "moose", 
+          "word": "moes"
+        }, 
+        {
+          "finalword": "crate", 
+          "word": "cratte"
+        }, 
+        {
+          "finalword": "freight", 
+          "word": "vracht"
+        }, 
+        {
+          "finalword": "donner", 
+          "word": "donre"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 26097, 
+          "lang": "deu", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "hun", 
+      "words": [
+        {
+          "finalword": "coach", 
+          "word": "kocsi"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 2519, 
+          "lang": "fro", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 1915, 
+          "lang": "fra", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 770, 
+          "lang": "frm", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "pro", 
+      "words": [
+        {
+          "finalword": "flute", 
+          "word": "flaut"
+        }, 
+        {
+          "finalword": "bandage", 
+          "word": "banda"
+        }, 
+        {
+          "finalword": "bias", 
+          "word": "biais"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 3299, 
+          "lang": "fro", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "frk", 
+      "words": [
+        {
+          "finalword": "lure", 
+          "word": "lothr"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 10949, 
+          "lang": "fra", 
+          "wordcount": 3
+        }, 
+        {
+          "freq": 2199, 
+          "lang": "ita", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 233213, 
+          "lang": "eng", 
+          "wordcount": 42
+        }
+      ], 
+      "lang": "spa", 
+      "words": [
+        {
+          "finalword": "quite", 
+          "word": "quite"
+        }, 
+        {
+          "finalword": "chocolate", 
+          "word": "chocolate"
+        }, 
+        {
+          "finalword": "guitar", 
+          "word": "guitarra"
+        }, 
+        {
+          "finalword": "los", 
+          "word": "los"
+        }, 
+        {
+          "finalword": "parade", 
+          "word": "parada"
+        }, 
+        {
+          "finalword": "cargo", 
+          "word": "cargo"
+        }, 
+        {
+          "finalword": "mona", 
+          "word": "mona"
+        }, 
+        {
+          "finalword": "barbecue", 
+          "word": "barbacoa"
+        }, 
+        {
+          "finalword": "cigar", 
+          "word": "cigarro"
+        }, 
+        {
+          "finalword": "embarrass", 
+          "word": "embarazar"
+        }, 
+        {
+          "finalword": "tomato", 
+          "word": "tomate"
+        }, 
+        {
+          "finalword": "canyon", 
+          "word": "ca\u00f1\u00f3n"
+        }, 
+        {
+          "finalword": "hurricane", 
+          "word": "hurac\u00e1n"
+        }, 
+        {
+          "finalword": "tequila", 
+          "word": "tequila"
+        }, 
+        {
+          "finalword": "gracias", 
+          "word": "gracias"
+        }, 
+        {
+          "finalword": "vanilla", 
+          "word": "vainilla"
+        }, 
+        {
+          "finalword": "plaza", 
+          "word": "plaza"
+        }, 
+        {
+          "finalword": "mosque", 
+          "word": "mezquita"
+        }, 
+        {
+          "finalword": "macho", 
+          "word": "macho"
+        }, 
+        {
+          "finalword": "mosquito", 
+          "word": "mosquito"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 71058, 
+          "lang": "ita", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 5622, 
+          "lang": "eng", 
+          "wordcount": 6
+        }, 
+        {
+          "freq": 1887, 
+          "lang": "fra", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "tur", 
+      "words": [
+        {
+          "finalword": "coffee", 
+          "word": "kahve"
+        }, 
+        {
+          "finalword": "caviar", 
+          "word": "havyar"
+        }, 
+        {
+          "finalword": "fez", 
+          "word": "fes"
+        }, 
+        {
+          "finalword": "bey", 
+          "word": "bey"
+        }, 
+        {
+          "finalword": "harem", 
+          "word": "harem"
+        }, 
+        {
+          "finalword": "jackal", 
+          "word": "\u00e7akal"
+        }, 
+        {
+          "finalword": "kebab", 
+          "word": "kebap"
+        }, 
+        {
+          "finalword": "hodja", 
+          "word": "hoca"
+        }, 
+        {
+          "finalword": "turban", 
+          "word": "t\u00fclbent"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 1658, 
+          "lang": "dum", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 1648, 
+          "lang": "enm", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 17232, 
+          "lang": "eng", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "gml", 
+      "words": [
+        {
+          "finalword": "monkey", 
+          "word": "Moneke"
+        }, 
+        {
+          "finalword": "freight", 
+          "word": "vracht"
+        }, 
+        {
+          "finalword": "knob", 
+          "word": "knobbe"
+        }, 
+        {
+          "finalword": "smug", 
+          "word": "smuk"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 3954, 
+          "lang": "eng", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 2671, 
+          "lang": "dum", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "odt", 
+      "words": [
+        {
+          "finalword": "brake", 
+          "word": "braeke"
+        }, 
+        {
+          "finalword": "moose", 
+          "word": "muos"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 4033, 
+          "lang": "ita", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "vec", 
+      "words": [
+        {
+          "finalword": "ciao", 
+          "word": "ciao"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 1145, 
+          "lang": "afr", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 23140, 
+          "lang": "eng", 
+          "wordcount": 7
+        }, 
+        {
+          "freq": 2143, 
+          "lang": "nld", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 3938, 
+          "lang": "spa", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 988, 
+          "lang": "fra", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "por", 
+      "words": [
+        {
+          "finalword": "tank", 
+          "word": "tanque"
+        }, 
+        {
+          "finalword": "buffalo", 
+          "word": "b\u00fafalo"
+        }, 
+        {
+          "finalword": "embarrass", 
+          "word": "embara\u00e7ar"
+        }, 
+        {
+          "finalword": "bamboo", 
+          "word": "bambu"
+        }, 
+        {
+          "finalword": "cobra", 
+          "word": "cobra"
+        }, 
+        {
+          "finalword": "mango", 
+          "word": "manga"
+        }, 
+        {
+          "finalword": "jaguar", 
+          "word": "jaguar"
+        }, 
+        {
+          "finalword": "commando", 
+          "word": "comando"
+        }, 
+        {
+          "finalword": "fetish", 
+          "word": "feiti\u00e7o"
+        }, 
+        {
+          "finalword": "moray", 
+          "word": "moreia"
+        }, 
+        {
+          "finalword": "dodo", 
+          "word": "doudo"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 4864, 
+          "lang": "spa", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 6380, 
+          "lang": "eng", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "tnq", 
+      "words": [
+        {
+          "finalword": "potato", 
+          "word": "batata"
+        }, 
+        {
+          "finalword": "barbecue", 
+          "word": "barbakoa"
+        }, 
+        {
+          "finalword": "cannibal", 
+          "word": "Caniba"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 708, 
+          "lang": "fro", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 1485, 
+          "lang": "gml", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 5938, 
+          "lang": "fra", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "gmh", 
+      "words": [
+        {
+          "finalword": "hut", 
+          "word": "h\u00fctte"
+        }, 
+        {
+          "finalword": "smug", 
+          "word": "gesmuc"
+        }, 
+        {
+          "finalword": "liege", 
+          "word": "ledic"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 797, 
+          "lang": "eng", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 3011, 
+          "lang": "spa", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "nah", 
+      "words": [
+        {
+          "finalword": "tequila", 
+          "word": "Tequillan"
+        }, 
+        {
+          "finalword": "chilli", 
+          "word": "chilli"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 3225, 
+          "lang": "spa", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "arw", 
+      "words": [
+        {
+          "finalword": "hurricane", 
+          "word": "hurak\u00e1n"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 710, 
+          "lang": "spa", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "osp", 
+      "words": [
+        {
+          "finalword": "muy", 
+          "word": "muito"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 8053728, 
+          "lang": "fro", 
+          "wordcount": 446
+        }, 
+        {
+          "freq": 598613, 
+          "lang": "frm", 
+          "wordcount": 73
+        }, 
+        {
+          "freq": 497684, 
+          "lang": "ang", 
+          "wordcount": 26
+        }, 
+        {
+          "freq": 5632, 
+          "lang": "deu", 
+          "wordcount": 3
+        }, 
+        {
+          "freq": 7182, 
+          "lang": "owl", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 939, 
+          "lang": "oci", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 9711492, 
+          "lang": "eng", 
+          "wordcount": 931
+        }, 
+        {
+          "freq": 1116738, 
+          "lang": "fra", 
+          "wordcount": 152
+        }, 
+        {
+          "freq": 128375, 
+          "lang": "ita", 
+          "wordcount": 21
+        }, 
+        {
+          "freq": 516732, 
+          "lang": "xno", 
+          "wordcount": 25
+        }, 
+        {
+          "freq": 710, 
+          "lang": "osp", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 209594, 
+          "lang": "enm", 
+          "wordcount": 31
+        }, 
+        {
+          "freq": 18704, 
+          "lang": "spa", 
+          "wordcount": 8
+        }, 
+        {
+          "freq": 681, 
+          "lang": "hbs", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 3808, 
+          "lang": "por", 
+          "wordcount": 3
+        }
+      ], 
+      "lang": "lat", 
+      "words": [
+        {
+          "finalword": "don", 
+          "word": "dominus"
+        }, 
+        {
+          "finalword": "very", 
+          "word": "verus"
+        }, 
+        {
+          "finalword": "course", 
+          "word": "cursus"
+        }, 
+        {
+          "finalword": "remember", 
+          "word": "rememorari"
+        }, 
+        {
+          "finalword": "car", 
+          "word": "carra"
+        }, 
+        {
+          "finalword": "real", 
+          "word": "realis"
+        }, 
+        {
+          "finalword": "family", 
+          "word": "familia"
+        }, 
+        {
+          "finalword": "idea", 
+          "word": "idea"
+        }, 
+        {
+          "finalword": "matter", 
+          "word": "materia"
+        }, 
+        {
+          "finalword": "excuse", 
+          "word": "excuso"
+        }, 
+        {
+          "finalword": "turn", 
+          "word": "tornare"
+        }, 
+        {
+          "finalword": "pay", 
+          "word": "pacare"
+        }, 
+        {
+          "finalword": "check", 
+          "word": "scacus"
+        }, 
+        {
+          "finalword": "chance", 
+          "word": "cadentia"
+        }, 
+        {
+          "finalword": "number", 
+          "word": "numerus"
+        }, 
+        {
+          "finalword": "city", 
+          "word": "civitas"
+        }, 
+        {
+          "finalword": "question", 
+          "word": "quaestionem"
+        }, 
+        {
+          "finalword": "couple", 
+          "word": "copula"
+        }, 
+        {
+          "finalword": "stupid", 
+          "word": "stupidus"
+        }, 
+        {
+          "finalword": "captain", 
+          "word": "capitaneus"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 12457, 
+          "lang": "por", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 1683, 
+          "lang": "eng", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "guj", 
+      "words": [
+        {
+          "finalword": "tank", 
+          "word": "tankh"
+        }, 
+        {
+          "finalword": "bungalow", 
+          "word": "\u0aac\u0a82\u0a97\u0ab2\u0acb"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 2143, 
+          "lang": "por", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 6423, 
+          "lang": "eng", 
+          "wordcount": 4
+        }
+      ], 
+      "lang": "msa", 
+      "words": [
+        {
+          "finalword": "paddy", 
+          "word": "padi"
+        }, 
+        {
+          "finalword": "bamboo", 
+          "word": "bambu"
+        }, 
+        {
+          "finalword": "kris", 
+          "word": "keris"
+        }, 
+        {
+          "finalword": "uranium", 
+          "word": "Uranus"
+        }, 
+        {
+          "finalword": "plutonium", 
+          "word": "Pluto"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 149229, 
+          "lang": "lat", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 22655, 
+          "lang": "ita", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 13900, 
+          "lang": "eng", 
+          "wordcount": 11
+        }, 
+        {
+          "freq": 1578, 
+          "lang": "tur", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 992, 
+          "lang": "swa", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 6292, 
+          "lang": "frm", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 19507, 
+          "lang": "fro", 
+          "wordcount": 3
+        }, 
+        {
+          "freq": 2199, 
+          "lang": "spa", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 8533, 
+          "lang": "fra", 
+          "wordcount": 3
+        }
+      ], 
+      "lang": "ara", 
+      "words": [
+        {
+          "finalword": "check", 
+          "word": "\u0635\u06a9\u0651"
+        }, 
+        {
+          "finalword": "candy", 
+          "word": "\u0642\u0646\u062f\u064a"
+        }, 
+        {
+          "finalword": "magazine", 
+          "word": "\u0645\u062e\u0627\u0632\u0646"
+        }, 
+        {
+          "finalword": "mummy", 
+          "word": "\u0645\u0648\u0645\u064a\u0627\u0621"
+        }, 
+        {
+          "finalword": "average", 
+          "word": "\u0639\u0648\u0627\u0631\u064a\u0629"
+        }, 
+        {
+          "finalword": "amber", 
+          "word": "\u0639\u0646\u0628\u0631"
+        }, 
+        {
+          "finalword": "bin", 
+          "word": "\u0628\u0646"
+        }, 
+        {
+          "finalword": "jar", 
+          "word": "\u062c\u0631\u0647"
+        }, 
+        {
+          "finalword": "jasmine", 
+          "word": "\u064a\u0633\u0645\u064a\u0646"
+        }, 
+        {
+          "finalword": "syrup", 
+          "word": "\u0634\u0631\u0627\u0628"
+        }, 
+        {
+          "finalword": "mosque", 
+          "word": "\u0645\u0633\u062c\u062f"
+        }, 
+        {
+          "finalword": "hazard", 
+          "word": "\u0632\u0647\u0631"
+        }, 
+        {
+          "finalword": "giraffe", 
+          "word": "\u0632\u0631\u0627\u0641\u0629"
+        }, 
+        {
+          "finalword": "amir", 
+          "word": "\u0623\u0645\u0650\u064a\u0631"
+        }, 
+        {
+          "finalword": "safari", 
+          "word": "\u0633\u0641\u0631"
+        }, 
+        {
+          "finalword": "monsoon", 
+          "word": "\u0645\u0648\u0633\u0645"
+        }, 
+        {
+          "finalword": "sash", 
+          "word": "\u0634\u0627\u0634"
+        }, 
+        {
+          "finalword": "salaam", 
+          "word": "\u0633\u0644\u0627\u0645"
+        }, 
+        {
+          "finalword": "sheik", 
+          "word": "\u0634\u064a\u062e"
+        }, 
+        {
+          "finalword": "harem", 
+          "word": "\u062d\u0631\u0645"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 1683, 
+          "lang": "guj", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 45347, 
+          "lang": "eng", 
+          "wordcount": 12
+        }, 
+        {
+          "freq": 1079, 
+          "lang": "urd", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "hin", 
+      "words": [
+        {
+          "finalword": "anna", 
+          "word": "\u0905\u0928\u094d\u0928"
+        }, 
+        {
+          "finalword": "jungle", 
+          "word": "\u091c\u0902\u0917\u0932"
+        }, 
+        {
+          "finalword": "guru", 
+          "word": "\u0917\u0941\u0930\u0942"
+        }, 
+        {
+          "finalword": "shampoo", 
+          "word": "\u091a\u093e\u0901\u092a\u094b"
+        }, 
+        {
+          "finalword": "sari", 
+          "word": "\u0938\u093e\u0921\u093c\u0940"
+        }, 
+        {
+          "finalword": "bungalow", 
+          "word": "\u092c\u0902\u0917\u0932\u093e"
+        }, 
+        {
+          "finalword": "babu", 
+          "word": "\u092c\u093e\u092c\u0942"
+        }, 
+        {
+          "finalword": "cheetah", 
+          "word": "\u091a\u0940\u0924\u093e"
+        }, 
+        {
+          "finalword": "cot", 
+          "word": "\u0916\u093e\u091f"
+        }, 
+        {
+          "finalword": "rani", 
+          "word": "\u0930\u093e\u0928\u0940"
+        }, 
+        {
+          "finalword": "lakh", 
+          "word": "\u0932\u093e\u0916"
+        }, 
+        {
+          "finalword": "pyjamas", 
+          "word": "\u092a\u0948\u091c\u093e\u092e\u093e"
+        }, 
+        {
+          "finalword": "yogi", 
+          "word": "\u092f\u094b\u0917\u0940"
+        }, 
+        {
+          "finalword": "rupee", 
+          "word": "\u0930\u0941\u092a\u0940\u092f\u093e"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 2763, 
+          "lang": "deu", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 9809, 
+          "lang": "lat", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "goh", 
+      "words": [
+        {
+          "finalword": "gross", 
+          "word": "groz"
+        }, 
+        {
+          "finalword": "stein", 
+          "word": "stein"
+        }, 
+        {
+          "finalword": "hamster", 
+          "word": "hamustra"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 2143, 
+          "lang": "msa", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "kan", 
+      "words": [
+        {
+          "finalword": "bamboo", 
+          "word": "\u0cac\u0cae\u0ccd\u0cac\u0cc1"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 862, 
+          "lang": "lat", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "ett", 
+      "words": [
+        {
+          "finalword": "persona", 
+          "word": "\ud800\udf18\ud800\udf04\ud800\udf13\ud800\udf14\ud800\udf16"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 1383087, 
+          "lang": "lat", 
+          "wordcount": 194
+        }, 
+        {
+          "freq": 862, 
+          "lang": "ett", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 39490, 
+          "lang": "fra", 
+          "wordcount": 12
+        }, 
+        {
+          "freq": 12146, 
+          "lang": "frm", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 8880, 
+          "lang": "fro", 
+          "wordcount": 3
+        }, 
+        {
+          "freq": 293167, 
+          "lang": "eng", 
+          "wordcount": 85
+        }, 
+        {
+          "freq": 729, 
+          "lang": "deu", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "grc", 
+      "words": [
+        {
+          "finalword": "idea", 
+          "word": "\u1f30\u03b4\u03ad\u03b1"
+        }, 
+        {
+          "finalword": "hour", 
+          "word": "\u1f65\u03c1\u03b1"
+        }, 
+        {
+          "finalword": "act", 
+          "word": "\u1f00\u03ba\u03c4\u03ae"
+        }, 
+        {
+          "finalword": "government", 
+          "word": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2"
+        }, 
+        {
+          "finalword": "scene", 
+          "word": "\u03c3\u03ba\u03b7\u03bd\u03ae"
+        }, 
+        {
+          "finalword": "planet", 
+          "word": "\u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7\u03c2"
+        }, 
+        {
+          "finalword": "type", 
+          "word": "\u03c4\u03cd\u03c0\u03bf\u03c2"
+        }, 
+        {
+          "finalword": "energy", 
+          "word": "\u1f10\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1"
+        }, 
+        {
+          "finalword": "form", 
+          "word": "\u03bc\u03cc\u03c1\u03c6\u03b1"
+        }, 
+        {
+          "finalword": "bomb", 
+          "word": "\u03b2\u03cc\u03bc\u03b2\u03bf\u03c2"
+        }, 
+        {
+          "finalword": "center", 
+          "word": "\u03ba\u03ad\u03bd\u03c4\u03c1\u03bf\u03bd"
+        }, 
+        {
+          "finalword": "character", 
+          "word": "\u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1"
+        }, 
+        {
+          "finalword": "stomach", 
+          "word": "\u03c3\u03c4\u03cc\u03bc\u03b1\u03c7\u03bf\u03c2"
+        }, 
+        {
+          "finalword": "theory", 
+          "word": "\u03b8\u03b5\u03c9\u03c1\u03af\u03b1"
+        }, 
+        {
+          "finalword": "cancer", 
+          "word": "\u03ba\u03b1\u03c1\u03ba\u03af\u03bd\u03bf\u03c2"
+        }, 
+        {
+          "finalword": "ocean", 
+          "word": "\u1f68\u03ba\u03b5\u03b1\u03bd\u03cc\u03c2"
+        }, 
+        {
+          "finalword": "period", 
+          "word": "\u03c0\u03b5\u03c1\u03af\u03bf\u03b4\u03bf\u03c2"
+        }, 
+        {
+          "finalword": "giant", 
+          "word": "\u03b3\u03af\u03b3\u03b1\u03c2"
+        }, 
+        {
+          "finalword": "mystery", 
+          "word": "\u03bc\u03c5\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+        }, 
+        {
+          "finalword": "laura", 
+          "word": "\u03bb\u03b1\u03cd\u03c1\u03b1"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 152122, 
+          "lang": "ara", 
+          "wordcount": 3
+        }, 
+        {
+          "freq": 869, 
+          "lang": "ita", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 17455, 
+          "lang": "eng", 
+          "wordcount": 6
+        }, 
+        {
+          "freq": 1736, 
+          "lang": "lat", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 961, 
+          "lang": "hin", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 2374, 
+          "lang": "fra", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 1453, 
+          "lang": "tur", 
+          "wordcount": 2
+        }, 
+        {
+          "freq": 1128, 
+          "lang": "fro", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "fas", 
+      "words": [
+        {
+          "finalword": "check", 
+          "word": "\u0686\u06a9"
+        }, 
+        {
+          "finalword": "mummy", 
+          "word": "\u0645\u0648\u0645\u06cc\u0627"
+        }, 
+        {
+          "finalword": "khan", 
+          "word": "\u062e\u0627\u0646\u0647"
+        }, 
+        {
+          "finalword": "chang", 
+          "word": "\u0686\u0646\u06af"
+        }, 
+        {
+          "finalword": "jasmine", 
+          "word": "\u06cc\u0627\u0633\u0645\u06cc\u0646"
+        }, 
+        {
+          "finalword": "caravan", 
+          "word": "\u06a9\u0627\u0631\u0648\u0627\u0646"
+        }, 
+        {
+          "finalword": "scarlet", 
+          "word": "\u0633\u0642\u0631\u0644\u0627\u062a"
+        }, 
+        {
+          "finalword": "hindi", 
+          "word": "\u0647\u0646\u062f\u06cc"
+        }, 
+        {
+          "finalword": "shah", 
+          "word": "\u0634\u0627\u0647"
+        }, 
+        {
+          "finalword": "checkmate", 
+          "word": "\u0634\u0627\u0647 \u0645\u0627\u062a"
+        }, 
+        {
+          "finalword": "pyjamas", 
+          "word": "\u067e\u0627\u064a\u062c\u0627\u0645\u0647"
+        }, 
+        {
+          "finalword": "shawl", 
+          "word": "\u0634\u0627\u0644"
+        }, 
+        {
+          "finalword": "bazaar", 
+          "word": "\u0628\u0627\u0632\u0627\u0631"
+        }, 
+        {
+          "finalword": "jackal", 
+          "word": "\u0634\u063a\u0627\u0644"
+        }, 
+        {
+          "finalword": "turban", 
+          "word": "\u062f\u0644\u0628\u0646\u062f"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 1213, 
+          "lang": "goh", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "chu", 
+      "words": [
+        {
+          "finalword": "hamster", 
+          "word": "\u0445\u043e\u043c\u0463\u0441\u0442\u043e\u0440\u044a"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 1207, 
+          "lang": "ara", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "syc", 
+      "words": [
+        {
+          "finalword": "giraffe", 
+          "word": "\u0719\u0735\u072a\u071d\u073c\u0726\u0735\u0710"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "childlangs": [
+        {
+          "freq": 835, 
+          "lang": "fas", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 20931, 
+          "lang": "rom", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 10443, 
+          "lang": "eng", 
+          "wordcount": 9
+        }, 
+        {
+          "freq": 684, 
+          "lang": "tha", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 13442, 
+          "lang": "hin", 
+          "wordcount": 3
+        }
+      ], 
+      "lang": "san", 
+      "words": [
+        {
+          "finalword": "pal", 
+          "word": "\u092d\u094d\u0930\u093e\u0924\u0943"
+        }, 
+        {
+          "finalword": "jungle", 
+          "word": "\u091c\u0919\u094d\u0917\u0932"
+        }, 
+        {
+          "finalword": "yoga", 
+          "word": "\u092f\u094b\u0917"
+        }, 
+        {
+          "finalword": "guru", 
+          "word": "\u0917\u0941\u0930\u0941"
+        }, 
+        {
+          "finalword": "om", 
+          "word": "\u0950"
+        }, 
+        {
+          "finalword": "rani", 
+          "word": "\u0930\u093e\u091c\u094d\u091e\u0940"
+        }, 
+        {
+          "finalword": "jackal", 
+          "word": "\u0938\u0943\u0917\u093e\u0932"
+        }, 
+        {
+          "finalword": "namaste", 
+          "word": "\u0928\u092e\u0938\u094d\u0924\u0947"
+        }, 
+        {
+          "finalword": "dharma", 
+          "word": "\u0927\u0930\u094d\u092e"
+        }, 
+        {
+          "finalword": "nirvana", 
+          "word": "\u0928\u093f\u0930\u094d\u0935\u093e\u0923"
+        }, 
+        {
+          "finalword": "rishi", 
+          "word": "\u090b\u0937\u093f"
+        }, 
+        {
+          "finalword": "wat", 
+          "word": "\u0935\u093e\u091f"
+        }, 
+        {
+          "finalword": "deva", 
+          "word": "\u0926\u0947\u0935"
+        }, 
+        {
+          "finalword": "mantra", 
+          "word": "\u092e\u0928\u094d\u0924\u094d\u0930"
+        }, 
+        {
+          "finalword": "chakra", 
+          "word": "\u091a\u0915\u094d\u0930"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 26801, 
+          "lang": "eng", 
+          "wordcount": 5
+        }, 
+        {
+          "freq": 1060, 
+          "lang": "yid", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 16768, 
+          "lang": "grc", 
+          "wordcount": 2
+        }
+      ], 
+      "lang": "heb", 
+      "words": [
+        {
+          "finalword": "bath", 
+          "word": "\u05d1\u05ea"
+        }, 
+        {
+          "finalword": "amen", 
+          "word": "\u05d0\u05de\u05df"
+        }, 
+        {
+          "finalword": "hallelujah", 
+          "word": "\u05d4\u05dc\u05dc\u05d5\u05d9\u05d4"
+        }, 
+        {
+          "finalword": "rabbi", 
+          "word": "\u05e8\u05d1\u05d9"
+        }, 
+        {
+          "finalword": "cohen", 
+          "word": "\u05db\u05d5\u05d4\u05df"
+        }, 
+        {
+          "finalword": "mitzvah", 
+          "word": "\u05de\u05e6\u05d5\u05d5\u05d4"
+        }, 
+        {
+          "finalword": "kosher", 
+          "word": "\u05db\u05e9\u05e8"
+        }, 
+        {
+          "finalword": "shalom", 
+          "word": "\u05e9\u05dc\u05d5\u05dd"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 16560, 
+          "lang": "fas", 
+          "wordcount": 4
+        }
+      ], 
+      "lang": "pal", 
+      "words": [
+        {
+          "finalword": "khan", 
+          "word": "\ud802\udf61\ud802\udf69\ud802\udf72\ud802\udf60"
+        }, 
+        {
+          "finalword": "chang", 
+          "word": "\ud802\udf70\ud802\udf6d\ud802\udf62"
+        }, 
+        {
+          "finalword": "jasmine", 
+          "word": "\ud802\udf69\ud802\udf60\ud802\udf6e\ud802\udf6c\ud802\udf6d"
+        }, 
+        {
+          "finalword": "caravan", 
+          "word": "\ud802\udf6a\ud802\udf60\ud802\udf6b\ud802\udf65\ud802\udf60\ud802\udf6d"
+        }
+      ]
+    }, 
+    {
+      "childlangs": [
+        {
+          "freq": 4402, 
+          "lang": "eng", 
+          "wordcount": 1
+        }, 
+        {
+          "freq": 4640, 
+          "lang": "grc", 
+          "wordcount": 1
+        }
+      ], 
+      "lang": "egy", 
+      "words": [
+        {
+          "finalword": "phoenix", 
+          "word": "bnw"
+        }, 
+        {
+          "finalword": "ba", 
+          "word": "\ud80c\udd7d\ud80c\udfe4"
+        }
+      ]
+    }
+  ]
+]

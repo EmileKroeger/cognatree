@@ -153,3 +153,15 @@ table {
   font-style: italic;
   opacity: 0.6;
 }
+
+/* Graph things */
+
+.layerbox {
+  display: inline-block;
+  vertical-align:top;
+  height: 800px;
+}
+
+.langbox {
+  border: 1px solid black;
+}
