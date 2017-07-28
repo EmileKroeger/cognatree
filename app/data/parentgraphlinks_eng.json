@@ -1,612 +1,459 @@
 {
   "links": [
     {
-      "source": 8, 
-      "target": 17, 
+      "source": 5, 
+      "target": 12, 
       "value": 304407
     }, 
     {
-      "source": 18, 
-      "target": 24, 
-      "value": 1658
-    }, 
-    {
-      "source": 15, 
-      "target": 20, 
+      "source": 10, 
+      "target": 14, 
       "value": 37576
     }, 
     {
-      "source": 35, 
-      "target": 38, 
-      "value": 16560
-    }, 
-    {
-      "source": 15, 
-      "target": 29, 
+      "source": 10, 
+      "target": 18, 
       "value": 8053728
     }, 
     {
-      "source": 16, 
-      "target": 34, 
-      "value": 2763
-    }, 
-    {
-      "source": 0, 
-      "target": 5, 
-      "value": 5375
-    }, 
-    {
-      "source": 12, 
-      "target": 21, 
+      "source": 8, 
+      "target": 15, 
       "value": 10949
     }, 
     {
-      "source": 12, 
-      "target": 20, 
+      "source": 8, 
+      "target": 14, 
       "value": 174393
     }, 
     {
-      "source": 12, 
-      "target": 14, 
+      "source": 8, 
+      "target": 9, 
       "value": 10133
     }, 
     {
-      "source": 29, 
-      "target": 36, 
+      "source": 18, 
+      "target": 23, 
       "value": 1383087
     }, 
     {
-      "source": 0, 
-      "target": 37, 
-      "value": 4402
-    }, 
-    {
-      "source": 4, 
-      "target": 15, 
+      "source": 3, 
+      "target": 10, 
       "value": 5886945
     }, 
     {
       "source": 0, 
-      "target": 10, 
+      "target": 6, 
       "value": 153421
     }, 
     {
-      "source": 4, 
-      "target": 17, 
+      "source": 3, 
+      "target": 12, 
       "value": 3214629
     }, 
     {
-      "source": 32, 
-      "target": 35, 
+      "source": 20, 
+      "target": 22, 
       "value": 152122
     }, 
     {
-      "source": 12, 
-      "target": 13, 
-      "value": 1634
-    }, 
-    {
-      "source": 0, 
+      "source": 8, 
       "target": 23, 
-      "value": 3954
-    }, 
-    {
-      "source": 12, 
-      "target": 36, 
       "value": 39490
     }, 
     {
       "source": 0, 
-      "target": 4, 
+      "target": 3, 
       "value": 183924935
     }, 
     {
-      "source": 14, 
-      "target": 29, 
+      "source": 9, 
+      "target": 18, 
       "value": 598613
     }, 
     {
-      "source": 4, 
-      "target": 24, 
-      "value": 1648
-    }, 
-    {
-      "source": 20, 
-      "target": 35, 
+      "source": 14, 
+      "target": 22, 
       "value": 869
     }, 
     {
       "source": 0, 
-      "target": 1, 
-      "value": 20065
-    }, 
-    {
-      "source": 0, 
-      "target": 35, 
+      "target": 22, 
       "value": 17455
     }, 
     {
-      "source": 8, 
-      "target": 15, 
+      "source": 5, 
+      "target": 10, 
       "value": 9462
     }, 
     {
       "source": 0, 
-      "target": 20, 
+      "target": 14, 
       "value": 213283
     }, 
     {
-      "source": 20, 
-      "target": 21, 
+      "source": 14, 
+      "target": 15, 
       "value": 2199
     }, 
     {
-      "source": 29, 
-      "target": 32, 
+      "source": 18, 
+      "target": 20, 
       "value": 149229
     }, 
     {
-      "source": 18, 
-      "target": 23, 
-      "value": 2671
-    }, 
-    {
-      "source": 36, 
-      "target": 37, 
-      "value": 4640
-    }, 
-    {
-      "source": 10, 
-      "target": 20, 
+      "source": 6, 
+      "target": 14, 
       "value": 4004
     }, 
     {
-      "source": 35, 
-      "target": 39, 
+      "source": 22, 
+      "target": 24, 
       "value": 835
     }, 
     {
-      "source": 15, 
-      "target": 19, 
-      "value": 2519
-    }, 
-    {
-      "source": 20, 
-      "target": 32, 
+      "source": 14, 
+      "target": 20, 
       "value": 22655
     }, 
     {
-      "source": 8, 
-      "target": 29, 
+      "source": 5, 
+      "target": 18, 
       "value": 497684
     }, 
     {
-      "source": 16, 
-      "target": 29, 
+      "source": 11, 
+      "target": 18, 
       "value": 5632
     }, 
     {
       "source": 0, 
-      "target": 15, 
+      "target": 10, 
       "value": 5347820
     }, 
     {
       "source": 0, 
-      "target": 16, 
+      "target": 11, 
       "value": 84261
     }, 
     {
-      "source": 4, 
-      "target": 18, 
+      "source": 3, 
+      "target": 13, 
       "value": 1658
     }, 
     {
-      "source": 12, 
-      "target": 19, 
-      "value": 1915
-    }, 
-    {
-      "source": 14, 
-      "target": 20, 
+      "source": 9, 
+      "target": 14, 
       "value": 93879
     }, 
     {
-      "source": 15, 
-      "target": 25, 
-      "value": 708
-    }, 
-    {
       "source": 0, 
-      "target": 27, 
-      "value": 797
-    }, 
-    {
-      "source": 28, 
-      "target": 30, 
-      "value": 12457
-    }, 
-    {
-      "source": 13, 
-      "target": 29, 
-      "value": 939
-    }, 
-    {
-      "source": 0, 
-      "target": 29, 
+      "target": 18, 
       "value": 9711492
     }, 
     {
-      "source": 20, 
-      "target": 22, 
+      "source": 14, 
+      "target": 16, 
       "value": 71058
     }, 
     {
       "source": 0, 
-      "target": 18, 
+      "target": 13, 
       "value": 15524
     }, 
     {
-      "source": 30, 
-      "target": 33, 
-      "value": 1683
-    }, 
-    {
       "source": 0, 
-      "target": 22, 
+      "target": 16, 
       "value": 5622
     }, 
     {
       "source": 0, 
-      "target": 40, 
+      "target": 25, 
       "value": 26801
     }, 
     {
-      "source": 29, 
-      "target": 35, 
+      "source": 18, 
+      "target": 22, 
       "value": 1736
     }, 
     {
-      "source": 3, 
-      "target": 40, 
+      "source": 2, 
+      "target": 25, 
       "value": 1060
     }, 
     {
-      "source": 9, 
-      "target": 39, 
-      "value": 20931
-    }, 
-    {
       "source": 0, 
-      "target": 28, 
+      "target": 17, 
       "value": 23140
     }, 
     {
-      "source": 33, 
-      "target": 35, 
+      "source": 21, 
+      "target": 22, 
       "value": 961
     }, 
     {
       "source": 0, 
-      "target": 2, 
+      "target": 1, 
       "value": 62568
     }, 
     {
-      "source": 12, 
-      "target": 22, 
+      "source": 8, 
+      "target": 16, 
       "value": 1887
     }, 
     {
-      "source": 14, 
-      "target": 36, 
+      "source": 9, 
+      "target": 23, 
       "value": 12146
     }, 
     {
-      "source": 0, 
-      "target": 7, 
-      "value": 3736
-    }, 
-    {
-      "source": 12, 
-      "target": 29, 
+      "source": 8, 
+      "target": 18, 
       "value": 1116738
     }, 
     {
-      "source": 15, 
-      "target": 36, 
+      "source": 10, 
+      "target": 23, 
       "value": 8880
     }, 
     {
-      "source": 24, 
-      "target": 25, 
-      "value": 1485
-    }, 
-    {
-      "source": 4, 
-      "target": 8, 
+      "source": 3, 
+      "target": 5, 
       "value": 64328620
     }, 
     {
-      "source": 0, 
-      "target": 24, 
-      "value": 17232
-    }, 
-    {
-      "source": 4, 
-      "target": 11, 
+      "source": 3, 
+      "target": 7, 
       "value": 2235926
     }, 
     {
-      "source": 20, 
-      "target": 29, 
+      "source": 14, 
+      "target": 18, 
       "value": 128375
     }, 
     {
-      "source": 11, 
-      "target": 29, 
+      "source": 7, 
+      "target": 18, 
       "value": 516732
     }, 
     {
       "source": 0, 
-      "target": 12, 
+      "target": 8, 
       "value": 2510633
     }, 
     {
-      "source": 4, 
-      "target": 14, 
+      "source": 3, 
+      "target": 9, 
       "value": 726022
     }, 
     {
-      "source": 1, 
-      "target": 8, 
-      "value": 7948
-    }, 
-    {
       "source": 0, 
-      "target": 17, 
+      "target": 12, 
       "value": 183211
     }, 
     {
-      "source": 11, 
-      "target": 15, 
+      "source": 7, 
+      "target": 10, 
       "value": 1218263
     }, 
     {
-      "source": 12, 
-      "target": 35, 
+      "source": 8, 
+      "target": 22, 
       "value": 2374
     }, 
     {
       "source": 0, 
-      "target": 3, 
+      "target": 2, 
       "value": 6233
     }, 
     {
-      "source": 15, 
-      "target": 18, 
+      "source": 10, 
+      "target": 13, 
       "value": 20037
     }, 
     {
-      "source": 12, 
-      "target": 25, 
-      "value": 5938
-    }, 
-    {
-      "source": 28, 
-      "target": 31, 
+      "source": 17, 
+      "target": 19, 
       "value": 2143
     }, 
     {
       "source": 0, 
-      "target": 32, 
+      "target": 20, 
       "value": 13900
     }, 
     {
       "source": 0, 
-      "target": 8, 
+      "target": 5, 
       "value": 30533231
     }, 
     {
-      "source": 4, 
-      "target": 29, 
+      "source": 3, 
+      "target": 18, 
       "value": 209594
     }, 
     {
-      "source": 21, 
-      "target": 29, 
+      "source": 15, 
+      "target": 18, 
       "value": 18704
     }, 
     {
-      "source": 10, 
-      "target": 12, 
+      "source": 6, 
+      "target": 8, 
       "value": 1074
     }, 
     {
       "source": 0, 
-      "target": 21, 
+      "target": 15, 
       "value": 233213
     }, 
     {
-      "source": 10, 
-      "target": 28, 
+      "source": 6, 
+      "target": 17, 
       "value": 2143
-    }, 
-    {
-      "source": 0, 
-      "target": 30, 
-      "value": 1683
-    }, 
-    {
-      "source": 21, 
-      "target": 28, 
-      "value": 3938
-    }, 
-    {
-      "source": 0, 
-      "target": 36, 
-      "value": 293167
-    }, 
-    {
-      "source": 22, 
-      "target": 32, 
-      "value": 1578
-    }, 
-    {
-      "source": 29, 
-      "target": 34, 
-      "value": 9809
-    }, 
-    {
-      "source": 12, 
-      "target": 15, 
-      "value": 98808
-    }, 
-    {
-      "source": 16, 
-      "target": 36, 
-      "value": 729
-    }, 
-    {
-      "source": 36, 
-      "target": 40, 
-      "value": 16768
-    }, 
-    {
-      "source": 0, 
-      "target": 39, 
-      "value": 10443
-    }, 
-    {
-      "source": 10, 
-      "target": 16, 
-      "value": 11266
     }, 
     {
       "source": 15, 
       "target": 17, 
+      "value": 3938
+    }, 
+    {
+      "source": 0, 
+      "target": 23, 
+      "value": 293167
+    }, 
+    {
+      "source": 16, 
+      "target": 20, 
+      "value": 1578
+    }, 
+    {
+      "source": 8, 
+      "target": 10, 
+      "value": 98808
+    }, 
+    {
+      "source": 11, 
+      "target": 23, 
+      "value": 729
+    }, 
+    {
+      "source": 23, 
+      "target": 25, 
+      "value": 16768
+    }, 
+    {
+      "source": 0, 
+      "target": 24, 
+      "value": 10443
+    }, 
+    {
+      "source": 6, 
+      "target": 11, 
+      "value": 11266
+    }, 
+    {
+      "source": 10, 
+      "target": 12, 
       "value": 5922
     }, 
     {
       "source": 0, 
-      "target": 14, 
+      "target": 9, 
       "value": 1199247
     }, 
     {
-      "source": 14, 
-      "target": 16, 
+      "source": 9, 
+      "target": 11, 
       "value": 26097
     }, 
     {
-      "source": 4, 
-      "target": 12, 
+      "source": 3, 
+      "target": 8, 
       "value": 31023
     }, 
     {
-      "source": 14, 
-      "target": 32, 
+      "source": 9, 
+      "target": 20, 
       "value": 6292
     }, 
     {
-      "source": 14, 
-      "target": 15, 
+      "source": 9, 
+      "target": 10, 
       "value": 82759
     }, 
     {
       "source": 0, 
-      "target": 31, 
+      "target": 19, 
       "value": 6423
     }, 
     {
-      "source": 12, 
-      "target": 28, 
+      "source": 8, 
+      "target": 17, 
       "value": 988
     }, 
     {
-      "source": 22, 
-      "target": 35, 
+      "source": 16, 
+      "target": 22, 
       "value": 1453
     }, 
     {
-      "source": 21, 
-      "target": 27, 
-      "value": 3011
-    }, 
-    {
-      "source": 21, 
-      "target": 26, 
-      "value": 4864
-    }, 
-    {
-      "source": 11, 
-      "target": 14, 
+      "source": 7, 
+      "target": 9, 
       "value": 12686
     }, 
     {
       "source": 0, 
-      "target": 33, 
+      "target": 21, 
       "value": 45347
     }, 
     {
-      "source": 15, 
-      "target": 32, 
+      "source": 10, 
+      "target": 20, 
       "value": 19507
     }, 
     {
-      "source": 14, 
-      "target": 19, 
-      "value": 770
-    }, 
-    {
-      "source": 21, 
-      "target": 32, 
+      "source": 15, 
+      "target": 20, 
       "value": 2199
     }, 
     {
       "source": 0, 
-      "target": 6, 
+      "target": 4, 
       "value": 32004
     }, 
     {
-      "source": 28, 
-      "target": 29, 
+      "source": 17, 
+      "target": 18, 
       "value": 3808
     }, 
     {
       "source": 0, 
-      "target": 26, 
-      "value": 6380
-    }, 
-    {
-      "source": 0, 
-      "target": 11, 
+      "target": 7, 
       "value": 1974649
     }, 
     {
-      "source": 33, 
-      "target": 39, 
+      "source": 21, 
+      "target": 24, 
       "value": 13442
     }, 
     {
-      "source": 15, 
-      "target": 35, 
+      "source": 10, 
+      "target": 22, 
       "value": 1128
     }, 
     {
-      "source": 12, 
-      "target": 32, 
+      "source": 8, 
+      "target": 20, 
       "value": 8533
     }, 
     {
-      "source": 10, 
-      "target": 18, 
+      "source": 6, 
+      "target": 13, 
       "value": 18767
     }
   ], 
   "nodes": [
     {
       "name": "eng"
-    }, 
-    {
-      "name": "sco"
     }, 
     {
       "name": "jpn"
@@ -618,19 +465,10 @@
       "name": "enm"
     }, 
     {
-      "name": "haw"
-    }, 
-    {
       "name": "gle"
     }, 
     {
-      "name": "bod"
-    }, 
-    {
       "name": "ang"
-    }, 
-    {
-      "name": "rom"
     }, 
     {
       "name": "nld"
@@ -640,9 +478,6 @@
     }, 
     {
       "name": "fra"
-    }, 
-    {
-      "name": "oci"
     }, 
     {
       "name": "frm"
@@ -660,9 +495,6 @@
       "name": "dum"
     }, 
     {
-      "name": "pro"
-    }, 
-    {
       "name": "ita"
     }, 
     {
@@ -672,28 +504,10 @@
       "name": "tur"
     }, 
     {
-      "name": "odt"
-    }, 
-    {
-      "name": "gml"
-    }, 
-    {
-      "name": "gmh"
-    }, 
-    {
-      "name": "tnq"
-    }, 
-    {
-      "name": "nah"
-    }, 
-    {
       "name": "por"
     }, 
     {
       "name": "lat"
-    }, 
-    {
-      "name": "guj"
     }, 
     {
       "name": "msa"
@@ -705,19 +519,10 @@
       "name": "hin"
     }, 
     {
-      "name": "goh"
-    }, 
-    {
       "name": "fas"
     }, 
     {
       "name": "grc"
-    }, 
-    {
-      "name": "egy"
-    }, 
-    {
-      "name": "pal"
     }, 
     {
       "name": "san"

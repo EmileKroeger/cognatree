@@ -2,7 +2,9 @@ Next actions on integrating etymwn data
  * -generate some kind of topologically sorted graph-
  * -crop rare languages (a bit aggressively)-
  * find the real language names
- * refactor the code a bit so it doesn't talk about energy
+ * -refactor the code a bit so it doesn't talk about energy-
+ * Make it possible to highlight languages
+ * Add colors to language families
 
  * in tree: Make hidden words collapsible
 
