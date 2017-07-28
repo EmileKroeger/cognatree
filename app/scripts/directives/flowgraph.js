@@ -14,7 +14,7 @@ angular.module('cognatreeApp')
       link: function(scope, element, attrs) {
         d3Service.d3().then(function(d3) {
       
-        var width = 800;
+        var width = 1200;
         var height = 600;
 
         var svg = d3.select(element[0]).append('svg')
@@ -29,7 +29,10 @@ angular.module('cognatreeApp')
             .nodeWidth(15)
             .nodePadding(15)
             .nodeAlign(d3.sankeyLeft)
+            .iterations(0)
             .extent([[1, 1], [width - 1, height - 6]]);
+          
+            //console.debug(["it", sankey.iterations()]);
 
         var link = svg.append("g")
             .attr("class", "links")

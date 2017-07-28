@@ -5,6 +5,7 @@ Next actions on integrating etymwn data
  * -refactor the code a bit so it doesn't talk about energy-
  * Make it possible to highlight languages
  * Add colors to language families
+ * add "fake" intermediate nodes for middle english and middle French.g
 
  * in tree: Make hidden words collapsible
 

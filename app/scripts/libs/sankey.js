@@ -215,20 +215,36 @@ var sankey = function() {
     initializeNodeBreadth();
     resolveCollisions();
     for (var alpha = 1, n = iterations; n > 0; --n) {
-      relaxRightToLeft(alpha *= 0.99);
+      alpha *= 0.99;
+      relaxRightToLeft(alpha);
       resolveCollisions();
       relaxLeftToRight(alpha);
       resolveCollisions();
     }
 
     function initializeNodeBreadth() {
+      //ky is the min "squeezing factor"
+      function columnSqueeze(nodes) {
+        var maxFreeSpace = (y1 - y0 - (nodes.length - 1) * py);
+        return maxFreeSpace / d3Array.sum(nodes, value);
+      }
       var ky = d3Array.min(columns, function(nodes) {
-        return (y1 - y0 - (nodes.length - 1) * py) / d3Array.sum(nodes, value);
+        return columnSqueeze(nodes);
       });
 
       columns.forEach(function(nodes) {
+        var maxFreeSpace = (y1 - y0 - (nodes.length - 1) * py);
+        var usedSpace = d3Array.sum(nodes, value) * ky;
+        var freeSpace = maxFreeSpace - usedSpace;
+        var padding = freeSpace / (nodes.length + 1)
+        var current = 0;
         nodes.forEach(function(node, i) {
-          node.y1 = (node.y0 = i) + node.value * ky;
+          if (i > 0) {
+            current += py;
+          }
+          node.y0 = current + padding;
+          node.y1 = node.y0 + node.value * ky;
+          current = node.y1;
         });
       });
 
@@ -236,20 +252,28 @@ var sankey = function() {
         link.width = link.value * ky;
       });
     }
+    
+    function _relaxColumn(nodes, alpha) {
+      nodes.forEach(function(node) {
+        if (node.targetLinks.length) {
+          var sourceSum = d3Array.sum(node.targetLinks, weightedSource);
+          var valueSum = d3Array.sum(node.targetLinks, value);
+          var dy = (sourceSum / valueSum - nodeCenter(node)) * alpha;
+          node.y0 += dy, node.y1 += dy;
+        }
+      });
+    }
+    
 
     function relaxLeftToRight(alpha) {
       columns.forEach(function(nodes) {
-        nodes.forEach(function(node) {
-          if (node.targetLinks.length) {
-            var dy = (d3Array.sum(node.targetLinks, weightedSource) / d3Array.sum(node.targetLinks, value) - nodeCenter(node)) * alpha;
-            node.y0 += dy, node.y1 += dy;
-          }
-        });
+        _relaxColumn(nodes, alpha);
       });
     }
 
     function relaxRightToLeft(alpha) {
       columns.slice().reverse().forEach(function(nodes) {
+        //_relaxColumn(nodes, alpha);
         nodes.forEach(function(node) {
           if (node.sourceLinks.length) {
             var dy = (d3Array.sum(node.sourceLinks, weightedTarget) / d3Array.sum(node.sourceLinks, value) - nodeCenter(node)) * alpha;
