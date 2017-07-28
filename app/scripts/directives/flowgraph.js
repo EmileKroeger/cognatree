@@ -51,6 +51,7 @@ angular.module('cognatreeApp')
         //d3.json("data/energy.json", function(error, energy) {
         d3.json("data/parentgraphlinks_eng.json", function(error, energy) {
         if (error) throw error;
+        console.debug(energy);
 
         sankey(energy);
 
