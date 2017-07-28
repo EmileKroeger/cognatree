@@ -48,7 +48,8 @@ angular.module('cognatreeApp')
           .attr("font-size", 10)
         .selectAll("g");
 
-      d3.json("data/energy.json", function(error, energy) {
+        //d3.json("data/energy.json", function(error, energy) {
+        d3.json("data/parentgraphlinks_eng.json", function(error, energy) {
         if (error) throw error;
 
         sankey(energy);
