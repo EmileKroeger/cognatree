@@ -12,7 +12,8 @@
     "angular-animate": "1.2.16",
     "angular-touch": "1.2.16",
     "angular-route": "1.2.16",
-    "d3": "~3.4.13"
+    "d3": "~4.10",
+    "d3-sankey": ""
   },
   "devDependencies": {
     "angular-mocks": "1.2.16",
