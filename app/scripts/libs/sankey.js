@@ -49,16 +49,25 @@ function value(d) {
   return d.value;
 }
 
+function coeff(link) {
+  //return 1;
+  return link.value / Math.pow(link.target.x0 - link.source.x1, 1);
+}
+
 function nodeCenter(node) {
   return (node.y0 + node.y1) / 2;
 }
 
+function nodeRightCenter(node) {
+  return node.y0 + node.rightOffset;
+}
+
 function weightedSource(link) {
-  return nodeCenter(link.source) * link.value;
+  return nodeRightCenter(link.source) * coeff(link);
 }
 
 function weightedTarget(link) {
-  return nodeCenter(link.target) * link.value;
+  return nodeCenter(link.target) * coeff(link);
 }
 
 function defaultId(d) {
@@ -162,10 +171,10 @@ var sankey = function() {
   // Compute the value (size) of each node by summing the associated links.
   function computeNodeValues(graph) {
     graph.nodes.forEach(function(node) {
-      node.value = Math.max(
-        d3Array.sum(node.sourceLinks, value),
-        d3Array.sum(node.targetLinks, value)
-      );
+      node.leftValue = d3Array.sum(node.targetLinks, value);
+      node.rightValue = d3Array.sum(node.sourceLinks, value);
+      node.value = Math.max(node.leftValue, node.rightValue);
+      //console.debug([node.leftValue, node.rightValue]);
     });
   }
 
@@ -245,6 +254,9 @@ var sankey = function() {
           node.y0 = current + padding;
           node.y1 = node.y0 + node.value * ky;
           current = node.y1;
+          // Left and right "middle" of the linked zones
+          node.leftOffset = 0.5 * node.leftValue * ky;
+          node.rightOffset = 0.5 * node.rightValue * ky;
         });
       });
 
@@ -253,21 +265,18 @@ var sankey = function() {
       });
     }
     
-    function _relaxColumn(nodes, alpha) {
-      nodes.forEach(function(node) {
-        if (node.targetLinks.length) {
-          var sourceSum = d3Array.sum(node.targetLinks, weightedSource);
-          var valueSum = d3Array.sum(node.targetLinks, value);
-          var dy = (sourceSum / valueSum - nodeCenter(node)) * alpha;
-          node.y0 += dy, node.y1 += dy;
-        }
-      });
-    }
-    
-
     function relaxLeftToRight(alpha) {
       columns.forEach(function(nodes) {
-        _relaxColumn(nodes, alpha);
+        nodes.forEach(function(node) {
+          if (node.targetLinks.length) {
+            // Look at this link leftwards, could it be straighter?
+            var sourceSum = d3Array.sum(node.targetLinks, weightedSource);
+            var valueSum = d3Array.sum(node.targetLinks, coeff);
+            var idealCenter = sourceSum / valueSum;
+            var dy = (idealCenter - nodeCenter(node)) * alpha;
+            node.y0 += dy, node.y1 += dy;
+          }
+        });
       });
     }
 
@@ -276,7 +285,11 @@ var sankey = function() {
         //_relaxColumn(nodes, alpha);
         nodes.forEach(function(node) {
           if (node.sourceLinks.length) {
-            var dy = (d3Array.sum(node.sourceLinks, weightedTarget) / d3Array.sum(node.sourceLinks, value) - nodeCenter(node)) * alpha;
+            // Look at this link rightwards, could it be straigter?
+            var targetSum = d3Array.sum(node.sourceLinks, weightedTarget);
+            var valueSum = d3Array.sum(node.sourceLinks, coeff);
+            var idealCenter = targetSum / valueSum;
+            var dy = (idealCenter - nodeRightCenter(node)) * alpha;
             node.y0 += dy, node.y1 += dy;
           }
         });

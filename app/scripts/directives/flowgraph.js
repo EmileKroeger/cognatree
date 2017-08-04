@@ -29,7 +29,7 @@ angular.module('cognatreeApp')
             .nodeWidth(15)
             .nodePadding(15)
             .nodeAlign(d3.sankeyLeft)
-            .iterations(0)
+            .iterations(32)
             .extent([[1, 1], [width - 1, height - 6]]);
           
             //console.debug(["it", sankey.iterations()]);
