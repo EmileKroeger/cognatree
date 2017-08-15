@@ -45,14 +45,18 @@ angular.module('cognatreeApp')
             .attr("class", "nodes")
             .attr("font-family", "sans-serif")
             .attr("font-size", 10)
+          /*
             .on("click", function(target) {
               var targetData = d3.event.target.__data__;
               console.debug(["click", targetData.name]);
+              d3.select(this).style("fill", "red");
             })
+          */
             //.on("drag", dragmove)
             .selectAll("g");
 
         // the function for moving the nodes
+            /*
           function dragmove(d) {
             console.debug("dragmove");
             d3.select(this)
@@ -65,6 +69,7 @@ angular.module('cognatreeApp')
             //sankey.relayout();
             link.attr("d", path);
           }
+            */
 
 
           d3.json("data/parentgraphlinks_eng.json", function(error, langdata) {
@@ -84,9 +89,37 @@ angular.module('cognatreeApp')
             link.append("title")
                 .text(function(d) { return d.source.name + " → " + d.target.name + "\n" + format(d.value); });
 
+            function selectNode(targetNode, targetData) {
+              //console.debug(["click", targetData.fullname]);
+
+              // Unselect previous
+              var prevSelected = d3.select(".selected")
+                .classed("selected", false)
+              
+              prevSelected.select("rect")
+                .attr("stroke-width", 0);
+
+              prevSelected.select("text")
+                .attr("font-weight", "normal");
+
+              d3.select(targetNode)
+                .classed("selected", true)
+                .select("rect")
+                  .attr("stroke-width", 1);
+
+              d3.select(targetNode)
+                .select("text")
+                  .attr("font-weight", "bold");
+              //console.debug(targetNode);
+            }
+
             node = node
               .data(langdata.nodes)
               .enter().append("g")
+                .on("click", function(target) {
+                  var targetData = d3.event.target.__data__;
+                  selectNode(this, targetData);
+                })
                 /*
             .call(d3.drag()
               .subject(function(d) {
@@ -106,6 +139,7 @@ angular.module('cognatreeApp')
                 .attr("fill", function(d) { 
                   return sLangInfo.colors[d.family];
                 })
+                .attr("stroke", "black")
                 .attr("stroke-width", 0);
 
             node.append("text")
