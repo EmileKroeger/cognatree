@@ -1,523 +1,663 @@
 {
   "links": [
     {
+      "family": "Germanic", 
       "source": 5, 
       "target": 12, 
-      "value": 304407
+      "value": 2
     }, 
     {
+      "family": "Romance", 
       "source": 10, 
       "target": 14, 
-      "value": 37576
+      "value": 4
     }, 
     {
+      "family": "Romance", 
       "source": 10, 
       "target": 18, 
-      "value": 8053728
+      "value": 446
     }, 
     {
+      "family": "Romance", 
       "source": 8, 
       "target": 15, 
-      "value": 10949
+      "value": 3
     }, 
     {
+      "family": "Romance", 
       "source": 8, 
       "target": 14, 
-      "value": 174393
+      "value": 26
     }, 
     {
+      "family": "Romance", 
       "source": 8, 
       "target": 9, 
-      "value": 108941
+      "value": 24
     }, 
     {
+      "family": "Greek", 
       "source": 18, 
       "target": 23, 
-      "value": 1383087
+      "value": 194
     }, 
     {
+      "family": "Romance", 
       "source": 3, 
       "target": 10, 
-      "value": 5886945
+      "value": 240
     }, 
     {
+      "family": "Germanic", 
       "source": 0, 
       "target": 6, 
-      "value": 153421
+      "value": 18
     }, 
     {
+      "family": "Germanic", 
       "source": 3, 
       "target": 12, 
-      "value": 3214629
+      "value": 25
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 20, 
       "target": 22, 
-      "value": 152122
+      "value": 3
     }, 
     {
+      "family": "Greek", 
       "source": 8, 
       "target": 23, 
-      "value": 39490
+      "value": 12
     }, 
     {
+      "family": "Germanic", 
       "source": 0, 
       "target": 3, 
-      "value": 214458166
+      "value": 1907
     }, 
     {
+      "family": "Romance", 
       "source": 9, 
       "target": 18, 
-      "value": 598613
+      "value": 73
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 14, 
       "target": 22, 
-      "value": 869
+      "value": 1
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 0, 
       "target": 22, 
-      "value": 17455
+      "value": 6
     }, 
     {
+      "family": "Romance", 
       "source": 5, 
       "target": 10, 
-      "value": 9462
+      "value": 2
     }, 
     {
+      "family": "Romance", 
       "source": 0, 
       "target": 14, 
-      "value": 213283
+      "value": 48
     }, 
     {
+      "family": "Romance", 
       "source": 14, 
       "target": 15, 
-      "value": 2199
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 18, 
       "target": 20, 
-      "value": 149229
+      "value": 2
     }, 
     {
+      "family": "Romance", 
       "source": 6, 
       "target": 14, 
-      "value": 4004
+      "value": 1
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 22, 
       "target": 24, 
-      "value": 835
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 14, 
       "target": 20, 
-      "value": 22655
+      "value": 2
     }, 
     {
+      "family": "Romance", 
       "source": 5, 
       "target": 18, 
-      "value": 497684
+      "value": 26
     }, 
     {
+      "family": "Romance", 
       "source": 11, 
       "target": 18, 
-      "value": 5632
+      "value": 3
     }, 
     {
+      "family": "Romance", 
       "source": 0, 
       "target": 10, 
-      "value": 5347820
+      "value": 482
     }, 
     {
+      "family": "Germanic", 
       "source": 0, 
       "target": 11, 
-      "value": 84261
+      "value": 25
     }, 
     {
+      "family": "Germanic", 
       "source": 3, 
       "target": 13, 
-      "value": 1658
+      "value": 1
     }, 
     {
+      "family": "Romance", 
       "source": 9, 
       "target": 14, 
-      "value": 93879
+      "value": 8
     }, 
     {
+      "family": "Romance", 
       "source": 0, 
       "target": 18, 
-      "value": 9711492
+      "value": 931
     }, 
     {
+      "family": "non-IE", 
       "source": 14, 
       "target": 16, 
-      "value": 71058
+      "value": 2
     }, 
     {
+      "family": "Germanic", 
       "source": 0, 
       "target": 13, 
-      "value": 15524
+      "value": 3
     }, 
     {
+      "family": "non-IE", 
       "source": 0, 
       "target": 16, 
-      "value": 5622
+      "value": 6
     }, 
     {
+      "family": "non-IE", 
       "source": 0, 
       "target": 25, 
-      "value": 26801
+      "value": 5
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 18, 
       "target": 22, 
-      "value": 1736
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 2, 
       "target": 25, 
-      "value": 1060
+      "value": 1
     }, 
     {
+      "family": "Romance", 
       "source": 0, 
       "target": 17, 
-      "value": 23140
+      "value": 7
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 21, 
       "target": 22, 
-      "value": 961
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 0, 
       "target": 1, 
-      "value": 62568
+      "value": 25
     }, 
     {
+      "family": "non-IE", 
       "source": 8, 
       "target": 16, 
-      "value": 1887
+      "value": 1
     }, 
     {
+      "family": "Greek", 
       "source": 9, 
       "target": 23, 
-      "value": 12146
+      "value": 1
     }, 
     {
+      "family": "Romance", 
       "source": 8, 
       "target": 18, 
-      "value": 1116738
+      "value": 152
     }, 
     {
+      "family": "Greek", 
       "source": 10, 
       "target": 23, 
-      "value": 8880
+      "value": 3
     }, 
     {
+      "family": "Germanic", 
       "source": 3, 
       "target": 5, 
-      "value": 94861851
+      "value": 767
     }, 
     {
+      "family": "Germanic", 
       "source": 3, 
       "target": 7, 
-      "value": 2235926
+      "value": 77
     }, 
     {
+      "family": "Romance", 
       "source": 14, 
       "target": 18, 
-      "value": 128375
+      "value": 21
     }, 
     {
+      "family": "Romance", 
       "source": 7, 
       "target": 18, 
-      "value": 516732
+      "value": 25
     }, 
     {
+      "family": "Romance", 
       "source": 0, 
       "target": 8, 
-      "value": 2510633
+      "value": 435
     }, 
     {
+      "family": "Romance", 
       "source": 3, 
       "target": 9, 
-      "value": 726022
+      "value": 23
     }, 
     {
+      "family": "Germanic", 
       "source": 0, 
       "target": 12, 
-      "value": 183211
+      "value": 26
     }, 
     {
+      "family": "Romance", 
       "source": 7, 
       "target": 10, 
-      "value": 1218263
+      "value": 62
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 8, 
       "target": 22, 
-      "value": 2374
+      "value": 1
     }, 
     {
+      "family": "Germanic", 
       "source": 0, 
       "target": 2, 
-      "value": 6233
+      "value": 5
     }, 
     {
+      "family": "Germanic", 
       "source": 10, 
       "target": 13, 
-      "value": 20037
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 17, 
       "target": 19, 
-      "value": 2143
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 0, 
       "target": 20, 
-      "value": 13900
+      "value": 11
     }, 
     {
+      "family": "Romance", 
       "source": 3, 
       "target": 18, 
-      "value": 209594
+      "value": 31
     }, 
     {
+      "family": "Romance", 
       "source": 15, 
       "target": 18, 
-      "value": 18704
+      "value": 8
     }, 
     {
+      "family": "Romance", 
       "source": 6, 
       "target": 8, 
-      "value": 1074
+      "value": 1
     }, 
     {
+      "family": "Romance", 
       "source": 0, 
       "target": 15, 
-      "value": 233213
+      "value": 42
     }, 
     {
+      "family": "Romance", 
       "source": 6, 
       "target": 17, 
-      "value": 2143
+      "value": 1
     }, 
     {
+      "family": "Romance", 
       "source": 15, 
       "target": 17, 
-      "value": 3938
+      "value": 1
     }, 
     {
+      "family": "Greek", 
       "source": 0, 
       "target": 23, 
-      "value": 293167
+      "value": 85
     }, 
     {
+      "family": "non-IE", 
       "source": 16, 
       "target": 20, 
-      "value": 1578
+      "value": 2
     }, 
     {
+      "family": "Greek", 
       "source": 11, 
       "target": 23, 
-      "value": 729
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 23, 
       "target": 25, 
-      "value": 16768
+      "value": 2
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 0, 
       "target": 24, 
-      "value": 10443
+      "value": 9
     }, 
     {
+      "family": "Germanic", 
       "source": 6, 
       "target": 11, 
-      "value": 11266
+      "value": 1
     }, 
     {
+      "family": "Germanic", 
       "source": 10, 
       "target": 12, 
-      "value": 5922
+      "value": 2
     }, 
     {
+      "family": "Romance", 
       "source": 0, 
       "target": 9, 
-      "value": 1199247
+      "value": 143
     }, 
     {
+      "family": "Germanic", 
       "source": 9, 
       "target": 11, 
-      "value": 26097
+      "value": 1
     }, 
     {
+      "family": "Romance", 
       "source": 3, 
       "target": 8, 
-      "value": 31023
+      "value": 9
     }, 
     {
+      "family": "non-IE", 
       "source": 9, 
       "target": 20, 
-      "value": 6292
+      "value": 1
     }, 
     {
+      "family": "Romance", 
       "source": 9, 
       "target": 10, 
-      "value": 181567
+      "value": 32
     }, 
     {
+      "family": "non-IE", 
       "source": 0, 
       "target": 19, 
-      "value": 6423
+      "value": 4
     }, 
     {
+      "family": "Romance", 
       "source": 8, 
       "target": 17, 
-      "value": 988
+      "value": 1
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 16, 
       "target": 22, 
-      "value": 1453
+      "value": 2
     }, 
     {
+      "family": "Romance", 
       "source": 7, 
       "target": 9, 
-      "value": 12686
+      "value": 1
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 0, 
       "target": 21, 
-      "value": 45347
+      "value": 12
     }, 
     {
+      "family": "non-IE", 
       "source": 10, 
       "target": 20, 
-      "value": 19507
+      "value": 3
     }, 
     {
+      "family": "non-IE", 
       "source": 15, 
       "target": 20, 
-      "value": 2199
+      "value": 1
     }, 
     {
+      "family": "Celtic", 
       "source": 0, 
       "target": 4, 
-      "value": 32004
+      "value": 5
     }, 
     {
+      "family": "Romance", 
       "source": 17, 
       "target": 18, 
-      "value": 3808
+      "value": 3
     }, 
     {
+      "family": "Germanic", 
       "source": 0, 
       "target": 7, 
-      "value": 1974649
+      "value": 131
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 21, 
       "target": 24, 
-      "value": 13442
+      "value": 3
     }, 
     {
+      "family": "Indo-Iranian", 
       "source": 10, 
       "target": 22, 
-      "value": 1128
+      "value": 1
     }, 
     {
+      "family": "non-IE", 
       "source": 8, 
       "target": 20, 
-      "value": 8533
+      "value": 3
     }, 
     {
+      "family": "Germanic", 
       "source": 6, 
       "target": 13, 
-      "value": 18767
+      "value": 5
     }
   ], 
   "nodes": [
     {
+      "family": "Germanic", 
+      "fullname": "Modern English", 
       "name": "eng"
     }, 
     {
+      "family": "non-IE", 
+      "fullname": "Japanese", 
       "name": "jpn"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "Yiddish", 
       "name": "yid"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "Middle English", 
       "name": "enm"
     }, 
     {
+      "family": "Celtic", 
+      "fullname": "Gaelic", 
       "name": "gle"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "Old English", 
       "name": "ang"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "Dutch", 
       "name": "nld"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "Anglo-Norman", 
       "name": "xno"
     }, 
     {
+      "family": "Romance", 
+      "fullname": "French", 
       "name": "fra"
     }, 
     {
+      "family": "Romance", 
+      "fullname": "Middle French", 
       "name": "frm"
     }, 
     {
+      "family": "Romance", 
+      "fullname": "Old French", 
       "name": "fro"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "German", 
       "name": "deu"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "Old Norse", 
       "name": "non"
     }, 
     {
+      "family": "Germanic", 
+      "fullname": "Old Dutch", 
       "name": "dum"
     }, 
     {
+      "family": "Romance", 
+      "fullname": "Italian", 
       "name": "ita"
     }, 
     {
+      "family": "Romance", 
+      "fullname": "Spanish", 
       "name": "spa"
     }, 
     {
+      "family": "non-IE", 
+      "fullname": "Turkish", 
       "name": "tur"
     }, 
     {
+      "family": "Romance", 
+      "fullname": "Portuguese", 
       "name": "por"
     }, 
     {
+      "family": "Romance", 
+      "fullname": "Latin", 
       "name": "lat"
     }, 
     {
+      "family": "non-IE", 
+      "fullname": "Malay", 
       "name": "msa"
     }, 
     {
+      "family": "non-IE", 
+      "fullname": "Arabic", 
       "name": "ara"
     }, 
     {
+      "family": "Indo-Iranian", 
+      "fullname": "Hindu", 
       "name": "hin"
     }, 
     {
+      "family": "Indo-Iranian", 
+      "fullname": "Farsi", 
       "name": "fas"
     }, 
     {
+      "family": "Greek", 
+      "fullname": "Greek", 
       "name": "grc"
     }, 
     {
+      "family": "Indo-Iranian", 
+      "fullname": "Sanskrit", 
       "name": "san"
     }, 
     {
+      "family": "non-IE", 
+      "fullname": "Hebrew", 
       "name": "heb"
     }
   ]

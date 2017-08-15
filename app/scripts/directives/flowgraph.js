@@ -7,7 +7,7 @@
  * # flowgraph
  */
 angular.module('cognatreeApp')
-  .directive('flowgraph', function (d3Service) {
+  .directive('flowgraph', function (d3Service, sLangInfo) {
     return {
       template: '<div></div>',
       restrict: 'E',
@@ -45,7 +45,27 @@ angular.module('cognatreeApp')
             .attr("class", "nodes")
             .attr("font-family", "sans-serif")
             .attr("font-size", 10)
-          .selectAll("g");
+            .on("click", function(target) {
+              var targetData = d3.event.target.__data__;
+              console.debug(["click", targetData.name]);
+            })
+            //.on("drag", dragmove)
+            .selectAll("g");
+
+        // the function for moving the nodes
+          function dragmove(d) {
+            console.debug("dragmove");
+            d3.select(this)
+              .attr("transform", 
+                    "translate(" 
+                       + d.x + "," 
+                       + (d.y = Math.max(
+                          0, Math.min(height - d.dy, d3.event.y))
+                         ) + ")");
+            //sankey.relayout();
+            link.attr("d", path);
+          }
+
 
           d3.json("data/parentgraphlinks_eng.json", function(error, langdata) {
             if (error) throw error;
@@ -56,29 +76,44 @@ angular.module('cognatreeApp')
               .data(langdata.links)
               .enter().append("path")
                 .attr("d", d3.sankeyLinkHorizontal())
-                .attr("stroke-width", function(d) { return Math.max(1, d.width); });
+                .attr("stroke-width", function(d) { return Math.max(1, d.width); })
+                .attr("stroke", function(d) { 
+                  return sLangInfo.colors[d.family];
+                });
 
             link.append("title")
                 .text(function(d) { return d.source.name + " → " + d.target.name + "\n" + format(d.value); });
 
             node = node
               .data(langdata.nodes)
-              .enter().append("g");
+              .enter().append("g")
+                /*
+            .call(d3.drag()
+              .subject(function(d) {
+                return d;
+              })
+              .on("start", function() {
+                this.parentNode.appendChild(this);
+              })
+              .on("drag", dragmove))
+                */
 
             node.append("rect")
                 .attr("x", function(d) { return d.x0; })
                 .attr("y", function(d) { return d.y0; })
                 .attr("height", function(d) { return d.y1 - d.y0; })
                 .attr("width", function(d) { return d.x1 - d.x0; })
-                .attr("fill", function(d) { return color(d.name.replace(/ .*/, "")); })
-                .attr("stroke", "#000");
+                .attr("fill", function(d) { 
+                  return sLangInfo.colors[d.family];
+                })
+                .attr("stroke-width", 0);
 
             node.append("text")
                 .attr("x", function(d) { return d.x0 - 6; })
                 .attr("y", function(d) { return (d.y1 + d.y0) / 2; })
                 .attr("dy", "0.35em")
                 .attr("text-anchor", "end")
-                .text(function(d) { return d.name; })
+                .text(function(d) { return d.fullname})
               .filter(function(d) { return d.x0 < width / 2; })
                 .attr("x", function(d) { return d.x1 + 6; })
                 .attr("text-anchor", "start");

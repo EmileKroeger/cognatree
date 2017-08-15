@@ -229,8 +229,8 @@ var sankey = function() {
     for (var alpha = 1, n = iterations; n > 0; --n) {
       alpha *= 0.99;
       //computeLinkBreadths(graph);
-      //relaxRightToLeft(alpha); // Not needed for eng?
-      //resolveCollisions();
+      relaxRightToLeft(alpha); // Not needed for eng?
+      resolveCollisions();
       computeLinkBreadths(graph);
       relaxLeftToRight(alpha);
       resolveCollisions();
