@@ -63,7 +63,9 @@ function nodeRightCenter(node) {
 }
 
 function weightedSource(link) {
-  return nodeRightCenter(link.source) * coeff(link);
+  return (link.y0) * coeff(link);
+  //return (link.y0 + 0.5 * link.width) * coeff(link);
+  //return nodeRightCenter(link.source) * coeff(link);
 }
 
 function weightedTarget(link) {
@@ -103,6 +105,7 @@ var sankey = function() {
     computeNodeLinks(graph);
     computeNodeValues(graph);
     computeNodeDepths(graph);
+    computeLinkBreadths(graph);
     computeNodeBreadths(graph, iterations);
     computeLinkBreadths(graph);
     return graph;
@@ -225,8 +228,10 @@ var sankey = function() {
     resolveCollisions();
     for (var alpha = 1, n = iterations; n > 0; --n) {
       alpha *= 0.99;
-      relaxRightToLeft(alpha);
-      resolveCollisions();
+      //computeLinkBreadths(graph);
+      //relaxRightToLeft(alpha); // Not needed for eng?
+      //resolveCollisions();
+      computeLinkBreadths(graph);
       relaxLeftToRight(alpha);
       resolveCollisions();
     }
@@ -298,29 +303,27 @@ var sankey = function() {
 
     function resolveCollisions() {
       columns.forEach(function(nodes) {
-        var node,
-            dy,
-            y = y0,
-            n = nodes.length,
-            i;
+        var y = y0;
+        var n = nodes.length;
 
         // Push any overlapping nodes down.
         nodes.sort(ascendingBreadth);
-        for (i = 0; i < n; ++i) {
-          node = nodes[i];
-          dy = y - node.y0;
+        for (var i = 0; i < n; ++i) {
+          var node = nodes[i];
+          var dy = y - node.y0;
           if (dy > 0) node.y0 += dy, node.y1 += dy;
           y = node.y1 + py;
         }
 
         // If the bottommost node goes outside the bounds, push it back up.
-        dy = y - py - y1;
-        if (dy > 0) {
+        var allow_push_back_up = true;
+        var dy = y - py - y1;
+        if (allow_push_back_up && (dy > 0)) {
           y = (node.y0 -= dy), node.y1 -= dy;
 
           // Push any overlapping nodes back up.
-          for (i = n - 2; i >= 0; --i) {
-            node = nodes[i];
+          for (var i = n - 2; i >= 0; --i) {
+            var node = nodes[i];
             dy = node.y1 + py - y;
             if (dy > 0) node.y0 -= dy, node.y1 -= dy;
             y = node.y0;
