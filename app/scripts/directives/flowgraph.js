@@ -91,6 +91,10 @@ angular.module('cognatreeApp')
 
             function selectNode(targetNode, targetData) {
               //console.debug(["click", targetData.fullname]);
+              
+              //window.target = targetNode;
+              //console.debug(targetNode)
+              var wasSelected = targetNode.classList.contains("selected");
 
               // Unselect previous
               var prevSelected = d3.select(".selected")
@@ -101,6 +105,11 @@ angular.module('cognatreeApp')
 
               prevSelected.select("text")
                 .attr("font-weight", "normal");
+              
+              if (wasSelected) {
+                // Just unselect, abort now.
+                return;
+              }
 
               d3.select(targetNode)
                 .classed("selected", true)
@@ -119,6 +128,8 @@ angular.module('cognatreeApp')
                 .on("click", function(target) {
                   var targetData = d3.event.target.__data__;
                   selectNode(this, targetData);
+                  console.debug(targetData.topwords);
+                  console.debug(targetData.topwordinfo);
                 })
                 /*
             .call(d3.drag()
@@ -148,6 +159,7 @@ angular.module('cognatreeApp')
                 .attr("dy", "0.35em")
                 .attr("text-anchor", "end")
                 .text(function(d) { return d.fullname})
+                //.text(function(d) { return d.fullname + "(" + d.count + ")"})
               .filter(function(d) { return d.x0 < width / 2; })
                 .attr("x", function(d) { return d.x1 + 6; })
                 .attr("text-anchor", "start");

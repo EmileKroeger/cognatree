@@ -531,134 +531,1422 @@
   ], 
   "nodes": [
     {
+      "count": 0, 
       "family": "Germanic", 
       "fullname": "Modern English", 
-      "name": "eng"
+      "name": "eng", 
+      "topwordinfo": {}, 
+      "topwords": []
     }, 
     {
+      "count": 24, 
       "family": "non-IE", 
       "fullname": "Japanese", 
-      "name": "jpn"
+      "name": "jpn", 
+      "topwordinfo": {
+        "\u30ab\u30e9\u30aa\u30b1": [
+          "karaoke", 
+          9002
+        ], 
+        "\u4f8d": [
+          "samurai", 
+          5231
+        ], 
+        "\u5186": [
+          "yen", 
+          4369
+        ], 
+        "\u5c06\u8ecd": [
+          "shogun", 
+          11985
+        ], 
+        "\u5fcd\u8005": [
+          "ninja", 
+          4746
+        ], 
+        "\u6bb5": [
+          "dan", 
+          1691
+        ], 
+        "\u7121": [
+          "mu", 
+          10433
+        ], 
+        "\u767e\u5408": [
+          "yuri", 
+          7823
+        ], 
+        "\u82b8\u8005": [
+          "geisha", 
+          14138
+        ], 
+        "\u9ba8": [
+          "sushi", 
+          7240
+        ]
+      }, 
+      "topwords": [
+        "\u6bb5", 
+        "\u5186", 
+        "\u5fcd\u8005", 
+        "\u4f8d", 
+        "\u9ba8", 
+        "\u767e\u5408", 
+        "\u30ab\u30e9\u30aa\u30b1", 
+        "\u7121", 
+        "\u5c06\u8ecd", 
+        "\u82b8\u8005"
+      ]
     }, 
     {
+      "count": 5, 
       "family": "Germanic", 
       "fullname": "Yiddish", 
-      "name": "yid"
+      "name": "yid", 
+      "topwordinfo": {
+        "\u05d0\u05d5\u05d9": [
+          "oy", 
+          10047
+        ], 
+        "\u05d1\u05d9\u05d9\u05d2\u05dc": [
+          "bagel", 
+          12855
+        ], 
+        "\u05db\u05bc\u05e9\u05e8": [
+          "kosher", 
+          14285
+        ], 
+        "\u05e0\u05d5": [
+          "nu", 
+          16290
+        ], 
+        "\u05e9\u05de\u05d0\u05b8\u05e7": [
+          "schmuck", 
+          13114
+        ]
+      }, 
+      "topwords": [
+        "\u05d0\u05d5\u05d9", 
+        "\u05d1\u05d9\u05d9\u05d2\u05dc", 
+        "\u05e9\u05de\u05d0\u05b8\u05e7", 
+        "\u05db\u05bc\u05e9\u05e8", 
+        "\u05e0\u05d5"
+      ]
     }, 
     {
+      "count": 1498, 
       "family": "Germanic", 
       "fullname": "Middle English", 
-      "name": "enm"
+      "name": "enm", 
+      "topwordinfo": {
+        "a": [
+          "a", 
+          5
+        ], 
+        "and": [
+          "and", 
+          7
+        ], 
+        "for": [
+          "for", 
+          17
+        ], 
+        "haven": [
+          "have", 
+          20
+        ], 
+        "he": [
+          "he", 
+          16
+        ], 
+        "me": [
+          "me", 
+          14
+        ], 
+        "my": [
+          "my", 
+          18
+        ], 
+        "no": [
+          "no", 
+          23
+        ], 
+        "of": [
+          "of", 
+          9
+        ], 
+        "to": [
+          "to", 
+          4
+        ]
+      }, 
+      "topwords": [
+        "to", 
+        "a", 
+        "and", 
+        "of", 
+        "me", 
+        "he", 
+        "for", 
+        "my", 
+        "haven", 
+        "no"
+      ]
     }, 
     {
+      "count": 5, 
       "family": "Celtic", 
       "fullname": "Gaelic", 
-      "name": "gle"
+      "name": "gle", 
+      "topwordinfo": {
+        "eiric": [
+          "eric", 
+          1681
+        ], 
+        "leipreach\u00e1n": [
+          "leprechaun", 
+          17224
+        ], 
+        "slaba": [
+          "slob", 
+          13885
+        ], 
+        "tuilleadh": [
+          "tilly", 
+          17500
+        ], 
+        "uisce beatha": [
+          "whiskey", 
+          3756
+        ]
+      }, 
+      "topwords": [
+        "eiric", 
+        "uisce beatha", 
+        "slaba", 
+        "leipreach\u00e1n", 
+        "tuilleadh"
+      ]
     }, 
     {
+      "count": 763, 
       "family": "Germanic", 
       "fullname": "Old English", 
-      "name": "ang"
+      "name": "ang", 
+      "topwordinfo": {
+        "beon": [
+          "be", 
+          28
+        ], 
+        "eower": [
+          "your", 
+          21
+        ], 
+        "for": [
+          "for", 
+          17
+        ], 
+        "habban": [
+          "have", 
+          20
+        ], 
+        "he": [
+          "he", 
+          16
+        ], 
+        "inne": [
+          "in", 
+          11
+        ], 
+        "me": [
+          "me", 
+          14
+        ], 
+        "of": [
+          "of", 
+          9
+        ], 
+        "wi\u00fe": [
+          "with", 
+          31
+        ], 
+        "w\u00e6s": [
+          "was", 
+          24
+        ]
+      }, 
+      "topwords": [
+        "of", 
+        "inne", 
+        "me", 
+        "he", 
+        "for", 
+        "habban", 
+        "eower", 
+        "w\u00e6s", 
+        "beon", 
+        "wi\u00fe"
+      ]
     }, 
     {
+      "count": 19, 
       "family": "Germanic", 
       "fullname": "Dutch", 
-      "name": "nld"
+      "name": "nld", 
+      "topwordinfo": {
+        "boom": [
+          "boom", 
+          2367
+        ], 
+        "daler": [
+          "dollar", 
+          2779
+        ], 
+        "gas": [
+          "gas", 
+          1208
+        ], 
+        "koekje": [
+          "cookie", 
+          4167
+        ], 
+        "kruisen": [
+          "cruise", 
+          4732
+        ], 
+        "pit": [
+          "pit", 
+          3346
+        ], 
+        "schets": [
+          "sketch", 
+          6070
+        ], 
+        "slim": [
+          "slim", 
+          5973
+        ], 
+        "thee": [
+          "tea", 
+          892
+        ], 
+        "wagen": [
+          "wagon", 
+          4274
+        ]
+      }, 
+      "topwords": [
+        "thee", 
+        "gas", 
+        "boom", 
+        "daler", 
+        "pit", 
+        "koekje", 
+        "wagen", 
+        "kruisen", 
+        "slim", 
+        "schets"
+      ]
     }, 
     {
+      "count": 207, 
       "family": "Germanic", 
       "fullname": "Anglo-Norman", 
-      "name": "xno"
+      "name": "xno", 
+      "topwordinfo": {
+        "carre": [
+          "car", 
+          241
+        ], 
+        "cler": [
+          "clear", 
+          535
+        ], 
+        "materie": [
+          "matter", 
+          309
+        ], 
+        "musik": [
+          "music", 
+          405
+        ], 
+        "noumbre": [
+          "number", 
+          433
+        ], 
+        "office": [
+          "office", 
+          490
+        ], 
+        "parsone": [
+          "person", 
+          382
+        ], 
+        "questiun": [
+          "question", 
+          488
+        ], 
+        "raisun": [
+          "reason", 
+          479
+        ], 
+        "trier": [
+          "try", 
+          244
+        ]
+      }, 
+      "topwords": [
+        "carre", 
+        "trier", 
+        "materie", 
+        "parsone", 
+        "musik", 
+        "noumbre", 
+        "raisun", 
+        "questiun", 
+        "office", 
+        "cler"
+      ]
     }, 
     {
+      "count": 445, 
       "family": "Romance", 
       "fullname": "French", 
-      "name": "fra"
+      "name": "fra", 
+      "topwordinfo": {
+        "a gr\u00e9": [
+          "agree", 
+          894
+        ], 
+        "attaque": [
+          "attack", 
+          784
+        ], 
+        "classe": [
+          "class", 
+          729
+        ], 
+        "cridare": [
+          "cry", 
+          964
+        ], 
+        "franc": [
+          "frank", 
+          794
+        ], 
+        "groupe": [
+          "group", 
+          852
+        ], 
+        "h\u00f4tel": [
+          "hotel", 
+          772
+        ], 
+        "plan": [
+          "plan", 
+          556
+        ], 
+        "pr\u00e9sident": [
+          "president", 
+          697
+        ], 
+        "situation": [
+          "situation", 
+          832
+        ]
+      }, 
+      "topwords": [
+        "plan", 
+        "pr\u00e9sident", 
+        "classe", 
+        "h\u00f4tel", 
+        "attaque", 
+        "franc", 
+        "situation", 
+        "groupe", 
+        "a gr\u00e9", 
+        "cridare"
+      ]
     }, 
     {
+      "count": 171, 
       "family": "Romance", 
       "fullname": "Middle French", 
-      "name": "frm"
+      "name": "frm", 
+      "topwordinfo": {
+        "considerer": [
+          "consider", 
+          1347
+        ], 
+        "continuer": [
+          "continue", 
+          1032
+        ], 
+        "humain": [
+          "human", 
+          595
+        ], 
+        "machine": [
+          "machine", 
+          1002
+        ], 
+        "police": [
+          "police", 
+          346
+        ], 
+        "pousser": [
+          "push", 
+          1051
+        ], 
+        "race": [
+          "race", 
+          1174
+        ], 
+        "scene": [
+          "scene", 
+          943
+        ], 
+        "stupide": [
+          "stupid", 
+          501
+        ], 
+        "sur": [
+          "sure", 
+          131
+        ]
+      }, 
+      "topwords": [
+        "sur", 
+        "police", 
+        "stupide", 
+        "humain", 
+        "scene", 
+        "machine", 
+        "continuer", 
+        "pousser", 
+        "race", 
+        "considerer"
+      ]
     }, 
     {
+      "count": 813, 
       "family": "Romance", 
       "fullname": "Old French", 
-      "name": "fro"
+      "name": "fro", 
+      "topwordinfo": {
+        "cours": [
+          "course", 
+          216
+        ], 
+        "escuser": [
+          "excuse", 
+          340
+        ], 
+        "guie": [
+          "guy", 
+          184
+        ], 
+        "materie": [
+          "matter", 
+          309
+        ], 
+        "paier": [
+          "pay", 
+          373
+        ], 
+        "reel": [
+          "real", 
+          265
+        ], 
+        "remembrer": [
+          "remember", 
+          229
+        ], 
+        "sire": [
+          "sir", 
+          139
+        ], 
+        "user": [
+          "use", 
+          306
+        ], 
+        "verai": [
+          "very", 
+          110
+        ]
+      }, 
+      "topwords": [
+        "verai", 
+        "sire", 
+        "guie", 
+        "cours", 
+        "remembrer", 
+        "reel", 
+        "user", 
+        "materie", 
+        "escuser", 
+        "paier"
+      ]
     }, 
     {
+      "count": 28, 
       "family": "Germanic", 
       "fullname": "German", 
-      "name": "deu"
+      "name": "deu", 
+      "topwordinfo": {
+        "Gen": [
+          "gene", 
+          3716
+        ], 
+        "Hamburger": [
+          "hamburger", 
+          9133
+        ], 
+        "Kindergarten": [
+          "kindergarten", 
+          8866
+        ], 
+        "Kutsche": [
+          "coach", 
+          1455
+        ], 
+        "Mummere": [
+          "mum", 
+          965
+        ], 
+        "Semester": [
+          "semester", 
+          7439
+        ], 
+        "Seminar": [
+          "seminar", 
+          9678
+        ], 
+        "Taler": [
+          "dollar", 
+          2779
+        ], 
+        "Walzer": [
+          "waltz", 
+          7716
+        ], 
+        "psychopatisch": [
+          "psychopath", 
+          9333
+        ]
+      }, 
+      "topwords": [
+        "Mummere", 
+        "Kutsche", 
+        "Taler", 
+        "Gen", 
+        "Semester", 
+        "Walzer", 
+        "Kindergarten", 
+        "Hamburger", 
+        "psychopatisch", 
+        "Seminar"
+      ]
     }, 
     {
+      "count": 56, 
       "family": "Germanic", 
       "fullname": "Old Norse", 
-      "name": "non"
+      "name": "non", 
+      "topwordinfo": {
+        "baggi": [
+          "bag", 
+          781
+        ], 
+        "b\u00e1\u00f0ir": [
+          "both", 
+          288
+        ], 
+        "gefa": [
+          "give", 
+          118
+        ], 
+        "gipt": [
+          "gift", 
+          1053
+        ], 
+        "ki\u00f0": [
+          "kid", 
+          372
+        ], 
+        "klubba": [
+          "club", 
+          838
+        ], 
+        "rangr": [
+          "wrong", 
+          219
+        ], 
+        "samr": [
+          "same", 
+          233
+        ], 
+        "traust": [
+          "trust", 
+          484
+        ], 
+        "vanta": [
+          "want", 
+          58
+        ]
+      }, 
+      "topwords": [
+        "vanta", 
+        "gefa", 
+        "rangr", 
+        "samr", 
+        "b\u00e1\u00f0ir", 
+        "ki\u00f0", 
+        "traust", 
+        "baggi", 
+        "klubba", 
+        "gipt"
+      ]
     }, 
     {
+      "count": 10, 
       "family": "Germanic", 
       "fullname": "Old Dutch", 
-      "name": "dum"
+      "name": "dum", 
+      "topwordinfo": {
+        "blinken": [
+          "blink", 
+          7534
+        ], 
+        "blok": [
+          "block", 
+          1796
+        ], 
+        "cratte": [
+          "crate", 
+          9177
+        ], 
+        "donre": [
+          "donner", 
+          15278
+        ], 
+        "drillen": [
+          "drill", 
+          3635
+        ], 
+        "moes": [
+          "moose", 
+          7957
+        ], 
+        "pitte": [
+          "pit", 
+          3346
+        ], 
+        "slim": [
+          "slim", 
+          5973
+        ], 
+        "snacken": [
+          "snack", 
+          5442
+        ], 
+        "vracht": [
+          "freight", 
+          10790
+        ]
+      }, 
+      "topwords": [
+        "blok", 
+        "pitte", 
+        "drillen", 
+        "snacken", 
+        "slim", 
+        "blinken", 
+        "moes", 
+        "cratte", 
+        "vracht", 
+        "donre"
+      ]
     }, 
     {
+      "count": 86, 
       "family": "Romance", 
       "fullname": "Italian", 
-      "name": "ita"
+      "name": "ita", 
+      "topwordinfo": {
+        "bomba": [
+          "bomb", 
+          1280
+        ], 
+        "bravo": [
+          "bravo", 
+          2464
+        ], 
+        "caff\u00e8": [
+          "coffee", 
+          650
+        ], 
+        "gruppo": [
+          "group", 
+          852
+        ], 
+        "magazzino": [
+          "magazine", 
+          2453
+        ], 
+        "modello": [
+          "model", 
+          1756
+        ], 
+        "razza": [
+          "race", 
+          1174
+        ], 
+        "riso": [
+          "rice", 
+          2315
+        ], 
+        "studio": [
+          "studio", 
+          2207
+        ], 
+        "zero": [
+          "zero", 
+          2384
+        ]
+      }, 
+      "topwords": [
+        "caff\u00e8", 
+        "gruppo", 
+        "razza", 
+        "bomba", 
+        "modello", 
+        "studio", 
+        "riso", 
+        "zero", 
+        "magazzino", 
+        "bravo"
+      ]
     }, 
     {
+      "count": 46, 
       "family": "Romance", 
       "fullname": "Spanish", 
-      "name": "spa"
+      "name": "spa", 
+      "topwordinfo": {
+        "barbacoa": [
+          "barbecue", 
+          6020
+        ], 
+        "cargo": [
+          "cargo", 
+          4812
+        ], 
+        "chocolate": [
+          "chocolate", 
+          2078
+        ], 
+        "cigarro": [
+          "cigar", 
+          6029
+        ], 
+        "embarazar": [
+          "embarrass", 
+          6150
+        ], 
+        "guitarra": [
+          "guitar", 
+          2704
+        ], 
+        "los": [
+          "los", 
+          2889
+        ], 
+        "mona": [
+          "mona", 
+          5474
+        ], 
+        "parada": [
+          "parade", 
+          4344
+        ], 
+        "quite": [
+          "quite", 
+          440
+        ]
+      }, 
+      "topwords": [
+        "quite", 
+        "chocolate", 
+        "guitarra", 
+        "los", 
+        "parada", 
+        "cargo", 
+        "mona", 
+        "barbacoa", 
+        "cigarro", 
+        "embarazar"
+      ]
     }, 
     {
+      "count": 9, 
       "family": "non-IE", 
       "fullname": "Turkish", 
-      "name": "tur"
+      "name": "tur", 
+      "topwordinfo": {
+        "bey": [
+          "bey", 
+          13422
+        ], 
+        "fes": [
+          "fez", 
+          12052
+        ], 
+        "harem": [
+          "harem", 
+          16257
+        ], 
+        "havyar": [
+          "caviar", 
+          9940
+        ], 
+        "hoca": [
+          "hodja", 
+          19109
+        ], 
+        "kahve": [
+          "coffee", 
+          650
+        ], 
+        "kebap": [
+          "kebab", 
+          18026
+        ], 
+        "t\u00fclbent": [
+          "turban", 
+          19738
+        ], 
+        "\u00e7akal": [
+          "jackal", 
+          16531
+        ]
+      }, 
+      "topwords": [
+        "kahve", 
+        "havyar", 
+        "fes", 
+        "bey", 
+        "harem", 
+        "\u00e7akal", 
+        "kebap", 
+        "hoca", 
+        "t\u00fclbent"
+      ]
     }, 
     {
+      "count": 11, 
       "family": "Romance", 
       "fullname": "Portuguese", 
-      "name": "por"
+      "name": "por", 
+      "topwordinfo": {
+        "bambu": [
+          "bamboo", 
+          9150
+        ], 
+        "b\u00fafalo": [
+          "buffalo", 
+          5581
+        ], 
+        "cobra": [
+          "cobra", 
+          9255
+        ], 
+        "comando": [
+          "commando", 
+          13597
+        ], 
+        "embara\u00e7ar": [
+          "embarrass", 
+          6150
+        ], 
+        "feiti\u00e7o": [
+          "fetish", 
+          14959
+        ], 
+        "jaguar": [
+          "jaguar", 
+          12626
+        ], 
+        "manga": [
+          "mango", 
+          12027
+        ], 
+        "moreia": [
+          "moray", 
+          18149
+        ], 
+        "tanque": [
+          "tank", 
+          2592
+        ]
+      }, 
+      "topwords": [
+        "tanque", 
+        "b\u00fafalo", 
+        "embara\u00e7ar", 
+        "bambu", 
+        "cobra", 
+        "manga", 
+        "jaguar", 
+        "comando", 
+        "feiti\u00e7o", 
+        "moreia"
+      ]
     }, 
     {
+      "count": 1676, 
       "family": "Romance", 
       "fullname": "Latin", 
-      "name": "lat"
+      "name": "lat", 
+      "topwordinfo": {
+        "as": [
+          "as", 
+          63
+        ], 
+        "carra": [
+          "car", 
+          241
+        ], 
+        "cursus": [
+          "course", 
+          216
+        ], 
+        "dominus": [
+          "don", 
+          27
+        ], 
+        "familia": [
+          "family", 
+          267
+        ], 
+        "idea": [
+          "idea", 
+          293
+        ], 
+        "realis": [
+          "real", 
+          265
+        ], 
+        "rememorari": [
+          "remember", 
+          229
+        ], 
+        "senior": [
+          "sir", 
+          139
+        ], 
+        "verus": [
+          "very", 
+          110
+        ]
+      }, 
+      "topwords": [
+        "dominus", 
+        "as", 
+        "verus", 
+        "senior", 
+        "cursus", 
+        "rememorari", 
+        "carra", 
+        "realis", 
+        "familia", 
+        "idea"
+      ]
     }, 
     {
+      "count": 5, 
       "family": "non-IE", 
       "fullname": "Malay", 
-      "name": "msa"
+      "name": "msa", 
+      "topwordinfo": {
+        "Pluto": [
+          "plutonium", 
+          15736
+        ], 
+        "Uranus": [
+          "uranium", 
+          12118
+        ], 
+        "bambu": [
+          "bamboo", 
+          9150
+        ], 
+        "keris": [
+          "kris", 
+          10935
+        ], 
+        "padi": [
+          "paddy", 
+          8273
+        ]
+      }, 
+      "topwords": [
+        "padi", 
+        "bambu", 
+        "keris", 
+        "Uranus", 
+        "Pluto"
+      ]
     }, 
     {
+      "count": 26, 
       "family": "non-IE", 
       "fullname": "Arabic", 
-      "name": "ara"
+      "name": "ara", 
+      "topwordinfo": {
+        "\u0628\u0646": [
+          "bin", 
+          5092
+        ], 
+        "\u062c\u0631\u0647": [
+          "jar", 
+          5636
+        ], 
+        "\u0634\u0631\u0627\u0628": [
+          "syrup", 
+          8715
+        ], 
+        "\u0635\u06a9\u0651": [
+          "check", 
+          403
+        ], 
+        "\u0639\u0646\u0628\u0631": [
+          "amber", 
+          4391
+        ], 
+        "\u0639\u0648\u0627\u0631\u064a\u0629": [
+          "average", 
+          3270
+        ], 
+        "\u0642\u0646\u062f\u064a": [
+          "candy", 
+          2235
+        ], 
+        "\u0645\u062e\u0627\u0632\u0646": [
+          "magazine", 
+          2453
+        ], 
+        "\u0645\u0648\u0645\u064a\u0627\u0621": [
+          "mummy", 
+          2556
+        ], 
+        "\u064a\u0633\u0645\u064a\u0646": [
+          "jasmine", 
+          7568
+        ]
+      }, 
+      "topwords": [
+        "\u0635\u06a9\u0651", 
+        "\u0642\u0646\u062f\u064a", 
+        "\u0645\u062e\u0627\u0632\u0646", 
+        "\u0645\u0648\u0645\u064a\u0627\u0621", 
+        "\u0639\u0648\u0627\u0631\u064a\u0629", 
+        "\u0639\u0646\u0628\u0631", 
+        "\u0628\u0646", 
+        "\u062c\u0631\u0647", 
+        "\u064a\u0633\u0645\u064a\u0646", 
+        "\u0634\u0631\u0627\u0628"
+      ]
     }, 
     {
+      "count": 14, 
       "family": "Indo-Iranian", 
       "fullname": "Hindu", 
-      "name": "hin"
+      "name": "hin", 
+      "topwordinfo": {
+        "\u0905\u0928\u094d\u0928": [
+          "anna", 
+          1658
+        ], 
+        "\u0916\u093e\u091f": [
+          "cot", 
+          14059
+        ], 
+        "\u0917\u0941\u0930\u0942": [
+          "guru", 
+          8445
+        ], 
+        "\u091a\u093e\u0901\u092a\u094b": [
+          "shampoo", 
+          9185
+        ], 
+        "\u091a\u0940\u0924\u093e": [
+          "cheetah", 
+          13917
+        ], 
+        "\u091c\u0902\u0917\u0932": [
+          "jungle", 
+          3075
+        ], 
+        "\u092c\u0902\u0917\u0932\u093e": [
+          "bungalow", 
+          10668
+        ], 
+        "\u092c\u093e\u092c\u0942": [
+          "babu", 
+          12341
+        ], 
+        "\u0930\u093e\u0928\u0940": [
+          "rani", 
+          14080
+        ], 
+        "\u0938\u093e\u0921\u093c\u0940": [
+          "sari", 
+          10601
+        ]
+      }, 
+      "topwords": [
+        "\u0905\u0928\u094d\u0928", 
+        "\u091c\u0902\u0917\u0932", 
+        "\u0917\u0941\u0930\u0942", 
+        "\u091a\u093e\u0901\u092a\u094b", 
+        "\u0938\u093e\u0921\u093c\u0940", 
+        "\u092c\u0902\u0917\u0932\u093e", 
+        "\u092c\u093e\u092c\u0942", 
+        "\u091a\u0940\u0924\u093e", 
+        "\u0916\u093e\u091f", 
+        "\u0930\u093e\u0928\u0940"
+      ]
     }, 
     {
+      "count": 15, 
       "family": "Indo-Iranian", 
       "fullname": "Farsi", 
-      "name": "fas"
+      "name": "fas", 
+      "topwordinfo": {
+        "\u062e\u0627\u0646\u0647": [
+          "khan", 
+          4155
+        ], 
+        "\u0633\u0642\u0631\u0644\u0627\u062a": [
+          "scarlet", 
+          10459
+        ], 
+        "\u0634\u0627\u0647": [
+          "shah", 
+          13249
+        ], 
+        "\u0645\u0648\u0645\u06cc\u0627": [
+          "mummy", 
+          2556
+        ], 
+        "\u0647\u0646\u062f\u06cc": [
+          "hindi", 
+          10600
+        ], 
+        "\u067e\u0627\u064a\u062c\u0627\u0645\u0647": [
+          "pajamas", 
+          8581
+        ], 
+        "\u0686\u0646\u06af": [
+          "chang", 
+          5277
+        ], 
+        "\u0686\u06a9": [
+          "check", 
+          403
+        ], 
+        "\u06a9\u0627\u0631\u0648\u0627\u0646": [
+          "caravan", 
+          9362
+        ], 
+        "\u06cc\u0627\u0633\u0645\u06cc\u0646": [
+          "jasmine", 
+          7568
+        ]
+      }, 
+      "topwords": [
+        "\u0686\u06a9", 
+        "\u0645\u0648\u0645\u06cc\u0627", 
+        "\u062e\u0627\u0646\u0647", 
+        "\u0686\u0646\u06af", 
+        "\u06cc\u0627\u0633\u0645\u06cc\u0646", 
+        "\u067e\u0627\u064a\u062c\u0627\u0645\u0647", 
+        "\u06a9\u0627\u0631\u0648\u0627\u0646", 
+        "\u0633\u0642\u0631\u0644\u0627\u062a", 
+        "\u0647\u0646\u062f\u06cc", 
+        "\u0634\u0627\u0647"
+      ]
     }, 
     {
+      "count": 289, 
       "family": "Greek", 
       "fullname": "Greek", 
-      "name": "grc"
+      "name": "grc", 
+      "topwordinfo": {
+        "\u03b2\u03cc\u03bc\u03b2\u03bf\u03c2": [
+          "bomb", 
+          1280
+        ], 
+        "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2": [
+          "government", 
+          880
+        ], 
+        "\u03bc\u03cc\u03c1\u03c6\u03b1": [
+          "form", 
+          1252
+        ], 
+        "\u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7\u03c2": [
+          "planet", 
+          1081
+        ], 
+        "\u03c3\u03ba\u03b7\u03bd\u03ae": [
+          "scene", 
+          943
+        ], 
+        "\u03c4\u03cd\u03c0\u03bf\u03c2": [
+          "type", 
+          1148
+        ], 
+        "\u1f00\u03ba\u03c4\u03ae": [
+          "act", 
+          712
+        ], 
+        "\u1f10\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1": [
+          "energy", 
+          1247
+        ], 
+        "\u1f30\u03b4\u03ad\u03b1": [
+          "idea", 
+          293
+        ], 
+        "\u1f65\u03c1\u03b1": [
+          "hour", 
+          563
+        ]
+      }, 
+      "topwords": [
+        "\u1f30\u03b4\u03ad\u03b1", 
+        "\u1f65\u03c1\u03b1", 
+        "\u1f00\u03ba\u03c4\u03ae", 
+        "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2", 
+        "\u03c3\u03ba\u03b7\u03bd\u03ae", 
+        "\u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7\u03c2", 
+        "\u03c4\u03cd\u03c0\u03bf\u03c2", 
+        "\u1f10\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1", 
+        "\u03bc\u03cc\u03c1\u03c6\u03b1", 
+        "\u03b2\u03cc\u03bc\u03b2\u03bf\u03c2"
+      ]
     }, 
     {
+      "count": 15, 
       "family": "Indo-Iranian", 
       "fullname": "Sanskrit", 
-      "name": "san"
+      "name": "san", 
+      "topwordinfo": {
+        "\u0917\u0941\u0930\u0941": [
+          "guru", 
+          8445
+        ], 
+        "\u091c\u0919\u094d\u0917\u0932": [
+          "jungle", 
+          3075
+        ], 
+        "\u0927\u0930\u094d\u092e": [
+          "dharma", 
+          16736
+        ], 
+        "\u0928\u092e\u0938\u094d\u0924\u0947": [
+          "namaste", 
+          16726
+        ], 
+        "\u0928\u093f\u0930\u094d\u0935\u093e\u0923": [
+          "nirvana", 
+          16932
+        ], 
+        "\u092d\u094d\u0930\u093e\u0924\u0943": [
+          "pal", 
+          1729
+        ], 
+        "\u092f\u094b\u0917": [
+          "yoga", 
+          6518
+        ], 
+        "\u0930\u093e\u091c\u094d\u091e\u0940": [
+          "rani", 
+          14080
+        ], 
+        "\u0938\u0943\u0917\u093e\u0932": [
+          "jackal", 
+          16531
+        ], 
+        "\u0950": [
+          "om", 
+          10482
+        ]
+      }, 
+      "topwords": [
+        "\u092d\u094d\u0930\u093e\u0924\u0943", 
+        "\u091c\u0919\u094d\u0917\u0932", 
+        "\u092f\u094b\u0917", 
+        "\u0917\u0941\u0930\u0941", 
+        "\u0950", 
+        "\u0930\u093e\u091c\u094d\u091e\u0940", 
+        "\u0938\u0943\u0917\u093e\u0932", 
+        "\u0928\u092e\u0938\u094d\u0924\u0947", 
+        "\u0927\u0930\u094d\u092e", 
+        "\u0928\u093f\u0930\u094d\u0935\u093e\u0923"
+      ]
     }, 
     {
+      "count": 8, 
       "family": "non-IE", 
       "fullname": "Hebrew", 
-      "name": "heb"
+      "name": "heb", 
+      "topwordinfo": {
+        "\u05d0\u05de\u05df": [
+          "amen", 
+          2432
+        ], 
+        "\u05d1\u05ea": [
+          "bath", 
+          1947
+        ], 
+        "\u05d4\u05dc\u05dc\u05d5\u05d9\u05d4": [
+          "hallelujah", 
+          6005
+        ], 
+        "\u05db\u05d5\u05d4\u05df": [
+          "cohen", 
+          8778
+        ], 
+        "\u05db\u05e9\u05e8": [
+          "kosher", 
+          14285
+        ], 
+        "\u05de\u05e6\u05d5\u05d5\u05d4": [
+          "mitzvah", 
+          12305
+        ], 
+        "\u05e8\u05d1\u05d9": [
+          "rabbi", 
+          7189
+        ], 
+        "\u05e9\u05dc\u05d5\u05dd": [
+          "shalom", 
+          15639
+        ]
+      }, 
+      "topwords": [
+        "\u05d1\u05ea", 
+        "\u05d0\u05de\u05df", 
+        "\u05d4\u05dc\u05dc\u05d5\u05d9\u05d4", 
+        "\u05e8\u05d1\u05d9", 
+        "\u05db\u05d5\u05d4\u05df", 
+        "\u05de\u05e6\u05d5\u05d5\u05d4", 
+        "\u05db\u05e9\u05e8", 
+        "\u05e9\u05dc\u05d5\u05dd"
+      ]
     }
   ]
 }
