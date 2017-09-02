@@ -109,7 +109,7 @@ angular.module('cognatreeApp')
 
               prevSelected
                 .selectAll(".word")
-                  .attr("visibility", "collapse")
+                  .attr("visibility", "hidden")
                 
               
               if (wasSelected) {
@@ -197,7 +197,7 @@ angular.module('cognatreeApp')
             function getNodeWordInfo(nodeData) {
               // Hack
               if (nodeData.show == undefined) {
-                nodeData.show = "collapse";
+                nodeData.show = "hidden";
               }
 
               var info = [];
@@ -226,13 +226,23 @@ angular.module('cognatreeApp')
             }
             
             // Experimental
-            node.selectAll(".word")
+            var enterWord = node.selectAll(".word")
                 .data(getNodeWordInfo)
                 //.data(function(d) {return d.topwords; })
-                  .enter()
-                    .append("text")
+            .enter().append('g');
+            enterWord.append("rect")
                       .attr("class", "word")
-                      .attr("fill", "grey")
+                      .attr("fill", "white")
+                      .attr("opacity", "0.9")
+                      .attr("visibility", function(d) {return d.parent.show})
+                      .attr("x", function(d) {return d.x - 3;})
+                      .attr("y", function(d, i) {return d.y + d.dy * (i + 1) - 10;})
+                      .attr("height", 15)
+                      .attr("width", function(d) { return 80; })
+              
+            enterWord.append("text")
+                      .attr("class", "word")
+                      .attr("fill", "black")
                       .attr("visibility", function(d) {return d.parent.show})
                       .attr("text-anchor", function(d) {return d.anchor;})
                       .attr("x", function(d) {return d.x;})
