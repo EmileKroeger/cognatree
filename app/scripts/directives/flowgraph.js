@@ -90,6 +90,7 @@ angular.module('cognatreeApp')
                 .text(function(d) { return d.source.name + " → " + d.target.name + "\n" + format(d.value); });
 
             function selectNode(targetNode, targetData) {
+              // Callback for when a node is selected.
               //console.debug(["click", targetData.fullname]);
               
               //window.target = targetNode;
@@ -105,10 +106,18 @@ angular.module('cognatreeApp')
 
               prevSelected.select("text")
                 .attr("font-weight", "normal");
+
+              prevSelected
+                .selectAll(".word")
+                  .attr("visibility", "collapse")
+                
               
               if (wasSelected) {
                 // Just unselect, abort now.
+                //argetData.show = "collapse";
                 return;
+              } else {
+                //targetNode.show == "visible";
               }
 
               d3.select(targetNode)
@@ -120,6 +129,26 @@ angular.module('cognatreeApp')
                 .select("text")
                   .attr("font-weight", "bold");
               //console.debug(targetNode);
+
+              d3.select(targetNode)
+                .selectAll(".word")
+                  .attr("visibility", "visible")
+              
+              // Now do something with the data
+              console.debug(targetData.topwords);
+              console.debug(targetData.topwordinfo);
+              
+              /*
+              d3.select(targetNode)
+                .append("text")
+                //.data(targetData.topwords)
+                .attr("x", function(d) { return targetData.x0; })
+                .attr("y", function(d) { return targetData.y1; })
+                .attr("dy", "0.40em")
+                .attr("text-anchor", "beginning")
+                .text(function(d) { console.debug(d); return d;})
+              */
+              
             }
 
             node = node
@@ -128,8 +157,6 @@ angular.module('cognatreeApp')
                 .on("click", function(target) {
                   var targetData = d3.event.target.__data__;
                   selectNode(this, targetData);
-                  console.debug(targetData.topwords);
-                  console.debug(targetData.topwordinfo);
                 })
                 /*
             .call(d3.drag()
@@ -166,6 +193,51 @@ angular.module('cognatreeApp')
 
             node.append("title")
                 .text(function(d) { return d.name + "\n" + format(d.value); });
+            
+            function getNodeWordInfo(nodeData) {
+              // Hack
+              if (nodeData.show == undefined) {
+                nodeData.show = "collapse";
+              }
+
+              var info = [];
+              nodeData.topwords.forEach(function(word) {
+                var wordinfo = nodeData.topwordinfo[word];
+                var item = {
+                  x: nodeData.x0 - 8,
+                  y: (nodeData.y0 + nodeData.y1) / 2,
+                  anchor: "end",
+                  word: word,
+                  finalword: wordinfo[0],
+                  parent: nodeData,
+                  dy: 15,
+                };
+                if (nodeData.x0 < width / 2) {
+                  // Left half of graph
+                  item.x = nodeData.x1 + 8;
+                  item.anchor = "start";
+                }
+                if (item.y > height / 2) {
+                  item.dy = -15;
+                }
+                info.push(item);
+              })
+              return info;
+            }
+            
+            // Experimental
+            node.selectAll(".word")
+                .data(getNodeWordInfo)
+                //.data(function(d) {return d.topwords; })
+                  .enter()
+                    .append("text")
+                      .attr("class", "word")
+                      .attr("fill", "grey")
+                      .attr("visibility", function(d) {return d.parent.show})
+                      .attr("text-anchor", function(d) {return d.anchor;})
+                      .attr("x", function(d) {return d.x;})
+                      .attr("y", function(d, i) {return d.y + d.dy * (i + 1);})
+                      .text(function(d) {return d.word + ' (' + d.finalword + ')';})
           });
         });
       },
