@@ -107,10 +107,12 @@ angular.module('cognatreeApp')
               prevSelected.select("text")
                 .attr("font-weight", "normal");
 
-              prevSelected
-                .selectAll(".word")
-                  .attr("visibility", "hidden")
+              //prevSelected
+              //  .selectAll(".word")
+              //    .attr("visibility", "hidden")
                 
+              d3.selectAll(".word")
+                  .attr("visibility", "hidden")
               
               if (wasSelected) {
                 // Just unselect, abort now.
@@ -130,7 +132,7 @@ angular.module('cognatreeApp')
                   .attr("font-weight", "bold");
               //console.debug(targetNode);
 
-              d3.select(targetNode)
+              d3.select("#hover-" + targetData.name)
                 .selectAll(".word")
                   .attr("visibility", "visible")
               
@@ -153,7 +155,8 @@ angular.module('cognatreeApp')
 
             node = node
               .data(langdata.nodes)
-              .enter().append("g")
+              .enter()
+                .append("g")
                 .on("click", function(target) {
                   var targetData = d3.event.target.__data__;
                   selectNode(this, targetData);
@@ -204,7 +207,8 @@ angular.module('cognatreeApp')
               nodeData.topwords.forEach(function(word) {
                 var wordinfo = nodeData.topwordinfo[word];
                 var item = {
-                  x: nodeData.x0 - 8,
+                  x: nodeData.x0 - 8, // Not used?
+                  boxx: 0,
                   y: (nodeData.y0 + nodeData.y1) / 2,
                   anchor: "end",
                   word: word,
@@ -215,8 +219,12 @@ angular.module('cognatreeApp')
                 if (nodeData.x0 < width / 2) {
                   // Left half of graph
                   item.x = nodeData.x1 + 8;
+                  item.boxx = item.x;
                   item.anchor = "start";
+                } else {
+                  item.boxx = item.x - 80;
                 }
+                
                 if (item.y > height / 2) {
                   item.dy = -15;
                 }
@@ -225,29 +233,37 @@ angular.module('cognatreeApp')
               return info;
             }
             
-            // Experimental
-            var enterWord = node.selectAll(".word")
-                .data(getNodeWordInfo)
-                //.data(function(d) {return d.topwords; })
-            .enter().append('g');
-            enterWord.append("rect")
-                      .attr("class", "word")
-                      .attr("fill", "white")
-                      .attr("opacity", "0.9")
-                      .attr("visibility", function(d) {return d.parent.show})
-                      .attr("x", function(d) {return d.x - 3;})
-                      .attr("y", function(d, i) {return d.y + d.dy * (i + 1) - 10;})
-                      .attr("height", 15)
-                      .attr("width", function(d) { return 80; })
-              
-            enterWord.append("text")
-                      .attr("class", "word")
-                      .attr("fill", "black")
-                      .attr("visibility", function(d) {return d.parent.show})
-                      .attr("text-anchor", function(d) {return d.anchor;})
-                      .attr("x", function(d) {return d.x;})
-                      .attr("y", function(d, i) {return d.y + d.dy * (i + 1);})
-                      .text(function(d) {return d.word + ' (' + d.finalword + ')';})
+
+            var hovernodes = svg.selectAll(".hovernode")
+              .data(langdata.nodes)
+                .enter()
+                  .append("g")
+            .attr("class", "hovernode")
+            .attr("id", function(d) {return "hover-" + d.name;})
+
+                  // Experimental
+                  var enterWord = hovernodes.selectAll(".word")
+                      .data(getNodeWordInfo)
+                      //.data(function(d) {return d.topwords; })
+                  .enter().append('g');
+                  enterWord.append("rect")
+                            .attr("class", "word")
+                            .attr("fill", "white")
+                            .attr("opacity", "0.75")
+                            .attr("visibility", function(d) {return d.parent.show})
+                            .attr("x", function(d) {return d.boxx - 3;})
+                            .attr("y", function(d, i) {return d.y + d.dy * (i + 1) - 10;})
+                            .attr("height", 15)
+                            .attr("width", function(d) { return 80; })
+
+                  enterWord.append("text")
+                            .attr("class", "word")
+                            .attr("fill", "black")
+                            .attr("visibility", function(d) {return d.parent.show})
+                            .attr("text-anchor", function(d) {return d.anchor;})
+                            .attr("x", function(d) {return d.x;})
+                            .attr("y", function(d, i) {return d.y + d.dy * (i + 1);})
+                            .text(function(d) {return d.word + ' (' + d.finalword + ')';})
           });
         });
       },
