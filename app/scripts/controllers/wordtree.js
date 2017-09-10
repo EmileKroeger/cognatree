@@ -126,6 +126,7 @@ angular.module('cognatreeApp')
     var FAMCOLORS = {
       null: '#aaaaaa',
       '?': '#aaaaaa',
+      'non Indo-European': '#000000',
       'Celtic': '#00ff00',
       'Osco-Umbrian': '#00dddd',
       'Romance': '#00dddd',
