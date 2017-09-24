@@ -24,8 +24,16 @@
     <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
-          <li><a ng-href="#/words">Indo-European Cognates</a></li>
-          <li><a ng-href="#/decomposition/eng">Origins of English</a></li>
+          <li>
+            <a ng-href="#/words">
+              <img src="images/tree_icon.png"></img>
+              Indo-European Cognates
+            </a>
+          </li>
+          <li><a ng-href="#/decomposition/eng">
+              <img src="images/sankey_icon.png"></img>
+            Origins of English
+          </a></li>
         </ul>
         <h3 class="text-muted" ><a  href="#/main"class="text-muted">Language explorations</a></h3>
       </div>
@@ -33,7 +41,11 @@
       <div ng-view=""></div>
 
       <div class="footer">
-        <p>Built by Emile Kroeger</p>
+        <p>Built by Emile Kroeger -
+          <a href="https://github.com/EmileKroeger/">github</a>,
+          <a href="https://themadmapmaker.wordpress.com/">blog</a>,
+          <a href="https://themadmapmaker.wordpress.com/">twitter</a>,
+        </p>
       </div>
     </div>
 

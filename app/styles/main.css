@@ -131,6 +131,10 @@ table {
   margin-bottom: 0px;
 }
 
+.celllabel {
+  padding-left: 2px;
+}
+
 .secondary {
   font-style: italic;
   opacity: 0.5;
@@ -164,4 +168,21 @@ table {
 
 .langbox {
   border: 1px solid black;
+}
+
+.pagechoice {
+  width: 340px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  margin: 3px;
+}
+
+.pagechoice img {
+  display: block;
+  margin: 0 auto;
+  padding: 3px;
+}
+
+.pagechoice h3 {
+  text-align: center;
 }
