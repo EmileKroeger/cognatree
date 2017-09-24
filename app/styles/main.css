@@ -29,6 +29,7 @@ body {
   padding-top: 19px;
   color: #777;
   border-top: 1px solid #e5e5e5;
+  text-align: right;
 }
 
 /* Customize container */
@@ -172,17 +173,34 @@ table {
 
 .pagechoice {
   width: 340px;
-  border: 1px solid lightblue;
-  border-radius: 5px;
+  border: 2px solid rgb(102, 102, 255);
+  border-radius: 14px;
   margin: 3px;
+  padding: 0px;
+  margin-bottom: 10px;
 }
 
 .pagechoice img {
   display: block;
   margin: 0 auto;
   padding: 3px;
+  padding-top: 8px;
 }
 
 .pagechoice h3 {
-  text-align: center;
+    text-align: center;
+    background-color: rgb(102, 102, 255);
+    margin: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+
+.pagechoice p {
+  color: black;
+}
+
+.text {
+  padding: 6px;
 }
